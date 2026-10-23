@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.029999mm"
+   height="34.02mm"
+   viewBox="0 0 70.029999 34.02"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="dessin-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.8684603"
+     inkscape:cx="184.14446"
+     inkscape:cy="131.86921"
+     inkscape:window-width="1280"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.316676,-97.102091)">
+    <g
+       class="Group"
+       id="g23"
+       transform="matrix(0.01,0,0,0.01,15.816676,46.622091)">
+       <g
+   class="com.sun.star.drawing.PolyPolygonShape"
+   id="g17">
+        <g
+   id="id3">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="6250"
+   y="5048"
+   width="7003"
+   height="3402"
+   id="rect16" />
+
+         <path
+   fill="#fefefe"
+   stroke="none"
+   d="m 6250,5048 v 3401 h 7001 V 5048 Z"
+   id="path17" />
+
+        </g>
+
+       </g>
+
+       <g
+   class="com.sun.star.drawing.PolyPolygonShape"
+   id="g18">
+        <g
+   id="id4">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="6450"
+   y="5248"
+   width="6602"
+   height="3002"
+   id="rect17" />
+
+         <path
+   fill="#0000ff"
+   stroke="none"
+   d="m 6450,5248 v 3001 h 6601 V 5248 Z"
+   id="path18" />
+
+        </g>
+
+       </g>
+
+       <g
+   class="Group"
+   id="g22">
+        <g
+   class="com.sun.star.drawing.ClosedBezierShape"
+   id="g19">
+         <g
+   id="id5">
+          <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="11189"
+   y="5747"
+   width="1363"
+   height="2002"
+   id="rect18" />
+
+          <path
+   fill="#fefefe"
+   stroke="none"
+   d="m 11502,7174 c 6,33 17,63 33,92 15,29 34,54 57,75 23,22 49,40 78,54 29,14 60,24 93,31 33,4 66,7 100,7 35,0 68,-3 101,-7 44,-8 83,-23 119,-46 35,-23 65,-51 89,-83 25,-33 42,-70 52,-111 10,-41 12,-82 4,-124 -5,-34 -15,-66 -31,-96 -16,-30 -35,-56 -59,-78 -23,-23 -50,-42 -80,-58 -29,-15 -61,-26 -94,-32 -36,-5 -72,-7 -110,-6 -37,1 -74,4 -109,11 -35,8 -70,17 -104,30 -35,12 -68,28 -99,46 l -271,-222 104,-910 h 1037 v 315 h -748 l -50,436 -2,10 c 66,-18 133,-28 200,-32 69,-4 135,0 201,11 44,7 86,19 126,33 41,15 78,34 112,56 35,21 67,46 98,74 31,29 58,59 81,92 24,32 44,67 62,103 17,37 30,75 40,115 11,40 17,81 18,123 2,42 -1,85 -7,129 -11,68 -32,131 -63,190 -32,60 -70,112 -117,158 -46,46 -99,85 -159,115 -59,30 -123,51 -191,62 -50,8 -100,11 -151,11 -51,0 -101,-3 -151,-11 -66,-11 -128,-31 -185,-60 -57,-29 -108,-65 -154,-108 -46,-42 -84,-92 -116,-148 -33,-56 -55,-117 -67,-184 z"
+   id="path19" />
+
+         </g>
+
+        </g>
+
+        <g
+   class="com.sun.star.drawing.ClosedBezierShape"
+   id="g20">
+         <g
+   id="id6">
+          <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="9304"
+   y="5747"
+   width="1363"
+   height="2002"
+   id="rect19" />
+
+          <path
+   fill="#fefefe"
+   stroke="none"
+   d="m 9617,7174 c 6,33 17,63 33,92 15,29 34,54 57,75 23,22 49,40 78,54 29,14 60,24 93,31 33,4 66,7 100,7 35,0 68,-3 101,-7 44,-8 83,-23 119,-46 35,-23 65,-51 89,-83 25,-33 42,-70 52,-111 10,-41 12,-82 4,-124 -5,-34 -15,-66 -31,-96 -16,-30 -35,-56 -59,-78 -23,-23 -50,-42 -80,-58 -29,-15 -61,-26 -94,-32 -36,-5 -72,-7 -110,-6 -37,1 -74,4 -109,11 -35,8 -70,17 -104,30 -35,12 -68,28 -99,46 l -271,-222 104,-910 h 1037 v 315 h -748 l -50,436 -2,10 c 66,-18 133,-28 200,-32 69,-4 135,0 201,11 44,7 86,19 126,33 41,15 78,34 112,56 35,21 67,46 98,74 31,29 58,59 81,92 24,32 44,67 62,103 17,37 30,75 41,115 10,40 16,81 17,123 2,42 -1,85 -7,129 -11,68 -32,131 -63,190 -32,60 -70,112 -117,158 -46,46 -99,85 -159,115 -59,30 -123,51 -191,62 -50,8 -100,11 -151,11 -51,0 -101,-3 -151,-11 -66,-11 -127,-31 -185,-60 -57,-29 -108,-65 -154,-108 -46,-42 -84,-92 -116,-148 -33,-56 -55,-117 -67,-184 z"
+   id="path20" />
+
+         </g>
+
+        </g>
+
+        <g
+   class="com.sun.star.drawing.PolyPolygonShape"
+   id="g21">
+         <g
+   id="id7">
+          <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="6949"
+   y="5751"
+   width="1369"
+   height="2001"
+   id="rect20" />
+
+          <path
+   fill="#fefefe"
+   stroke="none"
+   d="m 7432,7081 h 403 l -203,-869 z m 0,0 z m -483,670 457,-1999 h 455 l 455,1999 h -332 l -78,-348 h -544 l -79,348 z"
+   id="path21" />
+
+         </g>
+
+        </g>
+
+       </g>
+
+      </g>
+  </g>
+</svg>

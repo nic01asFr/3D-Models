@@ -1,0 +1,956 @@
+code,type,famille,niveau,statut,svg,variantes,variantes_svg,classe_modele,glb,bucket
+A1,panneau,A,signal,defini,,4,4,False,False,4 à dessiner (pas de source)
+A1a,panneau,A,signal,defini,A1a,0,0,True,True,1 modélisé (192 classes)
+A1b,panneau,A,signal,defini,A1b,0,0,True,True,1 modélisé (192 classes)
+A1c,panneau,A,signal,defini,A1c,0,0,True,True,1 modélisé (192 classes)
+A1d,panneau,A,signal,defini,A1d,0,0,True,True,1 modélisé (192 classes)
+A2a,panneau,A,signal,defini,A2a,0,0,True,True,1 modélisé (192 classes)
+A2b,panneau,A,signal,defini,A2b,0,0,True,True,1 modélisé (192 classes)
+A3,panneau,A,signal,defini,A3,2,2,True,True,1 modélisé (192 classes)
+A3a,panneau,A,signal,defini,A3a,0,0,True,True,1 modélisé (192 classes)
+A3b,panneau,A,signal,defini,A3b,0,0,True,True,1 modélisé (192 classes)
+A6,panneau,A,signal,defini,A6,1,1,True,True,1 modélisé (192 classes)
+A7,panneau,A,signal,defini,A7,1,0,True,True,1 modélisé (192 classes)
+A7bis,panneau,A,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+A8,panneau,A,signal,defini,A8,1,0,True,True,1 modélisé (192 classes)
+A8bis,panneau,A,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+A9a,panneau,A,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+A9b,panneau,A,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+A13a,panneau,A,signal,defini,A13a,0,0,True,True,1 modélisé (192 classes)
+A13b,panneau,A,signal,defini,A13b,0,0,True,True,1 modélisé (192 classes)
+A14,panneau,A,signal,defini,A14,0,0,True,True,1 modélisé (192 classes)
+A15,panneau,A,signal,defini,,4,4,False,False,4 à dessiner (pas de source)
+A15a1,panneau,A,signal,defini,A15a1,0,0,True,True,1 modélisé (192 classes)
+A15a2,panneau,A,signal,defini,A15a2,0,0,True,True,1 modélisé (192 classes)
+A15b,panneau,A,signal,defini,A15b,0,0,True,True,1 modélisé (192 classes)
+A15c,panneau,A,signal,defini,A15c,0,0,True,True,1 modélisé (192 classes)
+A16,panneau,A,signal,defini,A16,1,1,True,True,1 modélisé (192 classes)
+A17,panneau,A,signal,defini,A17,1,1,True,True,1 modélisé (192 classes)
+A18,panneau,A,signal,defini,A18,0,0,True,True,1 modélisé (192 classes)
+A19,panneau,A,signal,defini,A19,0,0,True,True,1 modélisé (192 classes)
+A20,panneau,A,signal,defini,A20,1,1,True,True,1 modélisé (192 classes)
+A21,panneau,A,signal,defini,A21,0,0,True,True,1 modélisé (192 classes)
+A23,panneau,A,signal,defini,A23,0,0,True,True,1 modélisé (192 classes)
+A24,panneau,A,signal,defini,A24,0,0,True,True,1 modélisé (192 classes)
+M1,panonceau,M,signal,defini,M1,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+M2,panonceau,M,signal,defini,M2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M5,panonceau,M,signal,defini,M5,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9,panonceau,M,signal,defini,,2,1,False,False,4 à dessiner (pas de source)
+M9a,panonceau,M,signal,defini,M9a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9b,panonceau,M,signal,defini,M9b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9d,panonceau,M,signal,cite_seulement,M9d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9j1,panonceau,M,signal,defini,M9j1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9j2,panonceau,M,signal,defini,M9j2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9z,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+B0,panneau,B,signal,defini,B0,0,0,True,True,1 modélisé (192 classes)
+B6d,panneau,B,signal,defini,B6d,0,0,True,True,1 modélisé (192 classes)
+B12,panneau,B,signal,defini,B12,0,0,True,True,1 modélisé (192 classes)
+B14,panneau,B,signal,defini,,1,0,False,False,4 à dessiner (pas de source)
+B15,panneau,B,signal,defini,B15,0,0,True,True,1 modélisé (192 classes)
+C18,panneau,C,signal,defini,C18,0,0,True,True,1 modélisé (192 classes)
+C24a,panneau,C,signal,defini,C24a,0,0,True,True,1 modélisé (192 classes)
+D42,panneau,D,signal,defini,,3,1,False,False,3 gabarit paramétrique (direction/texte)
+C27,panneau,C,signal,defini,C27,0,0,True,True,1 modélisé (192 classes)
+C50,panneau,C,signal,defini,C50,0,0,True,True,1 modélisé (192 classes)
+J1,balise,J,signal,defini,,1,0,False,False,5 feu/balise/dispositif : modèle dédié
+J4,balise,J,signal,defini,,2,0,False,False,5 feu/balise/dispositif : modèle dédié
+J6,balise,J,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+J7,balise,J,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+J3,balise,J,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+J10,balise,J,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+G1,panneau,G,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+G1bis,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1a,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1abis,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1b,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1bbis,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1c,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G1cbis,panneau,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G2,autre,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G3,autre,G,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+R1,panneau,R,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+R24,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R11,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+XK3,panneau,XK,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XA13b,panneau,XA,signal,defini,XA13b,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+KC1,panneau,KC,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+AB4,panneau,AB,signal,defini,AB4,0,0,True,True,1 modélisé (192 classes)
+A4,panneau,A,signal,defini,A4,0,0,True,True,1 modélisé (192 classes)
+AB1,panneau,AB,signal,defini,AB1,0,0,True,True,1 modélisé (192 classes)
+AB2,panneau,AB,signal,defini,AB2,0,0,True,True,1 modélisé (192 classes)
+AB3a,panneau,AB,signal,defini,AB3a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+AB3b,panneau,AB,signal,defini,AB3b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+AB5,panneau,AB,signal,defini,AB5,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+AB25,panneau,AB,signal,defini,AB25,0,0,True,True,1 modélisé (192 classes)
+AB6,panneau,AB,signal,defini,AB6,0,0,True,True,1 modélisé (192 classes)
+AB7,panneau,AB,signal,defini,AB7,0,0,True,True,1 modélisé (192 classes)
+M7,panonceau,M,signal,defini,M7,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9c,panonceau,M,signal,cite_seulement,M9c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B1,panneau,B,signal,defini,B1,1,1,True,True,1 modélisé (192 classes)
+B2,panneau,B,signal,cite_seulement,,3,3,False,False,4 à dessiner (pas de source)
+B21,panneau,B,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+J5,balise,J,signal,defini,J5,0,0,True,True,1 modélisé (192 classes)
+D43,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D42b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+R11j,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R22j,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13j,autre,R,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+B1j,panneau,B,signal,defini,B1j,0,0,True,True,1 modélisé (192 classes)
+B2a,panneau,B,signal,defini,B2a,0,0,True,True,1 modélisé (192 classes)
+B2b,panneau,B,signal,defini,B2b,0,0,True,True,1 modélisé (192 classes)
+B2c,panneau,B,signal,defini,B2c,0,0,True,True,1 modélisé (192 classes)
+B3,panneau,B,signal,defini,B3,0,0,True,True,1 modélisé (192 classes)
+B3a,panneau,B,signal,defini,B3a,0,0,True,True,1 modélisé (192 classes)
+B4,panneau,B,signal,defini,B4,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B5a,panneau,B,signal,defini,B5a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B5b,panneau,B,signal,defini,B5b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B5c,panneau,B,signal,defini,B5c,0,0,True,True,1 modélisé (192 classes)
+B6,panneau,B,signal,cite_seulement,,3,1,False,False,4 à dessiner (pas de source)
+B6a1,panneau,B,signal,defini,B6a1,0,0,True,True,1 modélisé (192 classes)
+B6a2,panneau,B,signal,defini,B6a2,0,0,True,True,1 modélisé (192 classes)
+B6a3,panneau,B,signal,defini,B6a3,0,0,True,True,1 modélisé (192 classes)
+B6b,panneau,B,signal,defini,,5,5,False,False,4 à dessiner (pas de source)
+B6b1,panneau,B,signal,defini,B6b1,0,0,True,True,1 modélisé (192 classes)
+B6b2,panneau,B,signal,defini,B6b2,0,0,True,True,1 modélisé (192 classes)
+B6b3,panneau,B,signal,defini,B6b3,0,0,True,True,1 modélisé (192 classes)
+B6b4,panneau,B,signal,defini,B6b4,0,0,True,True,1 modélisé (192 classes)
+B6b5,panneau,B,signal,defini,B6b5,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B7a,panneau,B,signal,defini,B7a,0,0,True,True,1 modélisé (192 classes)
+B7b,panneau,B,signal,defini,B7b,0,0,True,True,1 modélisé (192 classes)
+B8,panneau,B,signal,defini,B8,0,0,True,True,1 modélisé (192 classes)
+B9a,panneau,B,signal,defini,B9a,0,0,True,True,1 modélisé (192 classes)
+B9b,panneau,B,signal,defini,B9b,0,0,True,True,1 modélisé (192 classes)
+B9c,panneau,B,signal,defini,B9c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B9d,panneau,B,signal,defini,B9d,0,0,True,True,1 modélisé (192 classes)
+B9e,panneau,B,signal,defini,B9e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B9f,panneau,B,signal,defini,B9f,0,0,True,True,1 modélisé (192 classes)
+B9g,panneau,B,signal,defini,B9g,0,0,True,True,1 modélisé (192 classes)
+B9h,panneau,B,signal,defini,B9h,0,0,True,True,1 modélisé (192 classes)
+B9i,panneau,B,signal,defini,B9i,0,0,True,True,1 modélisé (192 classes)
+B10a,panneau,B,signal,defini,B10a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B11,panneau,B,signal,defini,B11,1,0,True,True,1 modélisé (192 classes)
+B13,panneau,B,signal,defini,B13,0,0,True,True,1 modélisé (192 classes)
+B13a,panneau,B,signal,defini,B13a,0,0,True,True,1 modélisé (192 classes)
+B16,panneau,B,signal,defini,B16,0,0,True,True,1 modélisé (192 classes)
+B17,panneau,B,signal,defini,B17,0,0,True,True,1 modélisé (192 classes)
+B18a,panneau,B,signal,defini,B18a,0,0,True,True,1 modélisé (192 classes)
+B18b,panneau,B,signal,defini,B18b,0,0,True,True,1 modélisé (192 classes)
+B18c,panneau,B,signal,defini,B18c,0,0,True,True,1 modélisé (192 classes)
+B19,panneau,B,signal,defini,B19,0,0,True,True,1 modélisé (192 classes)
+B6a,panneau,B,signal,cite_seulement,,3,3,False,False,4 à dessiner (pas de source)
+B21-1,panneau,B,signal,defini,B21-1,0,0,True,True,1 modélisé (192 classes)
+B21-2,panneau,B,signal,defini,B21-2,0,0,True,True,1 modélisé (192 classes)
+B21a1,panneau,B,signal,defini,B21a1,0,0,True,True,1 modélisé (192 classes)
+B21a2,panneau,B,signal,defini,B21a2,0,0,True,True,1 modélisé (192 classes)
+B21b,panneau,B,signal,defini,B21b,0,0,True,True,1 modélisé (192 classes)
+B21c1,panneau,B,signal,defini,B21c1,0,0,True,True,1 modélisé (192 classes)
+B21c2,panneau,B,signal,defini,B21c2,0,0,True,True,1 modélisé (192 classes)
+B21d1,panneau,B,signal,defini,B21d1,0,0,True,True,1 modélisé (192 classes)
+B21d2,panneau,B,signal,defini,B21d2,0,0,True,True,1 modélisé (192 classes)
+B21e,panneau,B,signal,defini,B21e,0,0,True,True,1 modélisé (192 classes)
+B22a,panneau,B,signal,defini,B22a,0,0,True,True,1 modélisé (192 classes)
+B22b,panneau,B,signal,defini,B22b,0,0,True,True,1 modélisé (192 classes)
+B22c,panneau,B,signal,defini,B22c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B25,panneau,B,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+B26,panneau,B,signal,defini,B26,1,0,True,True,1 modélisé (192 classes)
+XB26,panneau,XB,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+B27a,panneau,B,signal,defini,B27a,0,0,True,True,1 modélisé (192 classes)
+B27b,panneau,B,signal,defini,B27b,0,0,True,True,1 modélisé (192 classes)
+B29,panneau,B,signal,defini,B29,0,0,True,True,1 modélisé (192 classes)
+B58,panneau,B,signal,defini,B58,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B59,panneau,B,signal,defini,B59,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B56,panneau,B,signal,defini,B56,0,0,True,True,1 modélisé (192 classes)
+B57,panneau,B,signal,defini,B57,0,0,True,True,1 modélisé (192 classes)
+B30,panneau,B,signal,defini,,0,0,True,False,4 à dessiner (pas de source)
+B51,panneau,B,signal,defini,,0,0,True,False,4 à dessiner (pas de source)
+B52,panneau,B,signal,defini,B52,0,0,True,True,1 modélisé (192 classes)
+B53,panneau,B,signal,defini,B53,0,0,True,True,1 modélisé (192 classes)
+B54,panneau,B,signal,defini,B54,0,0,True,True,1 modélisé (192 classes)
+B55,panneau,B,signal,defini,B55,0,0,True,True,1 modélisé (192 classes)
+B31,panneau,B,signal,defini,B31,0,0,True,True,1 modélisé (192 classes)
+B33,panneau,B,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+B34,panneau,B,signal,defini,B34,1,1,True,True,1 modélisé (192 classes)
+B34a,panneau,B,signal,defini,B34a,0,0,True,True,1 modélisé (192 classes)
+B35,panneau,B,signal,defini,B35,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B39,panneau,B,signal,defini,B39,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B40,panneau,B,signal,defini,B40,0,0,True,True,1 modélisé (192 classes)
+B41,panneau,B,signal,defini,B41,0,0,True,True,1 modélisé (192 classes)
+B42,panneau,B,signal,defini,B42,0,0,True,True,1 modélisé (192 classes)
+B43,panneau,B,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+B44,panneau,B,signal,defini,B44,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B45,panneau,B,signal,defini,,0,0,True,False,4 à dessiner (pas de source)
+B49,panneau,B,signal,defini,B49,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B50,panneau,B,signal,cite_seulement,,5,5,False,False,4 à dessiner (pas de source)
+B50a,panneau,B,signal,defini,B50a,0,0,True,True,1 modélisé (192 classes)
+B50b,panneau,B,signal,defini,B50b,0,0,True,True,1 modélisé (192 classes)
+B50c,panneau,B,signal,defini,B50c,0,0,True,True,1 modélisé (192 classes)
+B50d,panneau,B,signal,defini,B50d,0,0,True,True,1 modélisé (192 classes)
+B50e,panneau,B,signal,defini,B50e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+B21a,panneau,B,signal,cite_seulement,,2,2,False,False,4 à dessiner (pas de source)
+EB10,panneau,EB,signal,defini,EB10,0,0,True,True,1 modélisé (192 classes)
+EB20,panneau,EB,signal,defini,EB20,0,0,True,True,1 modélisé (192 classes)
+C1,panneau,C,signal,cite_seulement,,1,1,False,False,4 à dessiner (pas de source)
+C1b,panneau,C,signal,defini,C1b,5,3,True,True,1 modélisé (192 classes)
+CE64d,panneau,CE,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XCE64d,autre,XCE,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D42a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+SC,autre,SC,famille,defini,,4,3,False,False,4 à dessiner (pas de source)
+R2,autre,R,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+M3,panonceau,M,signal,defini,,3,1,False,False,4 à dessiner (pas de source)
+M3a,panonceau,M,signal,defini,,1,1,False,False,4 à dessiner (pas de source)
+M3a1,panonceau,M,signal,defini,M3a1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M3d,panonceau,M,signal,defini,M3d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M4,panonceau,M,signal,defini,,5,5,False,False,4 à dessiner (pas de source)
+M4d2,panonceau,M,signal,defini,M4d2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M4e,panonceau,M,signal,defini,M4e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M4f,panonceau,M,signal,defini,M4f,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M4z,panonceau,M,signal,defini,M4z,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6,panonceau,M,signal,defini,,12,9,False,False,4 à dessiner (pas de source)
+M6a,panonceau,M,signal,defini,M6a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6b,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+M6c,panonceau,M,signal,defini,M6c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6d,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+M6e,panonceau,M,signal,defini,M6e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6f,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+M6g,panonceau,M,signal,defini,M6g,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6h,panonceau,M,signal,defini,M6h,0,0,True,True,1 modélisé (192 classes)
+M6i,panonceau,M,signal,defini,M6i,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6j,panonceau,M,signal,defini,M6j,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6k1,panonceau,M,signal,defini,M6k1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M6k2,panonceau,M,signal,defini,M6k2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8,panonceau,M,signal,defini,,6,6,False,False,4 à dessiner (pas de source)
+M8a,panonceau,M,signal,defini,M8a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8b,panonceau,M,signal,defini,M8b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8c,panonceau,M,signal,defini,M8c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8d,panonceau,M,signal,defini,M8d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8e,panonceau,M,signal,defini,M8e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M8f,panonceau,M,signal,defini,M8f,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M10a,panonceau,M,signal,defini,M10a,1,0,False,False,"2 pictogramme officiel dispo, à produire"
+M11b,panonceau,M,signal,defini,,2,2,False,False,4 à dessiner (pas de source)
+M11b1,panonceau,M,signal,defini,M11b1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M11b2,panonceau,M,signal,defini,M11b2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M11c,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+M11d,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+C,panneau,C,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+C1a,panneau,C,signal,defini,C1a,8,4,True,True,1 modélisé (192 classes)
+C1c,panneau,C,signal,defini,C1c,6,3,True,True,1 modélisé (192 classes)
+C3,panneau,C,signal,defini,C3,0,0,True,True,1 modélisé (192 classes)
+C4a,panneau,C,signal,defini,,0,0,True,False,4 à dessiner (pas de source)
+C4b,panneau,C,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+C5,panneau,C,signal,defini,C5,0,0,True,True,1 modélisé (192 classes)
+C6,panneau,C,signal,defini,C6,0,0,True,True,1 modélisé (192 classes)
+C8,panneau,C,signal,defini,C8,3,3,True,True,1 modélisé (192 classes)
+C9,panneau,C,signal,defini,C9,2,1,True,True,1 modélisé (192 classes)
+C12,panneau,C,signal,defini,C12,1,1,True,True,1 modélisé (192 classes)
+C13a,panneau,C,signal,defini,C13a,2,2,True,True,1 modélisé (192 classes)
+C13b,panneau,C,signal,defini,C13b,0,0,True,True,1 modélisé (192 classes)
+C13c,panneau,C,signal,defini,C13c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C13d,panneau,C,signal,defini,C13d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C14,panneau,C,signal,defini,C14,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C20a,panneau,C,signal,defini,C20a,1,1,True,True,1 modélisé (192 classes)
+C20c,panneau,C,signal,defini,C20c,1,0,True,True,1 modélisé (192 classes)
+C20b,panneau,C,signal,defini,C20b,1,0,True,True,1 modélisé (192 classes)
+C23,panneau,C,signal,defini,C23,0,0,True,True,1 modélisé (192 classes)
+C24b,panneau,C,signal,defini,C24b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C24c,panneau,C,signal,defini,C24c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C25a,panneau,C,signal,defini,C25a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C25b,panneau,C,signal,defini,C25b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C26a,panneau,C,signal,defini,C26a,3,1,True,True,1 modélisé (192 classes)
+C26b,panneau,C,signal,defini,C26b,3,1,True,True,1 modélisé (192 classes)
+C28,panneau,C,signal,defini,C28,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+M10z,panonceau,M,signal,cite_seulement,M10z,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9e,panonceau,M,signal,cite_seulement,M9e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9f,panonceau,M,signal,cite_seulement,M9f,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE2a,panneau,CE,signal,defini,CE2a,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE30,panneau,CE,signal,defini,,2,2,False,False,4 à dessiner (pas de source)
+CE,panneau,CE,famille,defini,,6,6,False,False,4 à dessiner (pas de source)
+D46,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+ID5a,autre,ID,signal,cite_seulement,ID5a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C29a,panneau,C,signal,defini,C29a,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+C29b,panneau,C,signal,defini,C29b,2,2,False,False,"2 pictogramme officiel dispo, à produire"
+C29c,panneau,C,signal,defini,C29c,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+C30,panneau,C,signal,defini,C30,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+C51a,panneau,C,signal,defini,C51a,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+C51b,panneau,C,signal,defini,C51b,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+C62,panneau,C,signal,defini,C62,1,1,True,True,1 modélisé (192 classes)
+C64,panneau,C,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+C107,panneau,C,signal,defini,C107,6,4,True,True,1 modélisé (192 classes)
+C108,panneau,C,signal,defini,C108,2,1,True,True,1 modélisé (192 classes)
+C115,panneau,C,signal,defini,C115,1,1,True,True,1 modélisé (192 classes)
+C116,panneau,C,signal,defini,C116,1,1,True,True,1 modélisé (192 classes)
+C111,panneau,C,signal,defini,C111,2,2,True,True,1 modélisé (192 classes)
+C112,panneau,C,signal,defini,C112,0,0,True,True,1 modélisé (192 classes)
+C117,panneau,C,signal,defini,,3,1,False,False,4 à dessiner (pas de source)
+C113,panneau,C,signal,defini,C113,2,1,True,True,1 modélisé (192 classes)
+C114,panneau,C,signal,defini,C114,1,1,True,True,1 modélisé (192 classes)
+C207,panneau,C,signal,defini,C207,5,3,True,True,1 modélisé (192 classes)
+C208,panneau,C,signal,defini,C208,1,1,True,True,1 modélisé (192 classes)
+M10b,panonceau,M,signal,cite_seulement,M10b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M10c2,panonceau,M,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+M11a,panonceau,M,signal,cite_seulement,M11a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M4y,panonceau,M,signal,cite_seulement,M4y,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M3b,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+E31,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+CE3b,panneau,CE,signal,defini,CE3b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE100,panneau,CE,signal,defini,CE100,3,2,False,False,"2 pictogramme officiel dispo, à produire"
+CE15,panneau,CE,signal,defini,,9,9,False,False,4 à dessiner (pas de source)
+CE29,panneau,CE,signal,defini,CE29,2,2,False,False,"2 pictogramme officiel dispo, à produire"
+CE30a,panneau,CE,signal,cite_seulement,CE30a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE30b,panneau,CE,signal,cite_seulement,CE30b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE50,panneau,CE,signal,defini,CE50,1,0,False,False,"2 pictogramme officiel dispo, à produire"
+D44,panneau,D,signal,defini,,2,1,False,False,3 gabarit paramétrique (direction/texte)
+D45,panneau,D,signal,defini,D45,1,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE1,panneau,CE,signal,defini,CE1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+Dp1a,panneau,DP,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+Dp1b,panneau,DP,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+CE2b,panneau,CE,signal,defini,CE2b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE3a,panneau,CE,signal,defini,CE3a,3,1,True,True,1 modélisé (192 classes)
+D47b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+CE4a,panneau,CE,signal,defini,CE4a,1,1,True,True,1 modélisé (192 classes)
+CE4b,panneau,CE,signal,defini,CE4b,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE4c,panneau,CE,signal,defini,CE4c,1,1,True,True,1 modélisé (192 classes)
+CE5a,panneau,CE,signal,defini,CE5a,0,0,True,True,1 modélisé (192 classes)
+CE5b,panneau,CE,signal,defini,CE5b,1,1,True,True,1 modélisé (192 classes)
+CE6a,panneau,CE,signal,defini,CE6a,2,1,True,True,1 modélisé (192 classes)
+CE6b,panneau,CE,signal,defini,CE6b,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE7,panneau,CE,signal,defini,CE7,0,0,True,True,1 modélisé (192 classes)
+CE8,panneau,CE,signal,defini,CE8,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE9,panneau,CE,signal,defini,CE9,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+M4g,panonceau,M,signal,cite_seulement,M4g,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE10,panneau,CE,signal,defini,CE10,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE12,panneau,CE,signal,defini,CE12,0,0,True,True,1 modélisé (192 classes)
+CE14,panneau,CE,signal,defini,CE14,0,0,True,True,1 modélisé (192 classes)
+M4n,panonceau,M,signal,cite_seulement,M4n,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE15a,panneau,CE,signal,cite_seulement,CE15a,2,1,True,True,1 modélisé (192 classes)
+XCE15a,panneau,XCE,signal,defini,,1,1,False,False,3 gabarit paramétrique (direction/texte)
+CE15b,panneau,CE,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+CE15c,panneau,CE,signal,cite_seulement,CE15c,0,0,True,True,1 modélisé (192 classes)
+CE15e,panneau,CE,signal,cite_seulement,CE15e,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE15f,panneau,CE,signal,cite_seulement,CE15f,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE15g,panneau,CE,signal,cite_seulement,CE15g,0,0,True,True,1 modélisé (192 classes)
+CE15h,panneau,CE,signal,cite_seulement,CE15h,0,0,True,True,1 modélisé (192 classes)
+CE15i,panneau,CE,signal,cite_seulement,CE15i,0,0,True,True,1 modélisé (192 classes)
+CE15j,panneau,CE,signal,cite_seulement,CE15j,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D46b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+M1a,panonceau,M,signal,cite_seulement,M1a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE16,panneau,CE,signal,defini,CE16,1,1,True,True,1 modélisé (192 classes)
+CE17,panneau,CE,signal,defini,CE17,0,0,True,True,1 modélisé (192 classes)
+CE18,panneau,CE,signal,defini,CE18,0,0,True,True,1 modélisé (192 classes)
+CE19,panneau,CE,signal,defini,CE19,1,1,True,True,1 modélisé (192 classes)
+CE20a,panneau,CE,signal,defini,CE20a,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE20b,panneau,CE,signal,cite_seulement,CE20b,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE21,panneau,CE,signal,defini,CE21,2,1,True,True,1 modélisé (192 classes)
+CE22,panneau,CE,signal,defini,CE22,1,0,True,True,1 modélisé (192 classes)
+CE23,panneau,CE,signal,defini,CE23,1,1,True,True,1 modélisé (192 classes)
+CE24,panneau,CE,signal,defini,CE24,0,0,True,True,1 modélisé (192 classes)
+CE25,panneau,CE,signal,defini,CE25,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE26,panneau,CE,signal,defini,CE26,2,0,False,False,"2 pictogramme officiel dispo, à produire"
+CE27,panneau,CE,signal,defini,CE27,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+CE28,panneau,CE,signal,defini,CE28,0,0,True,True,1 modélisé (192 classes)
+Dp2a,panneau,DP,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+Dp2b,panneau,DP,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+CE51,panneau,CE,signal,defini,CE51,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D48,panneau,D,signal,defini,,4,1,False,False,3 gabarit paramétrique (direction/texte)
+XCE15g,panneau,XCE,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XCE15h,panneau,XCE,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+CE52,panneau,CE,signal,defini,CE52,1,1,True,True,1 modélisé (192 classes)
+D,panneau,D,famille,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+E40,panneau,E,signal,defini,,7,0,False,False,3 gabarit paramétrique (direction/texte)
+ID,autre,ID,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+SC17,autre,SC,signal,defini,,2,2,False,False,4 à dessiner (pas de source)
+SU4,autre,SU,signal,defini,SU4,2,0,False,False,"2 pictogramme officiel dispo, à produire"
+D71,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+SI,autre,SI,famille,defini,,3,3,False,False,4 à dessiner (pas de source)
+SE,autre,SE,famille,defini,,4,3,False,False,4 à dessiner (pas de source)
+SU,autre,SU,famille,defini,,5,5,False,False,4 à dessiner (pas de source)
+SI10,autre,SI,signal,cite_seulement,SI10,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SI11,autre,SI,signal,cite_seulement,SI11,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SI12,autre,SI,signal,defini,SI12,2,2,False,False,"2 pictogramme officiel dispo, à produire"
+SC10,autre,SC,signal,cite_seulement,SC10,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SC11,autre,SC,signal,cite_seulement,SC11,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SC12,autre,SC,signal,defini,SC12,2,2,False,False,"2 pictogramme officiel dispo, à produire"
+SU5,autre,SU,signal,defini,SU5,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SE2,autre,SE,signal,defini,,2,2,False,False,4 à dessiner (pas de source)
+SE2b,autre,SE,signal,defini,SE2b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SE2c,autre,SE,signal,defini,SE2c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SE3,autre,SE,signal,defini,SE3,2,0,False,False,"2 pictogramme officiel dispo, à produire"
+D74a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D74b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+SU1,autre,SU,signal,defini,SU1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SU2,autre,SU,signal,defini,SU2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SU3,autre,SU,signal,defini,SU3,1,0,False,False,"2 pictogramme officiel dispo, à produire"
+E46,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+ID15a,autre,ID,signal,defini,ID15a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+E36,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+H20,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+Dv12,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E38,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da,panneau,DA,famille,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D20,panneau,D,signal,defini,,4,0,False,False,3 gabarit paramétrique (direction/texte)
+D21,panneau,D,signal,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+D21a,panneau,D,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+D21b,panneau,D,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+E41,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E42,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E43,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E44,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E47,panneau,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D29,panneau,D,signal,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+D29a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D29b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D30,panneau,D,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+D31,panneau,D,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+D31d,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D32a,panneau,D,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+D32b,panneau,D,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+Da30,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D40,panneau,D,signal,defini,,11,2,False,False,3 gabarit paramétrique (direction/texte)
+D50,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D60,panneau,D,signal,defini,,10,1,False,False,3 gabarit paramétrique (direction/texte)
+D70,panneau,D,signal,defini,,7,0,False,False,3 gabarit paramétrique (direction/texte)
+Da40,panneau,DA,signal,defini,,5,0,False,False,3 gabarit paramétrique (direction/texte)
+Da50,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dc29,panneau,DC,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dc43,panneau,DC,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv10,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv20,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv40,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv60,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E30,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E50,panneau,E,signal,defini,,13,0,False,False,3 gabarit paramétrique (direction/texte)
+H10,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H30,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+Da31,panneau,DA,signal,cite_seulement,,6,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31a,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31b,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31c,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31d,panneau,DA,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31e,panneau,DA,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+Da31f,panneau,DA,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+Da32a,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da32b,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D41,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D47a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D47c,panneau,D,signal,defini,D47c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+Da41d,panneau,DA,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+Da41e,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da41f,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da41b,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da41c,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D51cr,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D51dr,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da51br,panneau,DA,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D61a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D61b,panneau,D,signal,defini,D61b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D62a,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D62b,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D62c,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D62d,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D63c,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D63d,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D69a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D69b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D61,panneau,D,signal,cite_seulement,D61,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+D72,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D73,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D79a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D79b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D31e,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D31f,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D51c,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D51d,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D52a,panneau,D,signal,cite_seulement,D52a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D52c,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D52b,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da41a,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da51b,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da52a,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Da52b,panneau,DA,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+R21,panneau,R,signal,defini,,5,0,False,False,4 à dessiner (pas de source)
+SC7,autre,SC,signal,cite_seulement,SC7,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D52,panneau,D,signal,cite_seulement,,3,1,False,False,3 gabarit paramétrique (direction/texte)
+Da52,panneau,DA,signal,cite_seulement,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+D46a,panneau,D,signal,defini,D46a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+D48a,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D48b,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D48c,panneau,D,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E34a,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E34b,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E34c,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E34d,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+H11,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H12,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H13,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H21,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H22,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H23,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H24,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H31,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H32,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+H33,panneau,H,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+Dv,panneau,DV,famille,defini,,17,2,False,False,3 gabarit paramétrique (direction/texte)
+SC2,autre,SC,signal,cite_seulement,SC2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+Dv11,panneau,DV,signal,defini,Dv11,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+Dv21a,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv21b,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv21c,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv43a,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv43b,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv42a,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv42b,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv43c,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv43d,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv44,panneau,DV,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dv61,panneau,DV,signal,defini,Dv61,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+Dc,panneau,DC,famille,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+Dp,panneau,DP,famille,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+Dp43,panneau,DP,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+Dp29,panneau,DP,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+ID34,autre,ID,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+ID34b,autre,ID,signal,cite_seulement,ID34b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID7,autre,ID,signal,cite_seulement,ID7,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+EB,panneau,EB,famille,defini,,2,2,False,False,4 à dessiner (pas de source)
+E32,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E37,autre,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E60,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E33a,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E33b,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E36a,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E36b,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E37a,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E37b,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E39,autre,E,signal,defini,E39,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+E45,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E51,autre,E,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E52,autre,E,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+E53,autre,E,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+E54,autre,E,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+E57,autre,E,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+SR,panneau,SR,famille,defini,,9,1,False,False,4 à dessiner (pas de source)
+SR2a,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR2b,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR2c,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR52,panneau,SR,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+SR52a,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR52b,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR3,panneau,SR,signal,defini,,1,1,True,False,4 à dessiner (pas de source)
+SR3d,panneau,SR,signal,defini,SR3d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9k1,panonceau,M,signal,cite_seulement,M9k1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9k2,panonceau,M,signal,cite_seulement,M9k2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M9l,panonceau,M,signal,cite_seulement,M9l,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M10c,panonceau,M,signal,cite_seulement,M10c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR4,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+SR50,panneau,SR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+C64a,panneau,C,signal,cite_seulement,C64a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C64b,panneau,C,signal,cite_seulement,C64b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C64c1,panneau,C,signal,cite_seulement,C64c1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C64c2,panneau,C,signal,cite_seulement,C64c2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C64d,panneau,C,signal,cite_seulement,,0,0,True,False,4 à dessiner (pas de source)
+C117-B21b,panneau,C,signal,cite_seulement,C117-B21b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+C117-B21c1,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+C117-B21c2,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+C117-B21d1,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+C117-B21d2,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+C117-B21e,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+ID1a,autre,ID,signal,cite_seulement,ID1a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID1b,pictogramme,ID,signal,cite_seulement,ID1b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID1c,autre,ID,signal,cite_seulement,ID1c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID2,autre,ID,signal,cite_seulement,ID2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID3,autre,ID,signal,cite_seulement,ID3,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID4,autre,ID,signal,cite_seulement,ID4,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID5b,autre,ID,signal,cite_seulement,ID5b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID6,autre,ID,signal,cite_seulement,ID6,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID8,autre,ID,signal,cite_seulement,ID8,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID9,autre,ID,signal,cite_seulement,ID9,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID10,autre,ID,signal,cite_seulement,ID10,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID11,autre,ID,signal,cite_seulement,ID11,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID12a,autre,ID,signal,cite_seulement,ID12a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID12b,autre,ID,signal,cite_seulement,ID12b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID13a,autre,ID,signal,cite_seulement,ID13a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID13b,autre,ID,signal,cite_seulement,ID13b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID14a,autre,ID,signal,cite_seulement,ID14a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID14b,autre,ID,signal,cite_seulement,ID14b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID14c,autre,ID,signal,cite_seulement,ID14c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID14d,autre,ID,signal,cite_seulement,ID14d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID14e,autre,ID,signal,cite_seulement,ID14e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15b,autre,ID,signal,cite_seulement,ID15b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15c,autre,ID,signal,cite_seulement,ID15c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15d,autre,ID,signal,cite_seulement,ID15d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15e,autre,ID,signal,cite_seulement,ID15e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15f,autre,ID,signal,cite_seulement,ID15f,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID16a,autre,ID,signal,cite_seulement,ID16a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID16b,autre,ID,signal,cite_seulement,ID16b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID16c,autre,ID,signal,cite_seulement,ID16c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID16d,autre,ID,signal,cite_seulement,ID16d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID16e,autre,ID,signal,cite_seulement,ID16e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID17,autre,ID,signal,cite_seulement,ID17,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID18,autre,ID,signal,cite_seulement,ID18,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID19,autre,ID,signal,cite_seulement,ID19,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID20a,autre,ID,signal,cite_seulement,ID20a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID20b,autre,ID,signal,cite_seulement,ID20b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID20c,autre,ID,signal,cite_seulement,ID20c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID20d,autre,ID,signal,cite_seulement,ID20d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID20e,autre,ID,signal,cite_seulement,ID20e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID21a,autre,ID,signal,cite_seulement,ID21a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID21b,autre,ID,signal,cite_seulement,ID21b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID22,autre,ID,signal,cite_seulement,ID22,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID23,autre,ID,signal,cite_seulement,ID23,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID24,autre,ID,signal,cite_seulement,ID24,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID25,autre,ID,signal,cite_seulement,ID25,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID26a,autre,ID,signal,cite_seulement,ID26a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID26b,autre,ID,signal,cite_seulement,ID26b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID27,autre,ID,signal,cite_seulement,ID27,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID28,autre,ID,signal,cite_seulement,ID28,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID29,autre,ID,signal,cite_seulement,ID29,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID30,autre,ID,signal,cite_seulement,ID30,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID31,autre,ID,signal,cite_seulement,ID31,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID32,autre,ID,signal,cite_seulement,ID32,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID33a,autre,ID,signal,cite_seulement,ID33a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID33b,autre,ID,signal,cite_seulement,ID33b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID34a,autre,ID,signal,cite_seulement,ID34a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID35,autre,ID,signal,cite_seulement,ID35,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID36,autre,ID,signal,cite_seulement,ID36,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID37,autre,ID,signal,cite_seulement,ID37,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID38,autre,ID,signal,cite_seulement,ID38,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID39,autre,ID,signal,cite_seulement,ID39,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+E57a,autre,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E57b,autre,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+SR3a,panneau,SR,signal,cite_seulement,SR3a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR3b,panneau,SR,signal,cite_seulement,SR3b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR3c1,panneau,SR,signal,cite_seulement,SR3c1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR3c2,panneau,SR,signal,cite_seulement,SR3c2,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR3c3,panneau,SR,signal,cite_seulement,SR3c3,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+SR3e,panneau,SR,signal,cite_seulement,SR3e,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a29,autre,ID,signal,cite_seulement,ID15a29,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a30,autre,ID,signal,cite_seulement,ID15a30,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a31,autre,ID,signal,cite_seulement,ID15a31,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a32,autre,ID,signal,cite_seulement,ID15a32,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a33,autre,ID,signal,cite_seulement,ID15a33,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a34,autre,ID,signal,cite_seulement,ID15a34,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a35,autre,ID,signal,cite_seulement,ID15a35,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a36,autre,ID,signal,cite_seulement,ID15a36,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a37,autre,ID,signal,cite_seulement,ID15a37,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a38,autre,ID,signal,cite_seulement,ID15a38,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a39,autre,ID,signal,cite_seulement,ID15a39,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a40,autre,ID,signal,cite_seulement,ID15a40,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a41,autre,ID,signal,cite_seulement,ID15a41,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a42,autre,ID,signal,cite_seulement,ID15a42,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a43,autre,ID,signal,cite_seulement,ID15a43,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a44,autre,ID,signal,cite_seulement,ID15a44,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a45,autre,ID,signal,cite_seulement,ID15a45,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a46,autre,ID,signal,cite_seulement,ID15a46,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a47,autre,ID,signal,cite_seulement,ID15a47,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+ID15a48,autre,ID,signal,cite_seulement,ID15a48,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+M10,panonceau,M,signal,defini,,4,4,False,False,4 à dessiner (pas de source)
+M11,panonceau,M,signal,defini,,4,1,False,False,4 à dessiner (pas de source)
+M12,panonceau,M,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+M4d1,panonceau,M,signal,cite_seulement,M4d1,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+KM1,panonceau,KM,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KM2,panonceau,KM,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KM9,panonceau,KM,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XM1,panonceau,XM,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM2,panonceau,XM,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM9z,panonceau,XM,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM3d,panonceau,XM,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM3,panonceau,XM,signal,defini,,2,0,False,False,3 gabarit paramétrique (direction/texte)
+A,panneau,A,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+AB,autre,AB,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+B,panneau,B,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+E,autre,E,famille,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+G,autre,G,famille,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+H,autre,H,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+AK,panneau,AK,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+R,autre,R,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+T,autre,T,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+J,autre,J,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+X,autre,X,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+C24,panneau,C,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+AK4,panneau,AK,signal,defini,AK4,0,0,True,True,1 modélisé (192 classes)
+AK5,panneau,AK,signal,cite_seulement,AK5,1,0,True,True,1 modélisé (192 classes)
+AK14,panneau,AK,signal,cite_seulement,AK14,0,0,True,True,1 modélisé (192 classes)
+AK22,panneau,AK,signal,cite_seulement,AK22,0,0,True,True,1 modélisé (192 classes)
+AK30,panneau,AK,signal,defini,AK30,1,0,True,True,1 modélisé (192 classes)
+KD8,panneau,KD,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+KD9,panneau,KD,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+KD10,panneau,KD,signal,cite_seulement,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XC50,panneau,XC,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+KXC50,panneau,KXC,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J1bis,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J11,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J12,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J13,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J14a,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J14b,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J15a,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J15b,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J16,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+J17,autre,J,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R1j,autre,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R1n,autre,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R1jn,autre,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+AK2,panneau,AK,signal,cite_seulement,AK2,0,0,True,True,1 modélisé (192 classes)
+AK3,panneau,AK,signal,cite_seulement,AK3,0,0,True,True,1 modélisé (192 classes)
+AK17,panneau,AK,signal,cite_seulement,AK17,0,0,True,True,1 modélisé (192 classes)
+AK31,panneau,AK,signal,defini,AK31,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+AK32,panneau,AK,signal,defini,AK32,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XAK32,panneau,XAK,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XAK,autre,XAK,famille,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+triangle de présignalisation,panneau,TRIANGLE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+KM,panonceau,KM,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+XM9,signal dynamique,XM,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+XA2,panneau,XA,signal,defini,XA2,2,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA3,panneau,XA,signal,defini,XA3,4,4,False,False,"2 pictogramme officiel dispo, à produire"
+XA4,panneau,XA,signal,defini,XA4,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA14,panneau,XA,signal,defini,XA14,1,0,False,False,"2 pictogramme officiel dispo, à produire"
+X1,panneau,X,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+X2,panneau,X,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+XB,panneau,XB,famille,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+K1,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K2,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K5,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K5a,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K5b,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K5c,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K5d,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K8,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K10,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K14,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K15,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+K16,balise,K,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+KS1,autre,KS,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KD10a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD10b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD21,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD22,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD43,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD44,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD62,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD69,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD79,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42c,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42d,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD42e,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD43a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD43b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD43c,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD43d,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD44a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD44b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD44c,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD21a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD21b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD22a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD22b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD69a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD69b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD79a,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KD79b,panneau,KD,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+KR1,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR2,autre,KR,signal,defini,,1,0,False,False,4 à dessiner (pas de source)
+KR2d,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR11,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR11v,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR11j,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR41,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR42,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR43,autre,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KR44,panneau,KR,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+KX2,autre,KX,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+FLR,dispositif,FLR,famille,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+FLU,dispositif,FLU,famille,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+KX50,autre,KX,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+Bra,dispositif,BRA,famille,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+panneaux occultables,dispositif,PANNEAUX,concept,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R11v,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+T3,autre,T,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+PMV,pmv,PMV,famille,defini,,3,0,False,False,5 feu/balise/dispositif : modèle dédié
+PMV_MULTI_USAGES,pmv,PMV,concept,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+PMV_DEDIE,pmv,PMV,concept,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+PANNEAU_DYNAMIQUE,autre,PANNEAU,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+PANNEAU_INERTE,autre,PANNEAU,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+PANNEAU_INDICATION_ALERTE_INDIVIDUALISEE,pmv,PANNEAU,concept,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+PARTIE_PICTOGRAMME,autre,PARTIE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+PARTIE_TEXTE,autre,PARTIE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+PARTIE_PANONCEAU,autre,PARTIE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_NORMAL,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_INVERSE,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_FIXE,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_CLIGNOTANT,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_ALTERNANTS,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+DECOR_DEFILANT,autre,DECOR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+NEUTRE,autre,NEUTRE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MESSAGE_DE_VEILLE,autre,MESSAGE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_PRESCRIPTION,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_DANGER_IMMEDIAT,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_INFO_EVENEMENTIEL,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_TEMPS_PARCOURS,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_PREVISIONNEL,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_REPORT_MODAL,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG_HORS_EXPLOITATION,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+ALERTE_POLLUTION,autre,ALERTE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+ALERTE_POPULATION,autre,ALERTE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+ALERTE_ENLEVEMENT,autre,ALERTE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:DANGER BOUCHON,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:TRAFIC FLUIDE/TRAFIC NORMAL/CIRCULATION NORMALE,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:AUTOROUTE FERMEE A xxxx m,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:SORTIE OBLIGATOIRE A yyyy m,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:TUNNEL FERME A xxxx m,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:CONTROLE A XXX M,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:CONTROLE,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+CAR_EGAL,pictogramme,CAR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+CAR_EN_DIRECTION_DE,pictogramme,CAR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+CAR_JUSQUA,pictogramme,CAR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+CAR_TENDANCE,pictogramme,CAR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+CAR_SORTIE,pictogramme,CAR,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+XM3a,panonceau,XM,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4a,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4b,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4c,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4d1,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4f,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4g,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4p,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4r,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4w,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4x,panonceau,XM,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XM4,panonceau,XM,signal,cite_seulement,,10,0,False,False,3 gabarit paramétrique (direction/texte)
+XA,panneau,XA,famille,defini,,0,0,False,False,4 à dessiner (pas de source)
+XAK30,panneau,XAK,signal,defini,,1,1,False,False,4 à dessiner (pas de source)
+XA24,panneau,XA,signal,defini,XA24,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA13a,panneau,XA,signal,defini,XA13a,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA15b,panneau,XA,signal,defini,XA15b,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA25,panneau,XA,signal,defini,XA25,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA26,panneau,XA,signal,defini,XA26,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA7,panneau,XA,signal,defini,XA7,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA6,panneau,XA,signal,defini,XA6,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA17,panneau,XA,signal,defini,XA17,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA1,panneau,XA,signal,cite_seulement,,5,4,False,False,4 à dessiner (pas de source)
+A2,panneau,A,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XA16,panneau,XA,signal,cite_seulement,XA16,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XA20,panneau,XA,signal,cite_seulement,XA20,1,1,False,False,"2 pictogramme officiel dispo, à produire"
+XAK5,panneau,XAK,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XA1a,panneau,XA,signal,cite_seulement,XA1a,3,3,False,False,"2 pictogramme officiel dispo, à produire"
+XA1b,panneau,XA,signal,cite_seulement,XA1b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA1c,panneau,XA,signal,cite_seulement,XA1c,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA1d,panneau,XA,signal,cite_seulement,XA1d,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA3a,panneau,XA,signal,cite_seulement,XA3a,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA3b,panneau,XA,signal,cite_seulement,XA3b,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XA18,panneau,XA,signal,cite_seulement,XA18,0,0,False,False,"2 pictogramme officiel dispo, à produire"
+XAK22,panneau,XAK,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XAK31,panneau,XAK,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XB14,panneau,XB,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XB11,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB12,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB13,panneau,XB,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB17,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB8,panneau,XB,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB9f,panneau,XB,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB3,panneau,XB,signal,cite_seulement,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XB3a,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB9b,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB9h,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB9i,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB27a,panneau,XB,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB31,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB33,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB34,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB34a,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB44,panneau,XB,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XB45,panneau,XB,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XC24a,panneau,XC,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC4a,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC4b,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64,panneau,XC,signal,defini,,5,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64a,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64b,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64c1,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64c2,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XC64d,panneau,XC,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XCE22,panneau,XCE,signal,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XCE45,panneau,XCE,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+X50,panneau,X,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+MSG:LIBRE,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:PAYANT,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:COMPLET,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+MSG:FERME,autre,MSG,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+XD41,panneau,XD,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+X1a,panneau,X,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+X1b,panneau,X,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+X2a,panneau,X,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+X2b,panneau,X,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+X3a,panneau,X,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+X3b,panneau,X,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XKD8,panneau,XKD,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XKD9,panneau,XKD,signal,defini,,1,0,False,False,3 gabarit paramétrique (direction/texte)
+XKD10,panneau,XKD,signal,defini,,3,0,False,False,3 gabarit paramétrique (direction/texte)
+XKD10a,panneau,XKD,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+XKD10b,panneau,XKD,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+R21a,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R21b,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R21c,panneau,R,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+R21cd,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R21cg,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R22,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+R23,panneau,R,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XK4,panneau,XK,signal,defini,,2,0,False,False,4 à dessiner (pas de source)
+XK4a,panneau,XK,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+XK4b,panneau,XK,signal,defini,,0,0,False,False,4 à dessiner (pas de source)
+Sal2,autre,SAL,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+Sal4,autre,SAL,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+BRa,autre,BRA,famille,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+XK30,panneau,XK,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+D41a,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D41b,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+D41c,panneau,D,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E33,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E34,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E52a,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E52b,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E52c,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E53a,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E53b,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E53c,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E54a,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E54b,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E54c,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+E57c,panneau,E,signal,cite_seulement,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+SR2,panneau,SR,signal,cite_seulement,,0,0,False,False,4 à dessiner (pas de source)
+R12,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R12pps,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R12m,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13c,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13b,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13cj,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13bj,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R13tj,feu,R,signal,cite_seulement,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14tg,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14dtg,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14d,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14dtd,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R14td,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R15,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R15c,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R15b,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16dtg,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16d,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16dtd,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16tg,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R16td,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R17,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R18,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R18tg,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R18td,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R19,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R22v,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R23v,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R23j,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+R25,feu,R,signal,defini,,0,0,False,False,5 feu/balise/dispositif : modèle dédié
+décompteur,autre,D,concept,defini,,0,0,False,False,3 gabarit paramétrique (direction/texte)
+signal répétiteur,autre,SIGNAL,concept,defini,,0,0,False,False,4 à dessiner (pas de source)
+jaune clignotant général,autre,JAUNE,concept,defini,,0,0,False,False,4 à dessiner (pas de source)

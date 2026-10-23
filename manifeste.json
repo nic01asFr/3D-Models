@@ -1,0 +1,7730 @@
+[
+ {
+  "code": "A13a",
+  "fichier": "A13a.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A13a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A13b",
+  "fichier": "A13b.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A13b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A14",
+  "fichier": "A14.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A14.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A15a1",
+  "fichier": "A15a1.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A15a1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A15a2",
+  "fichier": "A15a2.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A15a2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A15b",
+  "fichier": "A15b.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A15b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A15c",
+  "fichier": "A15c.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A15c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A16",
+  "fichier": "A16.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A16.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A17",
+  "fichier": "A17.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A17.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A18",
+  "fichier": "A18.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A18.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A19",
+  "fichier": "A19.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A19.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A1a",
+  "fichier": "A1a.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A1a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A1b",
+  "fichier": "A1b.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A1b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A1c",
+  "fichier": "A1c.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A1c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A1d",
+  "fichier": "A1d.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A1d.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A20",
+  "fichier": "A20.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A20.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A21",
+  "fichier": "A21.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A21.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A23",
+  "fichier": "A23.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A23.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A24",
+  "fichier": "A24.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A24.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A2a",
+  "fichier": "A2a.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A2a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A2b",
+  "fichier": "A2b.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A2b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A3",
+  "fichier": "A3.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A3.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A3a",
+  "fichier": "A3a.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A3a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A3b",
+  "fichier": "A3b.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A3b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A4",
+  "fichier": "A4.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A4.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A6",
+  "fichier": "A6.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A6.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A7",
+  "fichier": "A7.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_A7.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A8",
+  "fichier": "A8.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A8.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "A9",
+  "fichier": "A9.glb",
+  "dims_m": [
+   1.0,
+   0.8803,
+   0.0119
+  ],
+  "parties": 27,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_A9.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "AB1",
+  "fichier": "AB1.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB2",
+  "fichier": "AB2.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB25",
+  "fichier": "AB25.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB25.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB3a",
+  "fichier": "AB3a.glb",
+  "dims_m": [
+   0.7,
+   0.6163,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 15,
+  "svg_source": "France_road_sign_AB3a.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB3a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB3b",
+  "fichier": "AB3b.glb",
+  "dims_m": [
+   0.7,
+   0.6163,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 5,
+  "svg_source": "France_road_sign_AB3b.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB3b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB4",
+  "fichier": "AB4.glb",
+  "dims_m": [
+   0.8,
+   0.7998,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB4.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : octogone 800",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "AB5",
+  "fichier": "AB5.glb",
+  "dims_m": [
+   0.7,
+   0.6163,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 9,
+  "svg_source": "France_road_sign_AB5.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB5.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB6",
+  "fichier": "AB6.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB6.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AB7",
+  "fichier": "AB7.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AB7.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK14",
+  "fichier": "AK14.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AK14.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK17",
+  "fichier": "AK17.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AK17.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK2",
+  "fichier": "AK2.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_AK2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK22",
+  "fichier": "AK22.glb",
+  "dims_m": [
+   0.7,
+   0.6116,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_AK22.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK3",
+  "fichier": "AK3.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AK3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK30",
+  "fichier": "AK30.glb",
+  "dims_m": [
+   0.7,
+   0.6116,
+   0.0107
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_AK30.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK31",
+  "fichier": "AK31.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_AK31.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Naturals",
+  "source": "Wikimedia Commons France_road_sign_AK31.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK32",
+  "fichier": "AK32.glb",
+  "dims_m": [
+   0.7,
+   0.6116,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_AK32.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_AK32.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK4",
+  "fichier": "AK4.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AK4.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "AK5",
+  "fichier": "AK5.glb",
+  "dims_m": [
+   0.7,
+   0.6162,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_AK5.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "B0",
+  "fichier": "B0.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B0.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B1",
+  "fichier": "B1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_B1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B10a",
+  "fichier": "B10a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B10a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B10a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B11",
+  "fichier": "B11.glb",
+  "dims_m": [
+   0.85,
+   0.7804,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B11.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B12",
+  "fichier": "B12.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B12.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B13",
+  "fichier": "B13.glb",
+  "dims_m": [
+   0.85,
+   0.7157,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 1,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B13.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B13a",
+  "fichier": "B13a.glb",
+  "dims_m": [
+   0.85,
+   0.6671,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B13a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-10",
+  "fichier": "B14-10.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(10).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-100",
+  "fichier": "B14-100.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(100).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-110",
+  "fichier": "B14-110.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(110).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-130",
+  "fichier": "B14-130.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(130).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-15",
+  "fichier": "B14-15.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(15).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-20",
+  "fichier": "B14-20.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(20).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-30",
+  "fichier": "B14-30.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(30).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-40",
+  "fichier": "B14-40.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(40).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-45",
+  "fichier": "B14-45.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(45).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-5",
+  "fichier": "B14-5.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(5).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-50",
+  "fichier": "B14-50.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B14_(50).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-60",
+  "fichier": "B14-60.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(60).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-70",
+  "fichier": "B14-70.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(70).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-80",
+  "fichier": "B14-80.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_B14_(80).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B14-90",
+  "fichier": "B14-90.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Grondin",
+  "source": "Wikimedia Commons France_road_sign_B14_(90).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B15",
+  "fichier": "B15.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B15.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B16",
+  "fichier": "B16.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B16.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B17",
+  "fichier": "B17.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B17.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B18a",
+  "fichier": "B18a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B18a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B18b",
+  "fichier": "B18b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B18b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B18c",
+  "fichier": "B18c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B18c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B19",
+  "fichier": "B19.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B19.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B1j",
+  "fichier": "B1j.glb",
+  "dims_m": [
+   0.85,
+   0.8496,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roland45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B1j.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21-1",
+  "fichier": "B21-1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21-1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21-2",
+  "fichier": "B21-2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21-2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21a1",
+  "fichier": "B21a1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21a1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21a2",
+  "fichier": "B21a2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21a2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21b",
+  "fichier": "B21b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21c1",
+  "fichier": "B21c1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21c1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21c2",
+  "fichier": "B21c2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21c2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21d1",
+  "fichier": "B21d1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21d1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21d2",
+  "fichier": "B21d2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21d2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21e",
+  "fichier": "B21e.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B21e.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B22a",
+  "fichier": "B22a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B22a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B22b",
+  "fichier": "B22b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B22b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B22c",
+  "fichier": "B22c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B22c.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B22c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B26",
+  "fichier": "B26.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0275
+  ],
+  "parties": 66,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B26.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B27a",
+  "fichier": "B27a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B27a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B27b",
+  "fichier": "B27b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B27b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B29",
+  "fichier": "B29.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B29.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B2a",
+  "fichier": "B2a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B2a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B2b",
+  "fichier": "B2b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B2b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B2c",
+  "fichier": "B2c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B2c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B3",
+  "fichier": "B3.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B3.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B31",
+  "fichier": "B31.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B31.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B33-30",
+  "fichier": "B33-30.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 2,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_B33_(30).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B33-50",
+  "fichier": "B33-50.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 2,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B33_(50).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B33-70",
+  "fichier": "B33-70.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 2,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_B33_(70).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B33-90",
+  "fichier": "B33-90.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 1,
+  "licence": "Public domain",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_B33_(90).svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B34",
+  "fichier": "B34.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B34.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B34a",
+  "fichier": "B34a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B34a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B35",
+  "fichier": "B35.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B35.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B35.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B39",
+  "fichier": "B39.glb",
+  "dims_m": [
+   0.85,
+   0.9645,
+   0.0175
+  ],
+  "parties": 41,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B39.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B39.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B3a",
+  "fichier": "B3a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B3a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B4",
+  "fichier": "B4.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 16,
+  "svg_source": "France_road_sign_B4.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B4.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B40",
+  "fichier": "B40.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B40.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B41",
+  "fichier": "B41.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B41.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B42",
+  "fichier": "B42.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B42.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B44",
+  "fichier": "B44.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0279
+  ],
+  "parties": 67,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B44.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B44.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B49",
+  "fichier": "B49.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0107
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B49.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B49.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50a",
+  "fichier": "B50a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B50a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50b",
+  "fichier": "B50b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B50b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50c",
+  "fichier": "B50c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B50c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50d",
+  "fichier": "B50d.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B50d.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50e",
+  "fichier": "B50e.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B50e.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B50e.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B52",
+  "fichier": "B52.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B52.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B53",
+  "fichier": "B53.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B53.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B54",
+  "fichier": "B54.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B54.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B55",
+  "fichier": "B55.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B55.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B56",
+  "fichier": "B56.glb",
+  "dims_m": [
+   1.2,
+   1.8,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roland45",
+  "source": "Wikimedia Commons France_road_sign_B56.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 tableau dimensions spécifiques (gamme normale)",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B57",
+  "fichier": "B57.glb",
+  "dims_m": [
+   0.7,
+   0.8996,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roland45",
+  "source": "Wikimedia Commons France_road_sign_B57.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "B58",
+  "fichier": "B58.glb",
+  "dims_m": [
+   1.2,
+   1.8,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B58.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_B58.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 tableau dimensions spécifiques (gamme normale)",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B59",
+  "fichier": "B59.glb",
+  "dims_m": [
+   0.7,
+   1.0638,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B59.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_B59.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "B5a",
+  "fichier": "B5a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 22,
+  "svg_source": "France_road_sign_B5a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B5a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B5b",
+  "fichier": "B5b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 3,
+  "svg_source": "France_road_sign_B5b.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B5b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B5c",
+  "fichier": "B5c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B5c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6a1",
+  "fichier": "B6a1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6a1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6a2",
+  "fichier": "B6a2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6a2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6a3",
+  "fichier": "B6a3.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6a3.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b1",
+  "fichier": "B6b1.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6b1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b2",
+  "fichier": "B6b2.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6b2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b3",
+  "fichier": "B6b3.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B6b3.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b4",
+  "fichier": "B6b4.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6b4.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b5",
+  "fichier": "B6b5.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B6b5.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_B6b5.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6d",
+  "fichier": "B6d.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B6d.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B7a",
+  "fichier": "B7a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B7a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B7b",
+  "fichier": "B7b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B7b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B8",
+  "fichier": "B8.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B8.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9a",
+  "fichier": "B9a.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9b",
+  "fichier": "B9b.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9c",
+  "fichier": "B9c.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B9c.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9d",
+  "fichier": "B9d.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9d.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9e",
+  "fichier": "B9e.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_B9e.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9e.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9f",
+  "fichier": "B9f.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9f.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9g",
+  "fichier": "B9g.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9g.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9h",
+  "fichier": "B9h.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9h.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "B9i",
+  "fichier": "B9i.glb",
+  "dims_m": [
+   0.85,
+   0.8498,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_B9i.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C107",
+  "fichier": "C107.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Gigillo83",
+  "source": "Wikimedia Commons France_road_sign_C107.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C108",
+  "fichier": "C108.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C108.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C111",
+  "fichier": "C111.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C111.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C112",
+  "fichier": "C112.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C112.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C113",
+  "fichier": "C113.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C113.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C114",
+  "fichier": "C114.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C114.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C115",
+  "fichier": "C115.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Bertrand GRONDIN, myself",
+  "source": "Wikimedia Commons France_road_sign_C115.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C116",
+  "fichier": "C116.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Bertrand GRONDIN",
+  "source": "Wikimedia Commons France_road_sign_C116.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C117-B21b",
+  "fichier": "C117-B21b.glb",
+  "dims_m": [
+   0.7,
+   0.8925,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C117-B21b.svg",
+  "licence": "Public domain",
+  "auteur": "",
+  "source": "Wikimedia Commons France_road_sign_C117-B21b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "C12",
+  "fichier": "C12.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C12.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C13a",
+  "fichier": "C13a.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C13a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C13b",
+  "fichier": "C13b.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C13b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C13c",
+  "fichier": "C13c.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C13c.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C13c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C13d",
+  "fichier": "C13d.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C13d.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C13d.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C14",
+  "fichier": "C14.glb",
+  "dims_m": [
+   0.9,
+   1.3,
+   0.0187
+  ],
+  "parties": 44,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C14.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C14.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 tableau dimensions spécifiques (gamme normale)",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C18",
+  "fichier": "C18.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Gigillo83",
+  "source": "Wikimedia Commons France_road_sign_C18.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C1a",
+  "fichier": "C1a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_C1a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C1b",
+  "fichier": "C1b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C1b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C1c",
+  "fichier": "C1c.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C1c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C207",
+  "fichier": "C207.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C207.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C208",
+  "fichier": "C208.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C208.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C20a",
+  "fichier": "C20a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C20a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C20b",
+  "fichier": "C20b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 2,
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_C20b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C20c",
+  "fichier": "C20c.glb",
+  "dims_m": [
+   0.7,
+   0.703,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 1,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C20c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C23",
+  "fichier": "C23.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0299
+  ],
+  "parties": 72,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C23.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C24a",
+  "fichier": "C24a.glb",
+  "dims_m": [
+   0.7,
+   0.6946,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C24a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C24b",
+  "fichier": "C24b.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C24b.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C24b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C24c",
+  "fichier": "C24c.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C24c.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C24c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C25a",
+  "fichier": "C25a.glb",
+  "dims_m": [
+   0.7,
+   1.0245,
+   0.0123
+  ],
+  "parties": 28,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C25a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Gigillo83",
+  "source": "Wikimedia Commons France_road_sign_C25a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "C25b",
+  "fichier": "C25b.glb",
+  "dims_m": [
+   0.7,
+   1.0226,
+   0.0219
+  ],
+  "parties": 52,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C25b.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C25b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "C26a",
+  "fichier": "C26a.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C26a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C26b",
+  "fichier": "C26b.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C26b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C27",
+  "fichier": "C27.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Jcrovetti",
+  "source": "Wikimedia Commons France_road_sign_C27.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C28",
+  "fichier": "C28.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C28.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C28.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C29a",
+  "fichier": "C29a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C29a.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C29a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C29b",
+  "fichier": "C29b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C29b.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C29b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C29c",
+  "fichier": "C29c.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C29c.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C29c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C3",
+  "fichier": "C3.glb",
+  "dims_m": [
+   0.6,
+   0.8,
+   0.0143
+  ],
+  "parties": 33,
+  "hors_forme_ignores": 1,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C3.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 tableau dimensions spécifiques (gamme normale)",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C30",
+  "fichier": "C30.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C30.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C30.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C5",
+  "fichier": "C5.glb",
+  "dims_m": [
+   0.7,
+   0.703,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 1,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C5.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C50",
+  "fichier": "C50.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0123
+  ],
+  "parties": 28,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C50.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C51a",
+  "fichier": "C51a.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0115
+  ],
+  "parties": 26,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C51a.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C51a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C51b",
+  "fichier": "C51b.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C51b.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C51b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C6",
+  "fichier": "C6.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_C6.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C62",
+  "fichier": "C62.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C62.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C64a",
+  "fichier": "C64a.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C64a.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C64a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C64b",
+  "fichier": "C64b.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C64b.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C64b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C64c1",
+  "fichier": "C64c1.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C64c1.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C64c1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C64c2",
+  "fichier": "C64c2.glb",
+  "dims_m": [
+   0.7,
+   0.6949,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_C64c2.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C64c2.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C8",
+  "fichier": "C8.glb",
+  "dims_m": [
+   0.7,
+   0.7031,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_C8.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "C9",
+  "fichier": "C9.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "KiwiNeko14",
+  "source": "Wikimedia Commons France_road_sign_C9.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE1",
+  "fichier": "CE1.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE1.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_CE1.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE10",
+  "fichier": "CE10.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE10.svg",
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE10.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE100",
+  "fichier": "CE100.glb",
+  "dims_m": [
+   0.7,
+   0.1936,
+   0.0231
+  ],
+  "parties": 55,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE100.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_CE100.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "CE12",
+  "fichier": "CE12.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE12.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE14",
+  "fichier": "CE14.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE14.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15a",
+  "fichier": "CE15a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE15a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15c",
+  "fichier": "CE15c.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE15c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15e",
+  "fichier": "CE15e.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0139
+  ],
+  "parties": 32,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE15e.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE15e.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15f",
+  "fichier": "CE15f.glb",
+  "dims_m": [
+   0.7,
+   0.8603,
+   0.0159
+  ],
+  "parties": 37,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE15f.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE15f.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15g",
+  "fichier": "CE15g.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_CE15g.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15h",
+  "fichier": "CE15h.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_CE15h.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15i",
+  "fichier": "CE15i.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_CE15i.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15j",
+  "fichier": "CE15j.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE15j.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_CE15j.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE16",
+  "fichier": "CE16.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE16.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE17",
+  "fichier": "CE17.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE17.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE18",
+  "fichier": "CE18.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE18.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE19",
+  "fichier": "CE19.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE19.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE20a",
+  "fichier": "CE20a.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE20a.svg",
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE20a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE20b",
+  "fichier": "CE20b.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE20b.svg",
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE20b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE21",
+  "fichier": "CE21.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE21.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE22",
+  "fichier": "CE22.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE22.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE23",
+  "fichier": "CE23.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE23.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE24",
+  "fichier": "CE24.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE24.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE25",
+  "fichier": "CE25.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE25.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE25.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE26",
+  "fichier": "CE26.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE26.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE26.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE27",
+  "fichier": "CE27.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE27.svg",
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE27.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE28",
+  "fichier": "CE28.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE28.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE29",
+  "fichier": "CE29.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE29.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE29.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE2a",
+  "fichier": "CE2a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE2a.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE2a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE2b",
+  "fichier": "CE2b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE2b.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE2b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE30a",
+  "fichier": "CE30a.glb",
+  "dims_m": [
+   0.7,
+   0.6723,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE30a.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE30a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE30b",
+  "fichier": "CE30b.glb",
+  "dims_m": [
+   0.7,
+   0.6723,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE30b.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE30b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE3a",
+  "fichier": "CE3a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE3a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE3b",
+  "fichier": "CE3b.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0127
+  ],
+  "parties": 29,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE3b.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE3b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE4a",
+  "fichier": "CE4a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE4a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE4b",
+  "fichier": "CE4b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE4b.svg",
+  "licence": "Public domain",
+  "auteur": "Gouvernement français, Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE4b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE4c",
+  "fichier": "CE4c.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE4c.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE50",
+  "fichier": "CE50.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0099
+  ],
+  "parties": 22,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE50.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE50.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE51",
+  "fichier": "CE51.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE51.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_CE51.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE52",
+  "fichier": "CE52.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Ministère de la Transition écologique et solidaire",
+  "source": "Wikimedia Commons France_road_sign_CE52.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE5a",
+  "fichier": "CE5a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE5a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE5b",
+  "fichier": "CE5b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE5b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE6a",
+  "fichier": "CE6a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_CE6a.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE6b",
+  "fichier": "CE6b.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE6b.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE6b.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE7",
+  "fichier": "CE7.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE7.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE8",
+  "fichier": "CE8.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE8.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE8.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE9",
+  "fichier": "CE9.glb",
+  "dims_m": [
+   0.7,
+   0.6889,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_CE9.svg",
+  "licence": "Public domain",
+  "auteur": "Original: Gouvernement français Vector:  Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_CE9.svg",
+  "gamme": "normale",
+  "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
+  "statut_dimension": "iisr"
+ },
+ {
+  "code": "D45",
+  "fichier": "D45.glb",
+  "dims_m": [
+   0.7,
+   0.2367,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 23,
+  "svg_source": "France_road_sign_D45.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_D45.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "D46a",
+  "fichier": "D46a.glb",
+  "dims_m": [
+   0.7,
+   0.2989,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 4,
+  "svg_source": "France_road_sign_D46a.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_D46a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "D47c",
+  "fichier": "D47c.glb",
+  "dims_m": [
+   0.7,
+   0.2679,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 4,
+  "svg_source": "France_road_sign_D47c.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_D47c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "D52a",
+  "fichier": "D52a.glb",
+  "dims_m": [
+   0.7,
+   0.5599,
+   0.0219
+  ],
+  "parties": 52,
+  "hors_forme_ignores": 7,
+  "svg_source": "France_road_sign_D52a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "KiwiNeko14",
+  "source": "Wikimedia Commons France_road_sign_D52a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "D61",
+  "fichier": "D61.glb",
+  "dims_m": [
+   0.7,
+   0.2171,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_D61.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_D61.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "D61b",
+  "fichier": "D61b.glb",
+  "dims_m": [
+   0.7,
+   0.2205,
+   0.0107
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 7,
+  "svg_source": "France_road_sign_D61b.svg",
+  "licence": "CC0",
+  "auteur": "EthanL13",
+  "source": "Wikimedia Commons France_road_sign_D61b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "Dv11",
+  "fichier": "Dv11.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_Dv11.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_Dv11.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "Dv61",
+  "fichier": "Dv61.glb",
+  "dims_m": [
+   0.7,
+   0.1149,
+   0.0359
+  ],
+  "parties": 87,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_Dv61.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_Dv61.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "E39",
+  "fichier": "E39.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0507
+  ],
+  "parties": 124,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_E39.svg",
+  "licence": "CC0",
+  "auteur": "EthanL13",
+  "source": "Wikimedia Commons France_road_sign_E39.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "EB10",
+  "fichier": "EB10.glb",
+  "dims_m": [
+   0.7,
+   0.2471,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_EB10.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "EB20",
+  "fichier": "EB20.glb",
+  "dims_m": [
+   0.7,
+   0.2471,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Kilyann Le Hen",
+  "source": "Wikimedia Commons France_road_sign_EB20.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID10",
+  "fichier": "ID10.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID10.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID10.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID11",
+  "fichier": "ID11.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID11.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID11.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID12a",
+  "fichier": "ID12a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0159
+  ],
+  "parties": 37,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID12a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID12a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID12b",
+  "fichier": "ID12b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID12b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID12b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID13a",
+  "fichier": "ID13a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0119
+  ],
+  "parties": 27,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID13a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID13a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID13b",
+  "fichier": "ID13b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID13b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID13b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID14a",
+  "fichier": "ID14a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 8,
+  "svg_source": "France_road_sign_ID14a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID14a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID14b",
+  "fichier": "ID14b.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID14b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID14b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID14c",
+  "fichier": "ID14c.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID14c.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID14c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID14d",
+  "fichier": "ID14d.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID14d.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID14d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID14e",
+  "fichier": "ID14e.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID14e.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID14e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a",
+  "fichier": "ID15a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a29",
+  "fichier": "ID15a29.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a29.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a29.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a30",
+  "fichier": "ID15a30.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0123
+  ],
+  "parties": 28,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a30.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a30.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a31",
+  "fichier": "ID15a31.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0155
+  ],
+  "parties": 36,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a31.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a31.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a32",
+  "fichier": "ID15a32.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0119
+  ],
+  "parties": 27,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a32.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a32.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a33",
+  "fichier": "ID15a33.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0103
+  ],
+  "parties": 23,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a33.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a33.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a34",
+  "fichier": "ID15a34.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0183
+  ],
+  "parties": 43,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a34.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a34.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a35",
+  "fichier": "ID15a35.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 4,
+  "svg_source": "France_road_sign_ID15a35.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a35.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a36",
+  "fichier": "ID15a36.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0215
+  ],
+  "parties": 51,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a36.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a36.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a37",
+  "fichier": "ID15a37.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0239
+  ],
+  "parties": 57,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a37.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a37.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a38",
+  "fichier": "ID15a38.glb",
+  "dims_m": [
+   0.7,
+   0.7005,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 4,
+  "svg_source": "France_road_sign_ID15a38.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a38.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a39",
+  "fichier": "ID15a39.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a39.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a39.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a40",
+  "fichier": "ID15a40.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0103
+  ],
+  "parties": 23,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a40.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a40.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a41",
+  "fichier": "ID15a41.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0503
+  ],
+  "parties": 123,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a41.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a41.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a42",
+  "fichier": "ID15a42.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0239
+  ],
+  "parties": 57,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a42.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a42.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a43",
+  "fichier": "ID15a43.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.3219
+  ],
+  "parties": 802,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a43.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a43.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a44",
+  "fichier": "ID15a44.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0183
+  ],
+  "parties": 43,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a44.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a44.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a45",
+  "fichier": "ID15a45.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a45.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a45.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a46",
+  "fichier": "ID15a46.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a46.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a46.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a47",
+  "fichier": "ID15a47.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a47.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a47.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15a48",
+  "fichier": "ID15a48.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0099
+  ],
+  "parties": 22,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15a48.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15a48.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15b",
+  "fichier": "ID15b.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15c",
+  "fichier": "ID15c.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0127
+  ],
+  "parties": 29,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15c.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15d",
+  "fichier": "ID15d.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15d.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15e",
+  "fichier": "ID15e.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15e.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID15f",
+  "fichier": "ID15f.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0167
+  ],
+  "parties": 39,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID15f.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID15f.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID16a",
+  "fichier": "ID16a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID16a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID16a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID16b",
+  "fichier": "ID16b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0159
+  ],
+  "parties": 37,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID16b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID16b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID16c",
+  "fichier": "ID16c.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID16c.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Penegal (talk · contribs), based on Centre d'études et d'expertise sur les risqu",
+  "source": "Wikimedia Commons France_road_sign_ID16c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID16d",
+  "fichier": "ID16d.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID16d.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID16d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID16e",
+  "fichier": "ID16e.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 4,
+  "svg_source": "France_road_sign_ID16e.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID16e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID17",
+  "fichier": "ID17.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID17.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID17.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID18",
+  "fichier": "ID18.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID18.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID18.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID19",
+  "fichier": "ID19.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID19.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID19.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID1a",
+  "fichier": "ID1a.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 8,
+  "svg_source": "France_road_sign_ID1a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID1a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID1b",
+  "fichier": "ID1b.glb",
+  "dims_m": [
+   0.7,
+   0.351,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID1b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID1b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID1c",
+  "fichier": "ID1c.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID1c.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID1c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID2",
+  "fichier": "ID2.glb",
+  "dims_m": [
+   0.7,
+   0.6971,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID2.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID20a",
+  "fichier": "ID20a.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0119
+  ],
+  "parties": 27,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID20a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID20a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID20b",
+  "fichier": "ID20b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID20b.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_ID20b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID20c",
+  "fichier": "ID20c.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID20c.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID20c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID20d",
+  "fichier": "ID20d.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0099
+  ],
+  "parties": 22,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID20d.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID20d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID20e",
+  "fichier": "ID20e.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0099
+  ],
+  "parties": 22,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID20e.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID20e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID21a",
+  "fichier": "ID21a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID21a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID21a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID21b",
+  "fichier": "ID21b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID21b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID21b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID22",
+  "fichier": "ID22.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0155
+  ],
+  "parties": 36,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID22.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID22.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID23",
+  "fichier": "ID23.glb",
+  "dims_m": [
+   0.7,
+   0.7012,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID23.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_ID23.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID24",
+  "fichier": "ID24.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0123
+  ],
+  "parties": 28,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID24.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID24.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID25",
+  "fichier": "ID25.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID25.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID25.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID26a",
+  "fichier": "ID26a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID26a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID26a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID26b",
+  "fichier": "ID26b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID26b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID26b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID27",
+  "fichier": "ID27.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0107
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID27.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID27.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID28",
+  "fichier": "ID28.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID28.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID28.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID29",
+  "fichier": "ID29.glb",
+  "dims_m": [
+   0.7,
+   0.6997,
+   0.0099
+  ],
+  "parties": 22,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID29.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID29.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID3",
+  "fichier": "ID3.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID3.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID30",
+  "fichier": "ID30.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID30.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID30.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID31",
+  "fichier": "ID31.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0103
+  ],
+  "parties": 23,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID31.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID31.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID32",
+  "fichier": "ID32.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0119
+  ],
+  "parties": 27,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID32.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID32.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID33a",
+  "fichier": "ID33a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0127
+  ],
+  "parties": 29,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID33a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID33a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID33b",
+  "fichier": "ID33b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0127
+  ],
+  "parties": 29,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID33b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID33b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID34a",
+  "fichier": "ID34a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID34a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID34a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID34b",
+  "fichier": "ID34b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0127
+  ],
+  "parties": 29,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID34b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID34b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID35",
+  "fichier": "ID35.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0111
+  ],
+  "parties": 25,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID35.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID35.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID36",
+  "fichier": "ID36.glb",
+  "dims_m": [
+   0.7,
+   0.7014,
+   0.0103
+  ],
+  "parties": 23,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID36.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID36.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID37",
+  "fichier": "ID37.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0147
+  ],
+  "parties": 34,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID37.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID37.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID38",
+  "fichier": "ID38.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID38.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID38.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID39",
+  "fichier": "ID39.glb",
+  "dims_m": [
+   0.7,
+   0.6995,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID39.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID39.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID4",
+  "fichier": "ID4.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID4.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID4.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID5a",
+  "fichier": "ID5a.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID5a.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID5a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID5b",
+  "fichier": "ID5b.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID5b.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID5b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID6",
+  "fichier": "ID6.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID6.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID6.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID7",
+  "fichier": "ID7.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID7.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID7.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID8",
+  "fichier": "ID8.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0087
+  ],
+  "parties": 19,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID8.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID8.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ID9",
+  "fichier": "ID9.glb",
+  "dims_m": [
+   0.7,
+   0.6998,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_ID9.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_ID9.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "J5",
+  "fichier": "J5.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex_45",
+  "source": "Wikimedia Commons France_road_sign_J5.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M1",
+  "fichier": "M1.glb",
+  "dims_m": [
+   0.7,
+   0.2031,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M1.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M10a",
+  "fichier": "M10a.glb",
+  "dims_m": [
+   0.7,
+   0.2054,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M10a.svg",
+  "licence": "Public domain",
+  "auteur": "Chabe01 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M10a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M10b",
+  "fichier": "M10b.glb",
+  "dims_m": [
+   0.7,
+   0.349,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M10b.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M10b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M10c",
+  "fichier": "M10c.glb",
+  "dims_m": [
+   0.7,
+   0.2054,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M10c.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M10c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M10z",
+  "fichier": "M10z.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M10z.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_M10z.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M11a",
+  "fichier": "M11a.glb",
+  "dims_m": [
+   0.7,
+   0.3418,
+   0.0155
+  ],
+  "parties": 36,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M11a.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M11a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M11b1",
+  "fichier": "M11b1.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M11b1.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M11b1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M11b2",
+  "fichier": "M11b2.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0135
+  ],
+  "parties": 31,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M11b2.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M11b2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M1a",
+  "fichier": "M1a.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0167
+  ],
+  "parties": 39,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M1a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M1a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M2",
+  "fichier": "M2.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M2.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M3a1",
+  "fichier": "M3a1.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M3a1.svg",
+  "licence": "Public domain",
+  "auteur": "Government of France",
+  "source": "Wikimedia Commons France_road_sign_M3a1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M3d",
+  "fichier": "M3d.glb",
+  "dims_m": [
+   0.7,
+   0.4709,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M3d.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M3d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4d1",
+  "fichier": "M4d1.glb",
+  "dims_m": [
+   0.7,
+   0.2822,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4d1.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Paris 16",
+  "source": "Wikimedia Commons France_road_sign_M4d1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4d2",
+  "fichier": "M4d2.glb",
+  "dims_m": [
+   0.7,
+   0.2833,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4d2.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M4d2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4e",
+  "fichier": "M4e.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4e.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_M4e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4f",
+  "fichier": "M4f.glb",
+  "dims_m": [
+   0.7,
+   0.3003,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4f.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M4f.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4g",
+  "fichier": "M4g.glb",
+  "dims_m": [
+   0.7,
+   0.4871,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4g.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M4g.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4n",
+  "fichier": "M4n.glb",
+  "dims_m": [
+   0.7,
+   0.5952,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4n.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M4n.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4y",
+  "fichier": "M4y.glb",
+  "dims_m": [
+   0.7,
+   0.569,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4y.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M4y.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4z",
+  "fichier": "M4z.glb",
+  "dims_m": [
+   0.7,
+   0.2589,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M4z.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M4z.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M5",
+  "fichier": "M5.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M5.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M5.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6a",
+  "fichier": "M6a.glb",
+  "dims_m": [
+   0.7,
+   0.2821,
+   0.0051
+  ],
+  "parties": 10,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6a.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Paris 16",
+  "source": "Wikimedia Commons France_road_sign_M6a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6c",
+  "fichier": "M6c.glb",
+  "dims_m": [
+   0.7,
+   0.4881,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6c.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_M6c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6e",
+  "fichier": "M6e.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6e.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_M6e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6g",
+  "fichier": "M6g.glb",
+  "dims_m": [
+   0.7,
+   0.2018,
+   0.0103
+  ],
+  "parties": 23,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6g.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_M6g.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6h",
+  "fichier": "M6h.glb",
+  "dims_m": [
+   0.7,
+   0.2054,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "licence": "Public domain",
+  "auteur": "Chabe01 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M6h.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6i",
+  "fichier": "M6i.glb",
+  "dims_m": [
+   0.7,
+   0.4878,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6i.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Paris 16",
+  "source": "Wikimedia Commons France_road_sign_M6i.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6j",
+  "fichier": "M6j.glb",
+  "dims_m": [
+   0.7,
+   0.2054,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6j.svg",
+  "licence": "Public domain",
+  "auteur": "Chabe01 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M6j.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6k1",
+  "fichier": "M6k1.glb",
+  "dims_m": [
+   0.7,
+   0.4878,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6k1.svg",
+  "licence": "Public domain",
+  "auteur": "Chabe01 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M6k1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6k2",
+  "fichier": "M6k2.glb",
+  "dims_m": [
+   0.7,
+   0.2054,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M6k2.svg",
+  "licence": "Public domain",
+  "auteur": "Chabe01 self-made from source above",
+  "source": "Wikimedia Commons France_road_sign_M6k2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M7",
+  "fichier": "M7.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M7.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M7.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8a",
+  "fichier": "M8a.glb",
+  "dims_m": [
+   0.7,
+   1.6447,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8a.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M8a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8b",
+  "fichier": "M8b.glb",
+  "dims_m": [
+   0.7,
+   1.6447,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8b.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M8b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8c",
+  "fichier": "M8c.glb",
+  "dims_m": [
+   0.7,
+   1.6882,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8c.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M8c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8d",
+  "fichier": "M8d.glb",
+  "dims_m": [
+   0.7,
+   0.2978,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8d.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M8d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8e",
+  "fichier": "M8e.glb",
+  "dims_m": [
+   0.7,
+   0.2978,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8e.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M8e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M8f",
+  "fichier": "M8f.glb",
+  "dims_m": [
+   0.7,
+   0.2901,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M8f.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M8f.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9a",
+  "fichier": "M9a.glb",
+  "dims_m": [
+   0.7,
+   0.3896,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9a.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M9a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9b",
+  "fichier": "M9b.glb",
+  "dims_m": [
+   0.7,
+   0.229,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9b.svg",
+  "licence": "Public domain",
+  "auteur": "Government of France",
+  "source": "Wikimedia Commons France_road_sign_M9b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9c",
+  "fichier": "M9c.glb",
+  "dims_m": [
+   0.7,
+   0.2799,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9c.svg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Chabe01",
+  "source": "Wikimedia Commons France_road_sign_M9c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9d",
+  "fichier": "M9d.glb",
+  "dims_m": [
+   0.7,
+   0.218,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9d.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M9d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9e",
+  "fichier": "M9e.glb",
+  "dims_m": [
+   0.7,
+   0.3715,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9e.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M9e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9f",
+  "fichier": "M9f.glb",
+  "dims_m": [
+   0.7,
+   0.4239,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9f.svg",
+  "licence": "CC0",
+  "auteur": "Mathgb",
+  "source": "Wikimedia Commons France_road_sign_M9f.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9j1",
+  "fichier": "M9j1.glb",
+  "dims_m": [
+   0.7,
+   0.4166,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9j1.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_M9j1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9j2",
+  "fichier": "M9j2.glb",
+  "dims_m": [
+   0.7,
+   0.4078,
+   0.0095
+  ],
+  "parties": 21,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9j2.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_M9j2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9k1",
+  "fichier": "M9k1.glb",
+  "dims_m": [
+   0.7,
+   0.3715,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9k1.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "Xfigpower",
+  "source": "Wikimedia Commons France_road_sign_M9k1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9k2",
+  "fichier": "M9k2.glb",
+  "dims_m": [
+   0.7,
+   0.3715,
+   0.0075
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9k2.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "Xfigpower",
+  "source": "Wikimedia Commons France_road_sign_M9k2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9l",
+  "fichier": "M9l.glb",
+  "dims_m": [
+   0.7,
+   0.197,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_M9l.svg",
+  "licence": "CC BY 4.0",
+  "auteur": "Xfigpower",
+  "source": "Wikimedia Commons France_road_sign_M9l.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SC10",
+  "fichier": "SC10.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0079
+  ],
+  "parties": 17,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SC10.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SC10.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SC11",
+  "fichier": "SC11.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0071
+  ],
+  "parties": 15,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SC11.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SC11.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SC12",
+  "fichier": "SC12.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SC12.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SC12.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SC2",
+  "fichier": "SC2.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SC2.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SC2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SC7",
+  "fichier": "SC7.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SC7.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SC7.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SE2b",
+  "fichier": "SE2b.glb",
+  "dims_m": [
+   0.7,
+   0.3113,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SE2b.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_SE2b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SE2c",
+  "fichier": "SE2c.glb",
+  "dims_m": [
+   0.7,
+   0.3113,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SE2c.svg",
+  "licence": "CC0",
+  "auteur": "มองโกเลีย๔๔",
+  "source": "Wikimedia Commons France_road_sign_SE2c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SE3",
+  "fichier": "SE3.glb",
+  "dims_m": [
+   0.7,
+   0.5252,
+   0.0023
+  ],
+  "parties": 3,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SE3.svg",
+  "licence": "Public domain",
+  "auteur": "République Française",
+  "source": "Wikimedia Commons France_road_sign_SE3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SI10",
+  "fichier": "SI10.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0107
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SI10.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SI10.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SI11",
+  "fichier": "SI11.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0083
+  ],
+  "parties": 18,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SI11.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SI11.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SI12",
+  "fichier": "SI12.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0091
+  ],
+  "parties": 20,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SI12.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SI12.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3a",
+  "fichier": "SR3a.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3a.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3b",
+  "fichier": "SR3b.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3b.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3c1",
+  "fichier": "SR3c1.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3c1.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3c1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3c2",
+  "fichier": "SR3c2.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3c2.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3c2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3c3",
+  "fichier": "SR3c3.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3c3.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3c3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3d",
+  "fichier": "SR3d.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0027
+  ],
+  "parties": 4,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3d.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR3e",
+  "fichier": "SR3e.glb",
+  "dims_m": [
+   0.7,
+   1.0511,
+   0.0043
+  ],
+  "parties": 8,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SR3e.svg",
+  "licence": "CC BY-SA 3.0",
+  "auteur": "Ryse93",
+  "source": "Wikimedia Commons France_road_sign_SR3e.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SU1",
+  "fichier": "SU1.glb",
+  "dims_m": [
+   0.7,
+   0.4084,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SU1.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SU1.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SU2",
+  "fichier": "SU2.glb",
+  "dims_m": [
+   0.7,
+   0.7,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SU2.svg",
+  "licence": "Public domain",
+  "auteur": "République Française",
+  "source": "Wikimedia Commons France_road_sign_SU2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SU3",
+  "fichier": "SU3.glb",
+  "dims_m": [
+   0.7,
+   0.34,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SU3.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SU3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SU4",
+  "fichier": "SU4.glb",
+  "dims_m": [
+   0.7,
+   0.6999,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SU4.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SU4.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SU5",
+  "fichier": "SU5.glb",
+  "dims_m": [
+   0.7,
+   0.2625,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_SU5.svg",
+  "licence": "Licence Ouverte",
+  "auteur": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et ",
+  "source": "Wikimedia Commons France_road_sign_SU5.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA13a",
+  "fichier": "XA13a.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA13a.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA13a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA13b",
+  "fichier": "XA13b.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0055
+  ],
+  "parties": 11,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA13b.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA13b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA14",
+  "fichier": "XA14.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA14.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA14.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA15b",
+  "fichier": "XA15b.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA15b.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA15b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA16",
+  "fichier": "XA16.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0067
+  ],
+  "parties": 14,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA16.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA16.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA17",
+  "fichier": "XA17.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA17.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA17.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA18",
+  "fichier": "XA18.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA18.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA18.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA1a",
+  "fichier": "XA1a.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA1a.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_XA1a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA1b",
+  "fichier": "XA1b.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA1b.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_XA1b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA1c",
+  "fichier": "XA1c.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA1c.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_XA1c.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA1d",
+  "fichier": "XA1d.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA1d.svg",
+  "licence": "Public domain",
+  "auteur": "Roulex 45",
+  "source": "Wikimedia Commons France_road_sign_XA1d.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA2",
+  "fichier": "XA2.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0031
+  ],
+  "parties": 5,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA2.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA2.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA20",
+  "fichier": "XA20.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA20.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA20.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA24",
+  "fichier": "XA24.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0059
+  ],
+  "parties": 12,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA24.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA24.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA25",
+  "fichier": "XA25.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0063
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA25.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA25.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA26",
+  "fichier": "XA26.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA26.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA26.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA3",
+  "fichier": "XA3.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA3.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA3.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA3a",
+  "fichier": "XA3a.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA3a.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA3a.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA3b",
+  "fichier": "XA3b.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0035
+  ],
+  "parties": 6,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA3b.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA3b.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA4",
+  "fichier": "XA4.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0039
+  ],
+  "parties": 7,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA4.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA4.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA6",
+  "fichier": "XA6.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA6.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA6.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XA7",
+  "fichier": "XA7.glb",
+  "dims_m": [
+   0.7,
+   0.6166,
+   0.0047
+  ],
+  "parties": 9,
+  "hors_forme_ignores": 0,
+  "svg_source": "France_road_sign_XA7.svg",
+  "licence": "Public domain",
+  "auteur": "Own work",
+  "source": "Wikimedia Commons France_road_sign_XA7.svg",
+  "gamme": "normale",
+  "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
+  "statut_dimension": "provisoire"
+ }
+]
