@@ -1,6 +1,6 @@
 """Gabarits paramétriques direction / texte / cartouches / dynamiques — dans Blender.
 Exécuté dans le service Blender (exec) : result = run_gabarits([...specs...]).
-Police : Bfont Blender (Inter, SIL OFL) = SUBSTITUT provisoire des alphabets IISR L1/L2/L4/L5.
+Police : Noto Sans CJK Regular (glyphes latins = Source Sans, SIL OFL 1.1, fichier distribue avec Blender) = SUBSTITUT provisoire des alphabets IISR L1/L2/L4/L5.
 Hauteur de caractère = hauteur de capitale, choisie dans la gamme IISR.
 """
 import bpy, math, os, re, json, bmesh
@@ -9,12 +9,21 @@ exec(open('/projects/catalogue_panneaux/gen_svg.py').read())  # getmat, cleanup,
 
 TH = 0.0004
 GAMMES = [0.4, 0.32, 0.25, 0.2, 0.16, 0.125, 0.1, 0.08, 0.0625, 0.05, 0.04, 0.032, 0.025]
+def _l(c):
+    c = c / 255.0
+    return c / 12.92 if c <= 0.04045 else ((c + 0.055) / 1.055) ** 2.4
+
+
+def _rgb(r, g, b):
+    return (_l(r), _l(g), _l(b), 1)
+
+
 PAL = {
-    'vert': ('Vert_Panneau', (0.0, 0.4, 0.2, 1)), 'bleu': ('Bleu_Panneau', (0.0, 0.12, 0.55, 1)),
-    'blanc': ('Blanc_Retro', (0.9, 0.9, 0.88, 1)), 'noir': ('Noir_Pictogramme', (0.02, 0.02, 0.02, 1)),
-    'jaune': ('Jaune_Panneau', (0.95, 0.75, 0.0, 1)), 'rouge': ('Rouge_Panneau', (0.65, 0.02, 0.02, 1)),
-    'orange': ('Orange_Panneau', (0.9, 0.4, 0.0, 1)), 'marron': ('Marron_Panneau', (0.35, 0.2, 0.1, 1)),
-    'ambre': ('Ambre_Dynamique', (1.0, 0.65, 0.05, 1)), 'gris': ('Gris_Panneau', (0.4, 0.4, 0.4, 1)),
+    'vert': ('Vert_Panneau', _rgb(0, 112, 74)), 'bleu': ('Bleu_Panneau', _rgb(0, 70, 140)),
+    'blanc': ('Blanc_Retro', _rgb(240, 240, 235)), 'noir': ('Noir_Pictogramme', _rgb(20, 20, 20)),
+    'jaune': ('Jaune_Panneau', _rgb(255, 204, 0)), 'rouge': ('Rouge_Panneau', _rgb(200, 16, 46)),
+    'orange': ('Orange_Panneau', _rgb(240, 120, 0)), 'marron': ('Marron_Panneau', _rgb(89, 52, 28)),
+    'ambre': ('Ambre_Dynamique', _rgb(255, 170, 20)), 'gris': ('Gris_Panneau', _rgb(110, 110, 110)),
 }
 
 
@@ -53,7 +62,7 @@ def arrow_pts(s, deg=0, tail=0.55):
 
 class Build:
     def __init__(self, code):
-        self.code = code; self.parts = []; self.z = 0
+        self.code = code; self.parts = []; self.z = 0; self.caps = []
         self.col = bpy.data.collections.new(code); bpy.context.scene.collection.children.link(self.col)
         self.root = bpy.data.objects.new(code, None); self.col.objects.link(self.root)
 
@@ -83,8 +92,8 @@ class Build:
     def text(self, s, cx, cy, cap, color, italic=False, spacing=1.0, align='CENTER', maxw=None):
         """Texte dont la hauteur de capitale est cap (m), réduite dans la gamme si largeur > maxw."""
         k = CAPRATIO[0]
-        cu = bpy.data.curves.new('t', 'FONT'); cu.body = s; cu.size = 1.0; cu.align_x = align; cu.align_y = 'CENTER'
-        cu.extrude = TH / 2; cu.shear = 0.2 if italic else 0.0; cu.space_character = spacing; cu.space_word = spacing
+        cu = bpy.data.curves.new('t', 'FONT'); cu.font = get_inter(); cu.body = s; cu.size = 1.0; cu.align_x = align; cu.align_y = 'CENTER'
+        cu.fill_mode = FILLMODE[0]; cu.extrude = TH / 2; cu.shear = 0.2 if italic else 0.0; cu.space_character = spacing; cu.space_word = spacing
         o = bpy.data.objects.new('t', cu); self.col.objects.link(o)
         dg = bpy.context.evaluated_depsgraph_get(); me = bpy.data.meshes.new_from_object(o.evaluated_get(dg))
         xs = [v.co.x for v in me.vertices] or [0, 1]; w1 = max(xs) - min(xs); bpy.data.meshes.remove(me)
@@ -99,19 +108,40 @@ class Build:
         ob.location = (cx, cy - 0.0, 0.0015 + self.z * TH)
         ob.data.materials.append(color); self.col.objects.link(ob); ob.parent = self.root
         bpy.data.objects.remove(o); self.parts.append(ob); self.z += 1
+        self.caps.append(round(cap * 1000, 1))
         return cap
 
 
+FILLMODE = ['BOTH']
 CAPRATIO = [0.72]
+_INTER = []
+FONTPATH = ['/opt/blender/4.0/datafiles/fonts/Noto Sans CJK Regular.woff2']
+
+
+def get_inter():
+    if not _INTER:
+        _INTER.append(bpy.data.fonts.load(FONTPATH[0]))
+    return _INTER[0]
 
 
 def calibrate():
-    cu = bpy.data.curves.new('c', 'FONT'); cu.body = 'H'; cu.size = 1.0
+    cu = bpy.data.curves.new('c', 'FONT'); cu.font = get_inter(); cu.body = 'H'; cu.size = 1.0
     o = bpy.data.objects.new('c', cu); bpy.context.scene.collection.objects.link(o)
     me = bpy.data.meshes.new_from_object(o.evaluated_get(bpy.context.evaluated_depsgraph_get()))
     ys = [v.co.y for v in me.vertices]; CAPRATIO[0] = (max(ys) - min(ys)) or 0.72
     bpy.data.meshes.remove(me); bpy.data.objects.remove(o); bpy.data.curves.remove(cu)
     return CAPRATIO[0]
+
+
+
+def row(b, txt, x0, x1, y, cap, col, maxw=None):
+    # mention a gauche (x0) et distance eventuelle a droite (x1), separees par |
+    if '|' in txt:
+        m, d = txt.split('|', 1)
+        c = b.text(m, x0, y, cap, col, False, align='LEFT', maxw=(maxw - 0.25) if maxw else None)
+        b.text(d, x1, y, c, col, False, align='RIGHT')
+    else:
+        b.text(txt, x0, y, cap, col, False, align='LEFT', maxw=maxw)
 
 
 # ---------------------------------------------------------------- gabarits
@@ -127,30 +157,57 @@ def tpl_position(b, W, H, S):
     n = len(lines)
     for i, l in enumerate(lines):
         y = (H / 2 - H * (i + 1) / (n + 1))
-        b.text(l, 0, y, cap, mat(S['fg']), S.get('italic', False), maxw=W * 0.86)
+        b.text(l.replace('|', '  '), 0, y, cap, mat(S['fg']), S.get('italic', False), maxw=W * 0.86)
+
+
+def fleche_panneau(W, H, p, sens):
+    pts = [(-W / 2, -H / 2), (W / 2 - p, -H / 2), (W / 2, 0), (W / 2 - p, H / 2), (-W / 2, H / 2)]
+    return [(-x, y) for x, y in pts][::-1] if sens == 180 else pts
+
+
+def inset_fleche(W, H, p, sens, d):
+    k = p * (H / 2 - d) / (H / 2)
+    return fleche_panneau(W - 2 * d, H - 2 * d, k, sens)
 
 
 def tpl_dirfleche(b, W, H, S):
-    frame(b, W, H, S['bg'], S['fg'], r=0.04)
-    rows = S['lines'][:3]; n = len(rows)
-    rh = (H - 0.1) / n
-    ar = S.get('arrow', 180)
-    for i, l in enumerate(rows):
-        y = H / 2 - 0.05 - rh * (i + 0.5)
-        b.poly([arrow_pts(min(rh * 0.8, 0.45), ar)], mat(S['fg']), 'fl', dx=-W / 2 + 0.05 + min(rh * 0.8, 0.45) / 2, dy=y)
-        b.text(l, -W / 2 + 0.2 + min(rh * 0.8, 0.45), y, min(0.125, rh * 0.45), mat(S['fg']), False, align='LEFT', maxw=W - 0.4 - min(rh * 0.8, 0.45))
+    ar = S.get('arrow', 0)
+    cap = min(0.16, H * 0.2)
+    ls = S['lines'][:4]; n = len(ls)
+    if ar in (0, 180):
+        # panneau de direction en forme de flèche (extrémité pointue), liseré
+        p = min(H * 0.38, W * 0.25); d = 0.02
+        b.poly([fleche_panneau(W, H, p, ar)], mat(S['fg']), 'cadre')
+        b.poly([inset_fleche(W, H, p, ar, d)], mat(S['bg']), 'fond', dx=(-d * 0.0))
+        x0 = (-W / 2 + 0.12) if ar == 0 else (-W / 2 + p + 0.12)
+        for i, l in enumerate(ls):
+            y = H / 2 - H * (i + 1) / (n + 1)
+            row(b, l, x0, W / 2 - p - 0.08, y, cap, mat(S['fg']), maxw=W - p - 0.3)
+    else:
+        # panneau rectangulaire, flèche fine verticale/oblique en tête, mentions alignées à gauche
+        frame(b, W, H, S['bg'], S['fg'], r=0.04)
+        al = min(H * 0.6, W * 0.16); cap = min(0.16, H * 0.26)
+        b.poly([arrow_pts(al, ar, 0.55)], mat(S['fg']), 'fl', dx=-W / 2 + 0.1 + al * 0.5, dy=0)
+        x0 = -W / 2 + 0.12 + al * 1.1
+        for i, l in enumerate(ls):
+            y = H / 2 - H * (i + 1) / (n + 1)
+            row(b, l, x0, W / 2 - 0.1, y, cap, mat(S['fg']), maxw=W - (x0 + W / 2) - 0.12)
 
 
 def tpl_presign(b, W, H, S):
+    # presignalisation a diagramme (type D42/D43) : trace fin, mentions au bout des branches
     frame(b, W, H, S['bg'], S['fg'], r=0.04)
-    sw = 0.05
-    b.poly([[(-sw, -H / 2 + 0.15), (sw, -H / 2 + 0.15), (sw, H / 2 - 0.55), (-sw, H / 2 - 0.55)]], mat(S['fg']), 'tige', dx=-W / 4)
-    b.poly([arrow_pts(0.5, 90)], mat(S['fg']), 'fl', dx=-W / 4, dy=H / 2 - 0.4)
-    b.poly([arrow_pts(0.45, 0)], mat(S['fg']), 'br', dx=-W / 4 + 0.3, dy=0.0)
-    n = min(len(S['lines']), 3)
-    for i in range(n):
-        y = H / 2 - 0.25 - (H - 0.5) * i / max(n - 1, 1) if n > 1 else 0
-        b.text(S['lines'][i], W / 8 + 0.05, y, 0.1, mat(S['fg']), False, maxw=W * 0.55)
+    sw = 0.03; xs = -W / 2 + 0.35; yb = -H * 0.05
+    b.poly([[(xs - sw, -H / 2 + 0.12), (xs + sw, -H / 2 + 0.12), (xs + sw, H / 2 - 0.4), (xs - sw, H / 2 - 0.4)]], mat(S['fg']), 'tronc')
+    b.poly([arrow_pts(0.36, 90)], mat(S['fg']), 'tete', dx=xs, dy=H / 2 - 0.3)
+    b.poly([[(xs, yb - sw), (xs + 0.34, yb - sw), (xs + 0.34, yb + sw), (xs, yb + sw)]], mat(S['fg']), 'br')
+    b.poly([arrow_pts(0.3, 0)], mat(S['fg']), 'tb', dx=xs + 0.4, dy=yb)
+    ls = S['lines'][:3]
+    x1 = W / 2 - 0.1
+    if ls:
+        row(b, ls[0], xs + 0.28, x1, H / 2 - 0.3, 0.125, mat(S['fg']), maxw=x1 - xs - 0.28)
+    for l, dy in zip(ls[1:3], (0.14, -0.14)):
+        row(b, l, xs + 0.62, x1, yb + dy, 0.1, mat(S['fg']), maxw=x1 - xs - 0.62)
 
 
 def tpl_affectation(b, W, H, S):
@@ -158,11 +215,12 @@ def tpl_affectation(b, W, H, S):
     n = S.get('voies', 3)
     for i in range(n):
         x = -W / 2 + W * (i + 0.5) / n
-        b.poly([arrow_pts(H * 0.45, 90 if i < n - 1 else 45)], mat(S['fg']), 'v', dx=x, dy=-H * 0.1)
+        down = S.get('famille') == 'DA'
+        b.poly([arrow_pts(min(H * 0.4, W / n * 0.7), (-90 if i < n - 1 else -45) if down else (90 if i < n - 1 else 45))], mat(S['fg']), 'v', dx=x, dy=-H * 0.17)
         if i < n - 1:
             xs = -W / 2 + W * (i + 1) / n
-            b.poly([[(-0.01, -H / 2 + 0.1), (0.01, -H / 2 + 0.1), (0.01, H / 2 - 0.1), (-0.01, H / 2 - 0.1)]], mat(S['fg']), 'sep', dx=xs)
-    b.text(S['lines'][0], 0, H / 2 - 0.2, 0.1, mat(S['fg']), False, maxw=W * 0.8)
+            b.poly([[(-0.01, -H / 2 + 0.1), (0.01, -H / 2 + 0.1), (0.01, H / 2 - 0.42), (-0.01, H / 2 - 0.42)]], mat(S['fg']), 'sep', dx=xs)
+    b.text(S['lines'][0], 0, H / 2 - 0.2, 0.125 if S.get('famille') == 'DA' else 0.1, mat(S['fg']), False, maxw=W * 0.8)
 
 
 def tpl_cartouche(b, W, H, S):
@@ -221,12 +279,18 @@ TPL = {'position': tpl_position, 'dirfleche': tpl_dirfleche, 'presign': tpl_pres
        'deviation': tpl_deviation, 'plaque': tpl_plaque}
 
 
+BG_TRANSP = [True]
+
+
 def render_png(root, path, W, H, px=384):
     sc = bpy.context.scene
     sc.render.engine = 'BLENDER_WORKBENCH'
     sh = sc.display.shading; sh.light = 'FLAT'; sh.color_type = 'MATERIAL'; sh.show_cavity = False
-    sc.render.film_transparent = True
-    asp = W / H
+    sc.render.film_transparent = BG_TRANSP[0]
+    if not BG_TRANSP[0]:
+        sc.world.use_nodes = False; sc.world.color = (0.62, 0.66, 0.70); sh.background_type = 'WORLD'
+    asp = min(max(W / H, 0.25), 4.0)
+    sc.world = sc.world or bpy.data.worlds.new('w')
     sc.render.resolution_x = px if asp >= 1 else int(px * asp); sc.render.resolution_y = int(px / asp) if asp >= 1 else px
     sc.view_settings.view_transform = 'Standard'
     cam = bpy.data.objects.get('_cam')
@@ -262,13 +326,14 @@ def run_gabarits(specs, outdir='/projects/catalogue_panneaux/glb_gab/', vigdir='
                 back.data.materials.append(alu()); b.col.objects.link(back); back.parent = b.root
             b.root.rotation_euler[0] = math.pi / 2
             meta = {'code_iisr': code, 'gabarit': S['tpl'], 'contenu_exemple': True, 'statut_dimension': 'provisoire',
-                    'police': 'Bfont Blender (Inter, SIL OFL) - substitut des alphabets IISR', 'alphabet_cible': S.get('alphabet', 'L1'),
+                    'police': 'Noto Sans CJK Regular (latin = Source Sans, SIL OFL 1.1) - substitut des alphabets IISR', 'hauteur_caractere_mm': ';'.join(str(c) for c in sorted(set(b.caps), reverse=True)), 'gamme_mm': ';'.join(str(c) for c in sorted(set(b.caps), reverse=True)), 'capratio_police': round(CAPRATIO[0], 4), 'alphabet_cible': S.get('alphabet', 'L1'),
                     'couleur_fond': S.get('bg', ''), 'aspect': 'generique schematique (a valider)',
                     'licence': 'CC0 (geometrie generee) ; code MIT', 'auteur': 'catalogue 3D panneaux (gabarit parametrique)',
                     'source': 'IISR - dessin schematique', 'dimension_source': 'hypothese', 'dimensions_m': f'{W}x{H}'}
             meta.update(S.get('meta', {}))
             for k, v in meta.items(): b.root[k] = v
             fn, dims = export_sign(b.root, outdir)
+            BG_TRANSP[0] = bool(S.get('dos', S['tpl'] not in ('croix',)))
             render_png(b.root, vigdir + code + '.png', W, H)
             res.append({'code': code, 'glb': os.path.basename(fn), 'dims': dims, 'faces': sum(len(o.data.polygons) for o in b.parts)})
         except Exception as e:

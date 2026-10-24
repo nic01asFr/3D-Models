@@ -13,7 +13,7 @@ Mis à jour le 2026-10-24 — 955 entrées de la matrice IISR.
 | représentation produite (message/pictogramme/dispositif) | 19 |
 | produit (variantes par valeur) | 4 |
 
-Lecture : **produit (pictogramme officiel)** = pictogramme issu de Wikimedia Commons ; **gabarit** = texte/flèche/cartouche paramétrique avec police de substitution (Inter, OFL) et contenu d’exemple ; **silhouette** = forme et couleur du type, pictogramme à dessiner ; **modèle schématique** = feu, balise ou dispositif dessiné par primitives ; **fiche** = famille ou concept sans objet unitaire (voir `planches/`).
+Lecture : **produit (pictogramme officiel)** = pictogramme issu de Wikimedia Commons ; **gabarit** = texte/flèche/cartouche paramétrique avec police de substitution (Noto Sans CJK Regular / Source Sans, OFL 1.1) et contenu d’exemple ; **silhouette** = forme et couleur du type, pictogramme à dessiner ; **modèle schématique** = feu, balise ou dispositif dessiné par primitives ; **fiche** = famille ou concept sans objet unitaire (voir `planches/`).
 
 Toutes les dimensions des gabarits, silhouettes et modèles sont **provisoires** (gamme normale, hypothèse).
 
@@ -85,7 +85,19 @@ Toutes les dimensions des gabarits, silhouettes et modèles sont **provisoires**
 ## Limites connues
 
 - Une seule gamme de dimension par objet (pas encore de gammes petite / normale / grande / très grande).
-- Alphabets IISR L1, L2, L4, L5 non disponibles en police libre : substitut Inter (OFL), hauteur de capitale choisie dans la gamme IISR.
+- Alphabets IISR L1, L2, L4, L5 non disponibles en police libre : substitut Noto Sans CJK Regular (latin Source Sans, OFL 1.1), hauteur de capitale choisie dans la gamme IISR et enregistrée par objet (`hauteur_caractere_mm`). Les premières versions annonçaient à tort Inter.
 - Variantes par valeur (vitesses, tonnages, distances) : exemples seulement pour B25, B30, B43, B51, C4a, C4b ; B14 et B33 complets.
 - 146 pictogrammes sans source libre à dessiner (silhouettes en attendant).
 - Aspect et contenu des gabarits à valider visuellement.
+
+## Règles de composition de la signalisation de direction
+
+Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/regles_composition_directionnelle.json` (avec source : identifiant de règle de la matrice, article, page) et vérifiables par `scripts/composition_directionnelle.py` (`valider(panneau)`) : ordre des blocs de couleur (bleu, vert, blanc, jaune), distances décroissantes dans un bloc, limites de mentions (4 par couleur et par direction, 6 en multicolore, présignalisation 6 ou 9 sur D42, bifurcation 4, portique 12, filante autoroutière hors zone urbaine 4, D71 3), distances en km sans unité, arrondi, casse (majuscules L1/L2 pour une agglomération, minuscules L4 sinon). Les gabarits D, Da, Dp, Dv, DC les respectent dans leur contenu d'exemple. **Hypothèses non sourcées** : la géométrie exacte des panneaux (forme en flèche, diagramme des D42/D43, proportions), les couleurs sRGB (références RAL non vérifiées) et les gabarits de déviation KD ; tous sont marqués `aspect: generique schematique (a valider)`.
+
+## Révision du 24/10/2026 (corrections)
+
+- Police réelle : Noto Sans CJK Regular (latin Source Sans, OFL 1.1) ; hauteur de capitale mesurée sur la géométrie (100 mm demandés = 100,0 mm). `police`, `alphabet_cible`, `hauteur_caractere_mm` sont enregistrés dans chaque GLB généré, dans `catalogue.csv` et dans `manifeste.json`. Les 440 GLB officiels (pictogrammes) n'ont pas de police.
+- Palette : les couleurs étaient définies en linéaire (rendu trop clair) ; elles sont désormais données en sRGB. Les références RAL des fonds ne sont pas vérifiées. **Les 440 objets officiels n'ont pas été régénérés avec cette palette.**
+- Directionnel : contenu d'exemple conforme (majuscules pour les agglomérations, distances en km sans unité, ordre décroissant) ; forme en flèche pour D/Dv/Dp horizontaux ; flèches d'affectation vers le bas pour DA (hypothèse) ; géométrie non sourcée.
+- Vignettes : 889 (dont 424 officiels) et 46 planches, fond gris pour lire les éléments blancs.
+- Limites connues : les variantes a/b/c d'un même gabarit sont visuellement identiques ; les silhouettes (KC, KM, KS, KX, XAK, XB, XC, XD) n'affichent que leur code ; textes petits sur les panneaux Dp/Dc/D44 à D48 (tailles de gamme respectées) ; 13 objets sans vignette dans les planches.
