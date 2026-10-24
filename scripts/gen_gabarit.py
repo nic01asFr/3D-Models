@@ -279,6 +279,43 @@ TPL = {'position': tpl_position, 'dirfleche': tpl_dirfleche, 'presign': tpl_pres
        'deviation': tpl_deviation, 'plaque': tpl_plaque}
 
 
+def tpl_dircomp(b, W, H, S):
+    """Panneau de direction compose PAR CONSTRUCTION (dir_regles.composer) : pile de registres,
+    liseré (clair sur fond foncé, noir sur fond clair), registres en flèche pour D2x/Dv/Dc/Dp,
+    rectangles alignés (talons/pointes alignés), hauteur de caractère = Hc de chaque registre."""
+    G = S['geo']; Wg = G['largeur']; top = H / 2
+    for R in G['registres']:
+        reg = R['registre']; h = R['h']; cap = R['cap']; fond = reg['fond']; fl = reg.get('fleche')
+        clair = fond in ('blanc', 'jaune')
+        lis = max(0.012, cap * 0.12); txt = 'noir' if clair else 'blanc'; col_lis = 'noir' if clair else 'blanc'
+        cy = top - h / 2; top -= h
+        arrowshaped = fl in ('g', 'd') and S.get('arrowshape', True)
+        marge = cap * 1.0
+        if arrowshaped:
+            p = min(h * 0.5, Wg * 0.2); sens = 0 if fl == 'd' else 180
+            b.poly([fleche_panneau(Wg, h, p, sens)], mat(col_lis), 'lis', dy=cy)
+            b.poly([inset_fleche(Wg, h, p, sens, lis)], mat(fond), 'reg', dy=cy)
+            x0 = (-Wg / 2 + marge) if sens == 0 else (-Wg / 2 + p + marge)
+            x1 = (Wg / 2 - p - marge * 0.5) if sens == 0 else (Wg / 2 - marge)
+        else:
+            b.poly([rrect(Wg, h, 0.01)], mat(col_lis), 'lis', dy=cy)
+            b.poly([rrect(Wg - 2 * lis, h - 2 * lis, 0.005)], mat(fond), 'reg', dy=cy)
+            x0 = -Wg / 2 + marge; x1 = Wg / 2 - marge
+            DEG = {'d': 0, 'g': 180, 'h': 90, 'b': -90, 'hd': 45, 'hg': 135}
+            if fl in DEG:
+                al = min(h * 0.7, Wg * 0.2)
+                b.poly([arrow_pts(al, DEG[fl], 0.55)], mat(txt), 'fl', dx=Wg / 2 - marge - al / 2, dy=cy)
+                x1 = Wg / 2 - marge - al * 1.1
+        ms = reg['mentions']; n = max(1, len(ms))
+        for i, m in enumerate(ms):
+            y = cy + h / 2 - h * (i + 0.5) / n
+            line = m['texte'] + ('|' + m['dist'] if m.get('dist') else '')
+            row(b, line, x0, x1, y, cap, mat(txt), maxw=(x1 - x0))
+
+TPL['dircomp'] = tpl_dircomp
+
+
+
 BG_TRANSP = [True]
 
 

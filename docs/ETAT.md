@@ -101,3 +101,12 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - Directionnel : contenu d'exemple conforme (majuscules pour les agglomérations, distances en km sans unité, ordre décroissant) ; forme en flèche pour D/Dv/Dp horizontaux ; flèches d'affectation vers le bas pour DA (hypothèse) ; géométrie non sourcée.
 - Vignettes : 889 (dont 424 officiels) et 46 planches, fond gris pour lire les éléments blancs.
 - Limites connues : les variantes a/b/c d'un même gabarit sont visuellement identiques ; les silhouettes (KC, KM, KS, KX, XAK, XB, XC, XD) n'affichent que leur code ; textes petits sur les panneaux Dp/Dc/D44 à D48 (tailles de gamme respectées) ; 13 objets sans vignette dans les planches.
+
+
+## Panneaux de direction : règles portées par construction (24/10/2026)
+- `scripts/dir_regles.py` : `composer(contenu, contexte)` applique les règles IISR (5e partie art. 81 C, 81-1, 83) et **refuse** un panneau non conforme (ordre des blocs bleu/vert/blanc/jaune, distances décroissantes, limites de mentions, D21a avec distance / D21b sans, Hb indéfini hors table).
+- Calculé par construction : casse (capitales agglomération/pôle, initiale majuscule sinon), distances (km sans unité, « m » si local < 500 m, arrondis), Hb (table art. 83 : autoroutier 70→160, 90→200, 110→250, 130→320 ; autres voiries ≤50→100, 70→100, 90→125 ; ≥ 250 sur portique/potence/haut-mât ; D20 : +1/+2 gamme selon éloignement et absence de présignalisation), Hc (= Hb fond clair, Hb + 1 gamme fond foncé), registres de largeur commune (rectangles, talons et pointes alignés).
+- Gabarit `dircomp` : pile de registres avec liseré (clair sur fond foncé, noir sur fond clair), registres en flèche (D2x, Dv, Dc, Dp, aires), flèche glyphe (présignalisation, sortie).
+- Les métadonnées GLB portent `hb_mm`, `hc_mm`, `contexte`, `regles_appliquees`.
+- **Hypothèses (hors IISR, NF P98-532 / Sétra non consultés)** : coefficients de géométrie `HYP` (hauteur de registre, marges, largeur de caractère, liseré), hauteur de caractère = Hb/Hc (non vérifié : capitale ou hauteur de base), exemples de contenu fictifs.
+- 70 objets D/Dv/Dc/Dp régénérés. Restent à reprendre : Da (affectation de voies), D42/D52 (schémas), D41 avec cartouche d'itinéraire, D7x.
