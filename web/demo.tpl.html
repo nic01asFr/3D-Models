@@ -1,0 +1,144 @@
+<title>Éditeur de panneau directionnel</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout : formulaire à gauche, panneau recomposé et diagnostic à droite ; une colonne sur téléphone */
+:root{--bg:#f3f4f6;--panel:#ffffff;--fg:#14181f;--muted:#5b6573;--line:#d5d9e0;--accent:#00468c;--accent-fg:#ffffff;--ok:#0b7a4b;--err:#b3261e;--err-bg:#fbeceb;--warn:#8a5a00;--warn-bg:#fdf3dc;--canvas:#dfe3ea;--field:#ffffff;
+ --f-body:'Source Sans 3','Noto Sans',system-ui,sans-serif;--f-mono:'IBM Plex Mono',ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1318;--panel:#171c23;--fg:#e8ebf0;--muted:#9aa4b2;--line:#2b333d;--accent:#6aa7ee;--accent-fg:#08121f;--ok:#4cc38a;--err:#ff8a80;--err-bg:#2c1816;--warn:#f0c25a;--warn-bg:#2a2210;--canvas:#222a34;--field:#0f1318;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1318;--panel:#171c23;--fg:#e8ebf0;--muted:#9aa4b2;--line:#2b333d;--accent:#6aa7ee;--accent-fg:#08121f;--ok:#4cc38a;--err:#ff8a80;--err-bg:#2c1816;--warn:#f0c25a;--warn-bg:#2a2210;--canvas:#222a34;--field:#0f1318;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.45 var(--f-body);padding-block:20px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font-size:22px;margin:0 0 2px;font-weight:700;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 18px;max-width:70ch}
+.wrap{display:grid;grid-template-columns:minmax(0,420px) minmax(0,1fr);gap:18px;align-items:start;max-width:1200px}
+@media(max-width:820px){.wrap{grid-template-columns:minmax(0,1fr)}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:12px;min-width:0}
+h2{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0;font-weight:600}
+label{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:3px;min-width:0}
+select,input[type=text],input[type=number]{font:inherit;color:var(--fg);background:var(--field);border:1px solid var(--line);border-radius:6px;padding:6px 8px;min-width:0;width:100%}
+input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.row{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(110px,1fr))}
+.reg{border:1px solid var(--line);border-radius:6px;padding:10px;display:flex;flex-direction:column;gap:8px}
+.reg-h{display:grid;grid-template-columns:1fr 1fr auto;gap:8px;align-items:end}
+.ment{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) minmax(0,.8fr) auto auto;gap:6px;align-items:end}
+.ment .chk{flex-direction:row;align-items:center;gap:4px;padding-bottom:7px}
+button{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:6px;padding:6px 10px;cursor:pointer}
+button.pri{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:600}
+button.ghost{color:var(--muted)}
+.bar{display:flex;flex-wrap:wrap;gap:8px}
+.stage{background:var(--canvas);border-radius:6px;padding:22px 16px;display:flex;justify-content:center;align-items:center;overflow-x:auto}
+.stage svg{display:block;max-width:100%;height:auto;min-width:0}
+.diag{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none}
+.diag li{padding:7px 10px;border-radius:6px;font-size:14px}
+.diag .e{background:var(--err-bg);color:var(--err)}
+.diag .w{background:var(--warn-bg);color:var(--warn)}
+.diag .k{color:var(--ok);padding-left:0}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:4px 8px;border-bottom:1px solid var(--line);font-variant-numeric:tabular-nums}
+th{color:var(--muted);font-weight:600}
+.mono{font-family:var(--f-mono);font-size:12.5px}
+.note{color:var(--muted);font-size:13px;margin:0}
+.tblwrap{overflow-x:auto}
+</style>
+
+<h1>Éditeur de panneau directionnel</h1>
+<p class="sub">Saisissez ou corrigez ce que l'OCR a lu. Le panneau est recomposé avec les règles de l'IISR (5e partie, art. 81 C, 81-1, 83) et les non-conformités sont signalées. Dimensions autres que Hb/Hc : hypothèses, police Source Sans.</p>
+
+<div class="wrap">
+  <div class="card" id="form">
+    <h2>Lecture</h2>
+    <div class="bar">
+      <button id="ex1" type="button">Exemple conforme</button>
+      <button id="ex2" type="button">Lecture OCR bruitée</button>
+      <button id="ex3" type="button">Autoroute, 3 mentions</button>
+    </div>
+    <div class="row">
+      <label>Type<select id="type"><option>D21a</option><option>D21b</option><option>D31</option><option>D42</option><option>D61a</option></select></label>
+      <label>Réseau<select id="reseau"><option value="autre">autres voiries</option><option value="autoroutier">autoroutier</option></select></label>
+      <label>Vitesse (km/h)<select id="vitesse"><option>50</option><option>70</option><option>90</option><option>110</option><option>130</option></select></label>
+      <label>Support<select id="support"><option value="sol">sol</option><option value="portique">portique</option><option value="potence">potence</option></select></label>
+      <label>Éloignement (m)<input id="eloign" type="number" min="0" value="10"></label>
+    </div>
+    <h2>Registres (un fond de couleur chacun)</h2>
+    <div id="regs" style="display:flex;flex-direction:column;gap:10px"></div>
+    <div class="bar"><button id="addreg" type="button">Ajouter un registre</button></div>
+  </div>
+
+  <div style="display:flex;flex-direction:column;gap:18px;min-width:0">
+    <div class="card">
+      <h2>Panneau recomposé</h2>
+      <div class="stage" id="stage"></div>
+      <div class="bar"><button id="fix" class="pri" type="button">Appliquer les corrections proposées</button></div>
+    </div>
+    <div class="card">
+      <h2>Diagnostic</h2>
+      <ul class="diag" id="diag"></ul>
+      <div class="tblwrap"><table><thead><tr><th>Registre</th><th>Hc (mm)</th><th>Mentions affichées</th></tr></thead><tbody id="tb"></tbody></table></div>
+      <p class="note mono" id="dims"></p>
+    </div>
+  </div>
+</div>
+
+<script>/*LIB*/</script>
+<script>
+SignRender.setFontMetrics(/*FM*/);
+const S = SignRender;
+const M = (t, p, d, l) => ({ texte: t, pole: p || 'autre', distance_km: d === undefined ? null : d, local: !!l });
+const PRESETS = {
+  ex1: { type: 'D21a', contexte: { reseau: 'autre', vitesse: 90, support: 'sol', eloignement_m: 10 }, registres: [
+    { fond: 'vert', fleche: 'g', mentions: [M('Marseille', 'agglo', 28), M('Aubagne', 'agglo', 12)] },
+    { fond: 'blanc', fleche: 'g', mentions: [M('Gémenos', 'autre', 4.3)] }] },
+  ex2: { type: 'D21a', contexte: { reseau: 'autre', vitesse: 90, support: 'sol', eloignement_m: 10 }, registres: [
+    { fond: 'blanc', fleche: 'g', mentions: [M('Gémenos', 'autre', 4.3)] },
+    { fond: 'vert', fleche: 'g', mentions: [M('Aubagne', 'agglo', 12), M('Marseille', 'agglo', 28)] }] },
+  ex3: { type: 'D42', contexte: { reseau: 'autoroutier', vitesse: 110, support: 'portique', eloignement_m: 0 }, registres: [
+    { fond: 'vert', fleche: 'h', mentions: [M('Toulon', 'agglo', 65), M('Aix-en-Provence', 'agglo', 35), M('Marseille', 'agglo', 28)] }] }
+};
+const FONDS = ['bleu', 'vert', 'blanc', 'jaune'], FL = ['', 'g', 'd', 'h', 'b', 'hd', 'hg'], POLES = [['agglo', 'agglo.'], ['autre', 'autre'], ['secondaire', 'second.']];
+let st = JSON.parse(JSON.stringify(PRESETS.ex2));
+const $ = id => document.getElementById(id);
+const opt = (arr, v) => arr.map(a => { const [val, lab] = Array.isArray(a) ? a : [a, a || 'aucune']; return '<option value="' + val + '"' + (val === v ? ' selected' : '') + '>' + lab + '</option>'; }).join('');
+const esc = s => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+
+function buildForm() {
+  $('type').value = st.type; $('reseau').value = st.contexte.reseau; $('vitesse').value = String(st.contexte.vitesse); $('support').value = st.contexte.support || 'sol'; $('eloign').value = st.contexte.eloignement_m || 0;
+  $('regs').innerHTML = st.registres.map((r, i) => '<div class="reg" data-i="' + i + '"><div class="reg-h"><label>Fond<select data-k="fond">' + opt(FONDS, r.fond) + '</select></label><label>Flèche<select data-k="fleche">' + opt(FL, r.fleche || '') + '</select></label><button type="button" class="ghost" data-act="delreg">Retirer</button></div>' +
+    r.mentions.map((m, j) => '<div class="ment" data-j="' + j + '"><label>Mention<input type="text" data-k="texte" value="' + esc(m.texte) + '"></label><label>Pôle<select data-k="pole">' + opt(POLES, m.pole) + '</select></label><label>Dist. (km)<input type="number" step="0.1" min="0" data-k="distance_km" value="' + (m.distance_km === null ? '' : m.distance_km) + '"></label><label class="chk"><input type="checkbox" data-k="local"' + (m.local ? ' checked' : '') + '>local</label><button type="button" class="ghost" data-act="delm" aria-label="Retirer la mention">×</button></div>').join('') +
+    '<div class="bar"><button type="button" data-act="addm">Ajouter une mention</button></div></div>').join('');
+}
+function update() {
+  st.type = $('type').value; st.contexte = { reseau: $('reseau').value, vitesse: +$('vitesse').value, support: $('support').value, eloignement_m: +$('eloign').value || 0 };
+  const { comp, errors } = S.composer(st); const diag = [];
+  errors.forEach(e => diag.push('<li class="e">' + esc(e) + '</li>'));
+  $('fix').hidden = !errors.length || !S.corriger(st).log.length;
+  if (!comp) { $('stage').innerHTML = '<span class="note">Composition impossible : voir le diagnostic.</span>'; $('tb').innerHTML = ''; $('dims').textContent = ''; $('diag').innerHTML = diag.join(''); return; }
+  const g = S.geometrie(comp), r = S.renderSVG(comp, g);
+  r.warn.forEach(w => diag.push('<li class="w">' + esc(w) + '</li>'));
+  if (!errors.length && !r.warn.length) diag.push('<li class="k">Composition conforme aux règles appliquées.</li>');
+  $('stage').innerHTML = r.svg.replace(/ width="[^"]*" height="[^"]*"/, ' style="width:' + Math.min(100, Math.max(30, g.largeur * 38)) + '%;min-width:220px"');
+  $('diag').innerHTML = diag.join('');
+  $('tb').innerHTML = comp.registres.map((x, i) => '<tr><td>' + (i + 1) + ' · ' + x.fond + '</td><td>' + x.hc_mm + '</td><td>' + x.mentions.map(m => esc(m.texte) + (m.dist ? ' <b>' + esc(m.dist) + '</b>' : '')).join(' · ') + '</td></tr>').join('');
+  $('dims').textContent = 'Hb ' + comp.hb_mm + ' mm · ' + (g.largeur).toFixed(2) + ' × ' + (g.hauteur).toFixed(2) + ' m (hypothèse hors Hb/Hc)';
+}
+$('form').addEventListener('input', e => {
+  const t = e.target, k = t.dataset.k; if (!k) { update(); return; }
+  const reg = t.closest('.reg'), i = +reg.dataset.i, mrow = t.closest('.ment');
+  if (mrow) { const m = st.registres[i].mentions[+mrow.dataset.j]; m[k] = k === 'local' ? t.checked : k === 'distance_km' ? (t.value === '' ? null : +t.value) : t.value; }
+  else st.registres[i][k] = k === 'fleche' ? (t.value || null) : t.value;
+  update();
+});
+$('form').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  const a = b.dataset.act, reg = b.closest('.reg'), i = reg ? +reg.dataset.i : -1;
+  if (a === 'delreg') st.registres.splice(i, 1);
+  else if (a === 'addm') st.registres[i].mentions.push(M('Nouvelle ville', 'agglo', 5));
+  else if (a === 'delm') st.registres[i].mentions.splice(+b.closest('.ment').dataset.j, 1);
+  else if (b.id === 'addreg') st.registres.push({ fond: 'vert', fleche: 'g', mentions: [M('Ville', 'agglo', 10)] });
+  else if (PRESETS[b.id]) st = JSON.parse(JSON.stringify(PRESETS[b.id]));
+  else return;
+  buildForm(); update();
+});
+$('fix').addEventListener('click', () => { st = S.corriger(st).spec; buildForm(); update(); });
+buildForm(); update();
+</script>

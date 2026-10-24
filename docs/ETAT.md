@@ -135,3 +135,8 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - Panneaux dynamiques XC/XCE/XM/XKD : versions à décor inversé du panneau statique quand son dessin existe (XC4a/b, XC64, XM3, XM9, XKD8–10…), sinon panneau LED à message d'exemple.
 - G1bbis ajouté (voie unique + signalisation lumineuse).
 - **Reste non résolu** (sources non disponibles) : variantes a/b/c et d/e/f des Da/D31/D41 identiques entre elles (les figures de l'annexe manquent) ; D7x (itinéraires S, D69, D74…) en gabarit générique ; E30–E60 en gabarit générique ; XB dynamiques génériques ; dimensions hors Hb/Hc = hypothèses ; polices de substitution.
+
+## Moteur JS de composition et de rendu (web/)
+
+Port JavaScript des règles directionnelles (`dir_regles.py`, `composition.py`) avec rendu SVG et correction des lectures OCR non conformes : voir `web/README.md`.
+Parité avec le Python vérifiée sur 17 cas, 0,03 ms par panneau. Seuls Hb et Hc viennent de l'IISR ; le reste des dimensions est une hypothèse. Reste à porter : disques à valeur, panonceaux textuels, schémas.
