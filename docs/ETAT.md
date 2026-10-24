@@ -151,3 +151,5 @@ Limites : 249 entrées sans libellé (la matrice n'en fournit que 706) ; 4 sans 
 
 Libellés : 706 issus de la matrice IISR, 97 dérivés du code parent (champ `libelle_origine`, jamais inventés), 152 restent vides (cités par l'IISR sans être nommés).
 Moteur JS : ajout du disque à valeur B14 et du panonceau textuel M9 (hypothèses de proportions, avertissement hors valeurs usuelles).
+
+Moteur JS : ajout des panneaux-schémas D42a, D42b et D52 (`renderSchema`), tracé en hypothèse de dessin ; le référentiel y renvoie pour ces codes.

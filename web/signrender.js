@@ -210,6 +210,43 @@
     return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + f(W) + ' ' + f(Ht) + '" width="' + f(W / 2) + '" height="' + f(Ht / 2) + '">' + out + '</svg>', warn };
   }
 
-  const API = { renderDisqueValeur, renderPanonceauTexte, VALEURS_B14, composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
+  // ------------------------------------------------------------------ panneaux-schémas D42a (carrefour), D42b (giratoire), D52 (échangeur)
+  // Port de tpl_dirschema.py : traits noirs sur fond blanc, unité u = Hc (IISR art. 83) ; le tracé du schéma est une HYPOTHÈSE de dessin.
+  const SCHEMAS = { D42: 'carrefour', D42a: 'carrefour', Dv42a: 'carrefour', D42b: 'giratoire', Dv42b: 'giratoire', D52: 'echangeur', D52b: 'echangeur', D52c: 'echangeur' };
+  /** renderSchema({type, contexte, labels:{haut,gauche,droite}, encart}) -> {svg, warn, comp:{hb_mm,hc_mm}}. */
+  function renderSchema(o) {
+    const warn = [], kind = SCHEMAS[o.type]; if (!kind) return { svg: null, warn: ['type de schéma inconnu : ' + o.type], comp: null };
+    const c = o.contexte || {}; let h0;
+    try { h0 = hb(c.reseau || 'autre', c.vitesse === undefined ? 50 : c.vitesse, c.support || 'sol', o.type, c.eloignement_m || 0, c.presignal === undefined ? true : c.presignal); }
+    catch (e) { return { svg: null, warn: [e.message], comp: null }; }
+    const u = hc(h0, 'blanc'), W = 26 * u, H = 19 * u, lw = 0.7 * u, N = COL.noir;
+    const labs = {}; for (const k of ['haut', 'gauche', 'droite']) if ((o.labels || {})[k]) labs[k] = casse(o.labels[k], 'agglo');
+    const X = x => W / 2 + x, Y = y => H / 2 - y;   // repère math (y vers le haut) -> svg
+    let out = '<rect x="0" y="0" width="' + f(W) + '" height="' + f(H) + '" rx="' + f(0.04 * u * 1.6) + '" fill="' + N + '"/><rect x="' + f(0.35 * u) + '" y="' + f(0.35 * u) + '" width="' + f(W - 0.7 * u) + '" height="' + f(H - 0.7 * u) + '" rx="' + f(0.04 * u) + '" fill="' + COL.blanc + '"/>';
+    const pl = pts => '<polyline fill="none" stroke="' + N + '" stroke-width="' + f(lw) + '" stroke-linejoin="round" points="' + pts.map(p => f(X(p[0])) + ',' + f(Y(p[1]))).join(' ') + '"/>';
+    const tri = (tip, deg) => { const s = 2 * u, a = deg * Math.PI / 180, cs = Math.cos(a), sn = Math.sin(a); return poly([[0, 0], [-s, s * 0.55], [-s, -s * 0.55]].map(([x, y]) => [tip[0] + x * cs - y * sn, tip[1] + x * sn + y * cs]), N, W / 2, H / 2); };
+    const arrow = (pts, deg) => { const p = pts[pts.length - 2], q = pts[pts.length - 1], L = Math.hypot(q[0] - p[0], q[1] - p[1]), k = Math.max(0, (L - 1.8 * u) / L); return pl(pts.slice(0, -1).concat([[p[0] + (q[0] - p[0]) * k, p[1] + (q[1] - p[1]) * k]])) + tri(q, deg); };
+    const lab = (t, x, y) => { if (!t) return ''; const w = textWidth(t, u); return text(t, X(x), Y(y), u, 'middle', w, N); };
+    if (kind === 'carrefour') {
+      out += pl([[0, -8 * u], [0, 0]]) + arrow([[0, 0], [0, 4.6 * u]], 90) + arrow([[0, 0], [-6.6 * u, 0]], 180) + arrow([[0, 0], [6.6 * u, 0]], 0);
+      out += lab(labs.haut, 0, 6.9 * u) + lab(labs.gauche, -7.6 * u, 2.5 * u) + lab(labs.droite, 7.6 * u, 2.5 * u);
+    } else if (kind === 'giratoire') {
+      const r = 3 * u;
+      out += '<circle cx="' + f(X(0)) + '" cy="' + f(Y(0)) + '" r="' + f(r) + '" fill="none" stroke="' + N + '" stroke-width="' + f(lw) + '"/>';
+      out += pl([[0, -8 * u], [0, -r]]) + arrow([[0, r], [0, 6 * u]], 90) + arrow([[-r, 0], [-8 * u, 0]], 180) + arrow([[r, 0], [8 * u, 0]], 0);
+      out += lab(labs.haut, 0, 7.9 * u) + lab(labs.gauche, -8.6 * u, 2.5 * u) + lab(labs.droite, 8.6 * u, 2.5 * u);
+    } else {
+      out += pl([[-4 * u, -8 * u], [-4 * u, 1 * u]]) + arrow([[-4 * u, 1 * u], [-4 * u, 5 * u]], 90) + arrow([[-4 * u, -3 * u], [3 * u, 1.5 * u], [3 * u, 5 * u]], 90);
+      out += lab(labs.haut, -4 * u, 7 * u) + lab(labs.droite, 4.6 * u, 7 * u);
+    }
+    for (const k of Object.keys(labs)) if (textWidth(labs[k], u) > (k === 'haut' ? 22 : 11) * u) warn.push('libellé « ' + labs[k] + ' » long pour le schéma');
+    if (o.encart) {
+      const bw = 5.4 * u, bh = 2.3 * u, bx = -W / 2 + 0.95 * u + bw / 2, by = -H / 2 + 0.95 * u + bh / 2;
+      out += '<rect x="' + f(X(bx) - bw / 2) + '" y="' + f(Y(by) - bh / 2) + '" width="' + f(bw) + '" height="' + f(bh) + '" fill="' + N + '"/><rect x="' + f(X(bx) - bw / 2 + 0.15 * u) + '" y="' + f(Y(by) - bh / 2 + 0.15 * u) + '" width="' + f(bw - 0.3 * u) + '" height="' + f(bh - 0.3 * u) + '" fill="' + COL.blanc + '"/>' + text(o.encart, X(bx), Y(by), u, 'middle', textWidth(o.encart, u), N);
+    }
+    return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + f(W) + ' ' + f(H) + '" width="' + f(W / 4) + '" height="' + f(H / 4) + '">' + out + '</svg>', warn, comp: { hb_mm: h0, hc_mm: u } };
+  }
+
+  const API = { renderSchema, SCHEMAS, renderDisqueValeur, renderPanonceauTexte, VALEURS_B14, composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
   if (typeof module !== 'undefined' && module.exports) module.exports = API; else root.SignRender = API;
 })(typeof self !== 'undefined' ? self : this);

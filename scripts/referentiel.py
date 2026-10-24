@@ -66,6 +66,7 @@ for r in reg:
         'moteur_rendu': 'web/signrender.js' if nat == 'compose_regles' else None,
     }
     if c == 'B14': e['moteur_rendu'] = 'web/signrender.js#renderDisqueValeur'
+    elif c in ('D42', 'D42a', 'D42b', 'Dv42a', 'Dv42b', 'D52', 'D52b', 'D52c'): e['moteur_rendu'] = 'web/signrender.js#renderSchema'
     elif re.match(r'^M9[a-z]?$', c): e['moteur_rendu'] = 'web/signrender.js#renderPanonceauTexte'
     e['sources_iisr'] = [{'partie': p, 'article': a} for p, a in e['sources_iisr']]
     out.append(e)

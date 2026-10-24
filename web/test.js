@@ -62,4 +62,14 @@ console.log('apostrophe ’ vs \' : %s vs %s (m, cap 0.1)', S.textWidth('d’art
   console.log('SIGNES SIMPLES : B14 50 -> %d avert., B14 55 -> %j, M9 -> %d avert. : %s', a.warn.length, b.warn, m.warn.length, okS ? 'OK' : 'ÉCHEC');
   if (!okS) process.exit(1);
 }
+// schémas D42a / D42b / D52 (port de tpl_dirschema.py)
+{
+  const ctx = { reseau: 'autre', vitesse: 90, support: 'sol' }, L = { haut: 'Aix-en-Provence', gauche: 'Marseille', droite: 'Toulon' };
+  const a = S.renderSchema({ type: 'D42a', contexte: ctx, labels: L, encart: '150 m' }), g = S.renderSchema({ type: 'D42b', contexte: ctx, labels: L });
+  const e = S.renderSchema({ type: 'D52', contexte: { reseau: 'autoroutier', vitesse: 90, support: 'portique' }, labels: { haut: 'Marseille', droite: 'Toulon' } });
+  const x = S.renderSchema({ type: 'D99', contexte: ctx }), v = S.renderSchema({ type: 'D42a', contexte: { reseau: 'autre', vitesse: 130 }, labels: L });
+  const okC = a.comp.hc_mm === 125 && a.svg.includes('viewBox="0 0 3250 2375"') && a.svg.includes('AIX-EN-PROVENCE') && a.svg.includes('150 m') && g.svg.includes('<circle') && e.comp.hc_mm === 250 && x.svg === null && v.svg === null && a.warn.length === 0;
+  console.log('SCHEMAS : D42a hc=%d, D52 hc=%d, type inconnu -> %j, vitesse hors table -> %j : %s', a.comp.hc_mm, e.comp.hc_mm, x.warn, v.warn, okC ? 'OK' : 'ÉCHEC');
+  if (!okC) process.exit(1);
+}
 if (ko) process.exit(1);
