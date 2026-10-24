@@ -64,3 +64,28 @@ if __name__ == '__main__':
     codes = sys.argv[1].split(',') if len(sys.argv) > 1 else [s['code'] for s in S if s['code'][0] == 'D' and s['tpl'] in ('position','dirfleche','presign','affectation') and not s['code'].startswith('KD') and not s['code'].startswith(('D7','D69','Dv44','D70'))]
     out, ko = build(set(codes)); json.dump(out, open('/tmp/gab/specs_dir.json', 'w'), ensure_ascii=False)
     print(len(out), 'specs ; refusés:', ko)
+
+# ---- schémas D42a / D42b / D52 (Hc par construction, libellés en capitales d'agglomération)
+def build_schemas():
+    from dir_regles import hb, hc, casse
+    spec = {'D42': ('carrefour', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
+            'D42a': ('carrefour', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
+            'D42b': ('giratoire', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
+            'D52': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None),
+            'D52b': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None),
+            'D52c': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None)}
+    out = []
+    for s in S:
+        c = s['code']
+        if c not in spec: continue
+        kind, res, v, sup, labs, enc = spec[c]
+        h0 = hb(res, v, sup, c); u = hc(h0, 'blanc') / 1000.0
+        Wp, Hp = 26 * u, 19 * u
+        labs = {k: casse(t, 'agglo') for k, t in labs.items()}
+        out.append({'code': c, 'tpl': 'dirschema', 'w': round(Wp, 3), 'h': round(Hp, 3), 'bg': 'blanc', 'fg': 'noir', 'famille': s['famille'],
+                    'sch': {'kind': kind, 'u': u, 'labels': labs, 'encart': enc}, 'dos': True,
+                    'meta': {'hb_mm': h0, 'hc_mm': int(u * 1000), 'hauteur_caractere_mm': int(u * 1000),
+                             'contexte': '%s %s km/h %s' % (res, v, sup),
+                             'regles_appliquees': 'IISR art.83 (Hb/Hc), art.81-1 (casse) ; encart 150 m : art.83-4 / 42-6 (D42) ; schéma = hypothèse de dessin',
+                             'dimension_source': 'Hb/Hc: IISR art.83 ; schéma et dimensions: hypothèse (NF P98-532 / Setra non consultés)', 'statut_dimension': 'provisoire'}})
+    return out

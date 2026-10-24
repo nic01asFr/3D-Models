@@ -111,3 +111,5 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - **Hypothèses (hors IISR, NF P98-532 / Sétra non consultés)** : coefficients de géométrie `HYP` (hauteur de registre, marges, largeur de caractère, liseré), hauteur de caractère = Hb/Hc (non vérifié : capitale ou hauteur de base), exemples de contenu fictifs.
 - 93 objets D/Da/Dv/Dc/Dp régénérés ; les Da portent une flèche par voie (paramètre `voies`, sortie en oblique). Les métadonnées indiquent le cartouche E41–E47 requis (`cartouche_requis`, art. 83-1 à 83-8).
 - Limites : variantes a/b/c visuellement identiques ; schémas D42/D52 (traits épais), cartouches E4x en ensemble et D7x non refaits ; contenus D/Da = exemples fictifs.
+
+- Schémas D42a (carrefour), D42b (giratoire), D52/D52b/D52c (échangeur) refaits (gabarit `dirschema`) : traits épais noirs sur fond blanc, cadre foncé, encart « 150 m » (D42), unité = Hc (art. 83), libellés en capitales d'agglomération. Dessin du schéma = hypothèse. Restent : cartouches E4x en ensemble (requis indiqué en métadonnée), D7x, variantes a/b/c.
