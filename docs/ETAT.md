@@ -115,3 +115,9 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - Schémas D42a (carrefour), D42b (giratoire), D52/D52b/D52c (échangeur) refaits (gabarit `dirschema`) : traits épais noirs sur fond blanc, cadre foncé, encart « 150 m » (D42), unité = Hc (art. 83), libellés en capitales d'agglomération. Dessin du schéma = hypothèse. Restent : cartouches E4x en ensemble (requis indiqué en métadonnée), D7x, variantes a/b/c.
 
 - Correction polices et flèches (24/10/2026) : largeur des panneaux D/Da calculée d'après les avances réelles de la police (fontTools, Noto Sans CJK) au lieu d'un coefficient → plus de texte comprimé, hauteur de caractère uniforme (Hc) dans un registre ; flèches plus fines (fût 0,22·L, pointe 0,60·L) et taille liée à Hc (≤ 4·Hc) pour les glyphes. `arrow_pts` modifié : les autres familles utilisant cette flèche gardent l'ancien dessin dans les GLB déjà générés jusqu'à leur régénération.
+
+## Lot L6 : pictogrammes dessinés (104 silhouettes)
+- Les PDF de l'IISR ne contiennent ni vecteur ni image des signes (seulement logos d'en-tête) : extraction impossible.
+- Les 104 « silhouettes » sont redessinées de façon paramétrique (`scripts/pictos.py`, production `scripts/prodpic.py`, specs `scripts/specs_pic.json`) : triangles A (virages, feux, bus/tram, animaux), disques et panneaux B/C/CE, panonceaux M/KM, H, SR, ID, SC/SE, C117-B21x, signaux dynamiques X.
+- Statut : **hypothèse de dessin** (proportions et détail du trait non sourcés ; textes = exemples). Reste à valider contre NF P98-532 / catalogue Sétra.
+- Non refait : les 42 modèles schématiques (feux R/KR, balises J, XK, T) et 4 signes à variantes par valeur (B14, B21, B33, C117), déjà produits.
