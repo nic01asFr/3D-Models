@@ -128,3 +128,10 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - G1, G1b, G1bis (voie unique) et G1a, G1c, G1abis, G1cbis (plusieurs voies = deux croix) ; « bis » = signalisation automatique lumineuse (deux feux).
 - KD21/22/42/43 a–e : toutes catégories (« DÉVIATION »), une catégorie (silhouette de véhicule, dessin hypothétique), ville, ville sur fond vert (KD42e).
 - Contenus = exemples ; silhouette de véhicule = hypothèse de dessin. Gabarit : `tpl_croix`, `tpl_plaque`, `tpl_deviation` étendus (`scripts/patchvar.py`).
+
+## Fin de matrice : variantes Dv/Dp, panneaux dynamiques, flèches
+- Dv21a/b/c, Dv43a–d : avec / sans distance, continuités évidentes (flèche droite) ; Dp1a/b (postes d'appel d'urgence) et Dp2a/b (issues de secours) : deux sens (a/b = sens, hypothèse) ; Dv42a/b : schémas carrefour / giratoire.
+- 20 panneaux KD (KD8–KD79) régénérés avec les flèches affinées.
+- Panneaux dynamiques XC/XCE/XM/XKD : versions à décor inversé du panneau statique quand son dessin existe (XC4a/b, XC64, XM3, XM9, XKD8–10…), sinon panneau LED à message d'exemple.
+- G1bbis ajouté (voie unique + signalisation lumineuse).
+- **Reste non résolu** (sources non disponibles) : variantes a/b/c et d/e/f des Da/D31/D41 identiques entre elles (les figures de l'annexe manquent) ; D7x (itinéraires S, D69, D74…) en gabarit générique ; E30–E60 en gabarit générique ; XB dynamiques génériques ; dimensions hors Hb/Hc = hypothèses ; polices de substitution.

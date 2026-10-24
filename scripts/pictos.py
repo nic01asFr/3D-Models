@@ -163,7 +163,7 @@ def build(code, lib, fam):
         it = texte_bloc(txt, 1.0, 0.6, 'blanc')
         if c in ('H21', 'H22', 'H23', 'H32', 'H33'): it = [T(txt[0], -0.08, 0.1, 0.09, 'blanc', 0.7)] + ([T(txt[1], -0.08, -0.05, 0.09, 'blanc', 0.7)] if len(txt) > 1 else []) + [arrow_sym(0.3, 0.0, 0.24, {'H21': 0, 'H22': 90, 'H23': 45}.get(c, 90), 'blanc')]
         return spec_panel(c, 1.0, 0.6, 'marron', 'blanc', it)
-    if fam in ('X', 'XA', 'XAK', 'XD', 'KX', 'KXC', 'XK', 'KS', 'SAL', 'Sal'):
+    if fam in ('X', 'XA', 'XAK', 'XD', 'KX', 'KXC', 'XK', 'KS', 'SAL', 'Sal', 'XM', 'XC', 'XCE', 'XKD'):
         EX = {'X1': ['SORTIE 12', '2 km'], 'X2': ['AIRE', '5 km'], 'X1a': ['70', 'SORTIE'], 'X1b': ['SORTIE', '2 km'], 'X2a': ['AIRE', '2 km'], 'X2b': ['AIRE', '5 km'],
               'X3a': ['CONTRÔLE', 'A 500 m'], 'X3b': ['CONTRÔLE', 'VITESSE'], 'X50': ['MESSAGE'], 'XA1': ['ATTENTION'], 'XAK5': ['TRAVAUX'], 'XAK22': ['ACCIDENT'], 'XAK30': ['BOUCHON', 'RALENTIR'],
               'XAK31': ['BROUILLARD'], 'XAK32': ['BROUILLARD', 'FUMÉES'], 'XD41': ['ITINÉRAIRE', 'BIS'], 'KX2': ['MESSAGE'], 'KX50': ['TEXTE'], 'KXC50': ['MESSAGE', 'LIBRE'], 'XK30': ['BOUCHON'], 'Sal2': ['SALON'], 'Sal4': ['SALON']}

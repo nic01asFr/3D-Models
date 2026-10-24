@@ -13,9 +13,19 @@ def contenu(code, old):
         ms = [M('Aire de la Crau', 'autre', 2)] if aire else [M('Toulon', 'agglo', 65)]
         return code, VERT_AUTO, [{'fond': fond, 'fleche': None, 'mentions': ms, 'voies': 2, 'sortie': True}]
     if code.startswith('Dp'):  # piéton / local : autres voiries 50 km/h
+        if code[:3] in ('Dp1', 'Dp2'):   # Dp1a/b postes d'appel d'urgence, Dp2a/b issues de secours (a/b = sens : HYPOTHESE)
+            lib = "Poste d'appel d'urgence" if code[:3] == 'Dp1' else 'Issue de secours'
+            return 'D21a', ctx, [{'fond': 'blanc', 'fleche': 'g' if code.endswith('a') else 'd', 'mentions': [M(lib, 'autre', 0.1, True)]}]
         return 'D21a', ctx, [{'fond': 'blanc', 'fleche': 'd', 'mentions': [M('Centre-ville', 'autre', 0.3, True)]}]
     if code.startswith('Dv'):
-        return code, {'reseau': 'autre', 'vitesse': 50, 'eloignement_m': 10}, [{'fond': 'vert', 'fleche': 'd', 'mentions': [M('Marseille', 'agglo', 12)]}]
+        cx = {'reseau': 'autre', 'vitesse': 50, 'eloignement_m': 10}
+        if code in ('Dv21b', 'Dv43b'):   # sans indication de distance
+            return code, cx, [{'fond': 'vert', 'fleche': 'd', 'mentions': [M('Marseille', 'agglo')]}]
+        if code in ('Dv21c', 'Dv43c'):   # continuites evidentes d'itineraires
+            return code, cx, [{'fond': 'vert', 'fleche': 'h', 'mentions': [M('Marseille', 'agglo')]}]
+        if code == 'Dv43d':
+            return code, cx, [{'fond': 'vert', 'fleche': 'h', 'mentions': [M('Marseille', 'agglo'), M('Aix-en-Provence', 'agglo')]}]
+        return code, cx, [{'fond': 'vert', 'fleche': 'd', 'mentions': [M('Marseille', 'agglo', 12)]}]
     if code.startswith('Dc'):
         return code, {'reseau': 'autre', 'vitesse': 50, 'eloignement_m': 10}, [{'fond': 'bleu', 'fleche': 'd', 'mentions': [M("Zone d'activités", 'autre', 0.4, True)]}]
     if code in ('D44','D45','D46','D46b','D47a','D47b','D48','D48a','D48b','D48c'):
@@ -71,6 +81,8 @@ def build_schemas():
     spec = {'D42': ('carrefour', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
             'D42a': ('carrefour', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
             'D42b': ('giratoire', 'autre', 90, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, '150 m'),
+            'Dv42a': ('carrefour', 'autre', 50, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, None),
+            'Dv42b': ('giratoire', 'autre', 50, 'sol', {'haut': 'Aix-en-Provence', 'gauche': 'Marseille', 'droite': 'Toulon'}, None),
             'D52': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None),
             'D52b': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None),
             'D52c': ('echangeur', 'autoroutier', 90, 'portique', {'haut': 'Marseille', 'droite': 'Toulon'}, None)}
