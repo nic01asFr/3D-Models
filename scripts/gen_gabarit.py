@@ -63,20 +63,21 @@ class Build:
         me = bpy.data.meshes.new_from_object(ev)
         me.transform(Matrix.Translation((dx, dy, 0)))
         ob = bpy.data.objects.new(name, me)
-        ob.location = (0, 0, 0.0015 + self.z * TH)
+        d = getattr(self, '_d', None) or TH
+        ob.location = (0, 0, 0.0015 + self.z * TH + (d - TH) / 2)
         ob.data.materials.append(material)
         self.col.objects.link(ob); ob.parent = self.root
         bpy.data.objects.remove(obj)
-        self.parts.append(ob); self.z += 1
+        self.parts.append(ob); self.z += max(1, int(math.ceil(d / TH - 1e-9))); self._d = None
         return ob
 
-    def poly(self, loops, material, name='f', dx=0, dy=0):
-        cu = bpy.data.curves.new(name, 'CURVE'); cu.dimensions = '2D'; cu.fill_mode = 'BOTH'; cu.extrude = TH / 2
+    def poly(self, loops, material, name='f', dx=0, dy=0, depth=None):
+        cu = bpy.data.curves.new(name, 'CURVE'); cu.dimensions = '2D'; cu.fill_mode = 'BOTH'; cu.extrude = (depth or TH) / 2
         for pts in loops:
             sp = cu.splines.new('POLY'); sp.points.add(len(pts) - 1)
             for i, (x, y) in enumerate(pts): sp.points[i].co = (x, y, 0, 1)
             sp.use_cyclic_u = True
-        o = bpy.data.objects.new(name, cu); self.col.objects.link(o)
+        o = bpy.data.objects.new(name, cu); self.col.objects.link(o); self._d = depth
         return self._finish(o, material, f'{self.code}_{name}{self.z:02d}', dx, dy)
 
     def text(self, s, cx, cy, cap, color, italic=False, spacing=1.0, align='CENTER', maxw=None):
@@ -249,21 +250,23 @@ def run_gabarits(specs, outdir='/projects/catalogue_panneaux/glb_gab/', vigdir='
             b = Build(code)
             W, H = S['w'], S['h']
             TPL[S['tpl']](b, W, H, S)
-            back = bpy.data.objects.new(f'{code}_dos', bpy.data.meshes.new(f'{code}_dos'))
-            bm = bmesh.new()
-            pts = rrect(W, H, 0.04) if S['tpl'] != 'croix' else rrect(0.01, 0.01, 0.0)
-            vs = [bm.verts.new((x, y, 0)) for x, y in pts]
-            f = bm.faces.new(vs); r = bmesh.ops.extrude_face_region(bm, geom=[f])
-            for v in [e for e in r['geom'] if isinstance(e, bmesh.types.BMVert)]: v.co.z += 0.0012
-            bmesh.ops.recalc_face_normals(bm, faces=bm.faces[:])
-            bm.to_mesh(back.data); bm.free()
-            back.data.materials.append(alu()); b.col.objects.link(back); back.parent = b.root
+            if S.get('dos', S['tpl'] not in ('croix',)):
+                back = bpy.data.objects.new(f'{code}_dos', bpy.data.meshes.new(f'{code}_dos'))
+                bm = bmesh.new()
+                pts = S['dospts'] if S.get('dospts') else rrect(W, H, 0.04)
+                vs = [bm.verts.new((x, y, 0)) for x, y in pts]
+                f = bm.faces.new(vs); r = bmesh.ops.extrude_face_region(bm, geom=[f])
+                for v in [e for e in r['geom'] if isinstance(e, bmesh.types.BMVert)]: v.co.z += 0.0012
+                bmesh.ops.recalc_face_normals(bm, faces=bm.faces[:])
+                bm.to_mesh(back.data); bm.free()
+                back.data.materials.append(alu()); b.col.objects.link(back); back.parent = b.root
             b.root.rotation_euler[0] = math.pi / 2
             meta = {'code_iisr': code, 'gabarit': S['tpl'], 'contenu_exemple': True, 'statut_dimension': 'provisoire',
                     'police': 'Bfont Blender (Inter, SIL OFL) - substitut des alphabets IISR', 'alphabet_cible': S.get('alphabet', 'L1'),
                     'couleur_fond': S.get('bg', ''), 'aspect': 'generique schematique (a valider)',
                     'licence': 'CC0 (geometrie generee) ; code MIT', 'auteur': 'catalogue 3D panneaux (gabarit parametrique)',
                     'source': 'IISR - dessin schematique', 'dimension_source': 'hypothese', 'dimensions_m': f'{W}x{H}'}
+            meta.update(S.get('meta', {}))
             for k, v in meta.items(): b.root[k] = v
             fn, dims = export_sign(b.root, outdir)
             render_png(b.root, vigdir + code + '.png', W, H)
