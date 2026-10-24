@@ -65,8 +65,36 @@ for r in reg:
         'sources_iisr': sorted({(str(s.get('partie', '')), str(s.get('article', ''))) for s in x.get('sources', [])}),
         'moteur_rendu': 'web/signrender.js' if nat == 'compose_regles' else None,
     }
+    if c == 'B14': e['moteur_rendu'] = 'web/signrender.js#renderDisqueValeur'
+    elif re.match(r'^M9[a-z]?$', c): e['moteur_rendu'] = 'web/signrender.js#renderPanonceauTexte'
     e['sources_iisr'] = [{'partie': p, 'article': a} for p, a in e['sources_iisr']]
     out.append(e)
+
+# libellé dérivé : jamais inventé ; repris du code parent (variante lettrée ou version dynamique X...) et marqué comme tel
+LIB = {e['code']: e['libelle'] for e in out if e['libelle']}
+
+
+def parent_de(code):
+    b = code
+    while b and b[-1].islower():
+        b = b[:-1]
+        if b in LIB: return b, 'variante', code[len(b):]
+    m = re.match(r'^(X[A-Z]*?)([A-Z]{1,3}\d.*)$', code)
+    if m:
+        for t in (m.group(2), re.sub(r'[a-z]+$', '', m.group(2))):
+            if t in LIB: return t, 'dynamique', m.group(1)
+    return None, None, None
+
+
+for e in out:
+    e['libelle_origine'] = 'matrice' if e['libelle'] else None
+    e['parent'] = None
+    if not e['libelle']:
+        par, kind, suf = parent_de(e['code'])
+        if par:
+            e['parent'] = par
+            e['libelle'] = LIB[par] + (' (variante ' + suf + ')' if kind == 'variante' else ' (version dynamique ' + suf + ')')
+            e['libelle_origine'] = 'derive_du_parent'
 
 doc = {
     'version': 1, 'genere_le': datetime.date.today().isoformat(), 'nb_entrees': len(out),
@@ -80,5 +108,6 @@ dest = os.path.join(RACINE, 'docs', 'referentiel.json')
 json.dump(doc, open(dest, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 import collections
 print(len(out), 'entrées ->', dest, os.path.getsize(dest), 'octets')
+print('libellés :', dict(collections.Counter(e['libelle_origine'] for e in out)))
 print('nature objet 3D :', dict(collections.Counter(e['objet3d']['nature'] for e in out)))
 print('sans libellé :', sum(not e['libelle'] for e in out), '| sans vignette :', sum(not e['vignette'] for e in out), '| sans glb :', sum(not e['glb'] for e in out))

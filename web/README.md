@@ -33,5 +33,5 @@ const { svg, warn } = S.renderSVG(comp, S.geometrie(comp));
 
 - Seuls Hb et Hc viennent de l'IISR. Hauteur de registre, marges, largeur de flèche et liseré sont des **hypothèses** (`HYP`) : NF P98-532 et Sétra n'ont pas été consultés.
 - Police de substitution (Source Sans 3 / Noto Sans) ; les largeurs sont calées sur les métriques de `fontmetrics.json`.
-- Périmètre : panneaux de direction composés par règles (famille D). Restent à porter : disques à valeur (B14), panonceaux textuels (M9), schémas (carrefour, giratoire).
+- Périmètre : panneaux de direction composés par règles (famille D), disque à valeur B14 (`renderDisqueValeur`) et panonceau textuel M9 (`renderPanonceauTexte`). Proportions de ces deux derniers = hypothèses de dessin ; valeur B14 hors liste usuelle signalée. Reste à porter : schémas (carrefour, giratoire).
 - Défaut connu côté pipeline Blender : l'apostrophe typographique ’ a une avance de 1000 dans Noto Sans CJK ; le JS la normalise en `'`.

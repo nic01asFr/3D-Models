@@ -54,4 +54,12 @@ for (const [n, s] of ocr) {
 }
 // largeur de texte : apostrophe typographique (bug repéré côté Blender : avance 1000 dans Noto CJK)
 console.log('apostrophe ’ vs \' : %s vs %s (m, cap 0.1)', S.textWidth('d’art', 0.1).toFixed(4), S.textWidth("d'art", 0.1).toFixed(4));
+// signes simples : disque à valeur (B14) et panonceau textuel (M9)
+{
+  const a = S.renderDisqueValeur({ valeur: 50 }), b = S.renderDisqueValeur({ valeur: 55 }), c = S.renderDisqueValeur({ valeur: 'x' });
+  const m = S.renderPanonceauTexte({ lignes: ['Sortie pompiers'] }), m2 = S.renderPanonceauTexte({ lignes: [] });
+  const okS = a.warn.length === 0 && b.warn.length === 1 && c.warn.length >= 1 && m.warn.length === 0 && m2.warn.length === 1 && a.svg.includes('>50<') && m.svg.includes('SORTIE POMPIERS');
+  console.log('SIGNES SIMPLES : B14 50 -> %d avert., B14 55 -> %j, M9 -> %d avert. : %s', a.warn.length, b.warn, m.warn.length, okS ? 'OK' : 'ÉCHEC');
+  if (!okS) process.exit(1);
+}
 if (ko) process.exit(1);

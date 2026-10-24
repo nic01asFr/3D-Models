@@ -146,3 +146,8 @@ Parité avec le Python vérifiée sur 17 cas, 0,03 ms par panneau. Seuls Hb et H
 `python3 scripts/referentiel.py` produit un fichier unique de 955 entrées : code, libellé, famille, forme et couleurs (IISR), variantes, paramètres et valeurs, supports, vignette, GLB, nature de l'objet 3D, dimensions du modèle, articles sources, moteur de rendu (`web/signrender.js` pour les 93 panneaux composés par règles).
 Nature de l'objet 3D : 420 officiels (pictogramme issu des dessins), 125 dessinés par hypothèse, 137 gabarits, 95 schématiques, 93 composés par règles, 4 à variantes par valeur, 19 représentations, 62 fiches sans objet.
 Limites : 249 entrées sans libellé (la matrice n'en fournit que 706) ; 4 sans vignette ; 66 sans GLB (fiches de famille et concepts). Seuls les 420 officiels sont fidèles au dessin ; les autres servent de repère de catégorie.
+
+## Compléments du référentiel et du moteur JS
+
+Libellés : 706 issus de la matrice IISR, 97 dérivés du code parent (champ `libelle_origine`, jamais inventés), 152 restent vides (cités par l'IISR sans être nommés).
+Moteur JS : ajout du disque à valeur B14 et du panonceau textuel M9 (hypothèses de proportions, avertissement hors valeurs usuelles).

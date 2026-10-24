@@ -184,6 +184,32 @@
     return { svg, warn };
   }
 
-  const API = { composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
+  // ------------------------------------------------------------------ signes simples : disque à valeur (B14) et panonceau textuel (M9)
+  // Proportions = HYPOTHÈSES de dessin (bande rouge 10 % du diamètre, chiffres 40 % du diamètre) ; diamètres de gamme B : 450 / 650 / 850 / 1050 mm.
+  const B_DIAM = { petite: 450, normale: 650, grande: 850, tres_grande: 1050 };
+  const VALEURS_B14 = [5, 10, 15, 20, 30, 40, 45, 50, 60, 70, 80, 90, 100, 110, 130];
+  /** renderDisqueValeur({valeur, gamme}) -> {svg, warn}. Disque B14 (fond blanc, bande rouge, valeur noire). */
+  function renderDisqueValeur(o) {
+    const warn = []; const v = String(o.valeur); const D = B_DIAM[o.gamme || 'normale'] || B_DIAM.normale;
+    if (!/^\d+$/.test(v)) warn.push('valeur non numérique : ' + v);
+    else if (!VALEURS_B14.includes(+v)) warn.push('valeur ' + v + ' km/h hors des valeurs usuelles (' + VALEURS_B14.join(', ') + ')');
+    const R = D / 2, band = 0.1 * D, cap = 0.40 * D; let w = textWidth(v, cap), inner = 2 * (R - band) * 0.82;
+    if (w > inner) { warn.push('valeur comprimée'); w = inner; }
+    const svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + D + ' ' + D + '" width="' + f(D / 4) + '" height="' + f(D / 4) + '"><circle cx="' + R + '" cy="' + R + '" r="' + R + '" fill="' + COL.rouge + '"/><circle cx="' + R + '" cy="' + R + '" r="' + f(R - band) + '" fill="' + COL.blanc + '"/>' +
+      text(v, R, R, cap, 'middle', w, COL.noir) + '</svg>';
+    return { svg, warn };
+  }
+  /** renderPanonceauTexte({lignes, largeur_m, hauteur_m}) -> {svg, warn}. Panonceau M9 : fond blanc, filet noir, texte capitales noir. */
+  function renderPanonceauTexte(o) {
+    const warn = []; const L = (o.lignes || []).map(s => String(s).toUpperCase()); if (!L.length) warn.push('texte vide');
+    if (L.length > 3) warn.push(L.length + ' lignes : lisibilité réduite au-delà de 3');
+    const cap = 60, inter = cap * 0.6, marge = cap, fil = 10;
+    const ws = L.map(s => textWidth(s, cap)), W = Math.max(...ws, cap) + 2 * marge, Ht = L.length * cap + (L.length - 1) * inter + 2 * marge;
+    let out = '<rect x="0" y="0" width="' + f(W) + '" height="' + f(Ht) + '" rx="12" fill="' + COL.noir + '"/><rect x="' + fil + '" y="' + fil + '" width="' + f(W - 2 * fil) + '" height="' + f(Ht - 2 * fil) + '" rx="8" fill="' + COL.blanc + '"/>';
+    L.forEach((s, i) => { out += text(s, W / 2, marge + cap / 2 + i * (cap + inter), cap, 'middle', ws[i], COL.noir); });
+    return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + f(W) + ' ' + f(Ht) + '" width="' + f(W / 2) + '" height="' + f(Ht / 2) + '">' + out + '</svg>', warn };
+  }
+
+  const API = { renderDisqueValeur, renderPanonceauTexte, VALEURS_B14, composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
   if (typeof module !== 'undefined' && module.exports) module.exports = API; else root.SignRender = API;
 })(typeof self !== 'undefined' ? self : this);
