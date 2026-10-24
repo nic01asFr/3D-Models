@@ -306,9 +306,15 @@ def tpl_dircomp(b, W, H, S):
                 al = min(h * 0.7, Wg * 0.2)
                 b.poly([arrow_pts(al, DEG[fl], 0.55)], mat(txt), 'fl', dx=Wg / 2 - marge - al / 2, dy=cy)
                 x1 = Wg / 2 - marge - al * 1.1
-        ms = reg['mentions']; n = max(1, len(ms))
+        ms = reg['mentions']; n = max(1, len(ms)); ht = R.get('h_txt', h)
+        nv = R.get('voies', 0)
+        if nv:
+            lh = R['lane_h']; al = lh * 0.8
+            for k in range(nv):
+                deg = -45 if (reg.get('sortie') and k == nv - 1) else -90
+                b.poly([arrow_pts(al, deg, 0.55)], mat(txt), 'voie', dx=-Wg / 2 + Wg * (k + 0.5) / nv, dy=cy - h / 2 + lh / 2)
         for i, m in enumerate(ms):
-            y = cy + h / 2 - h * (i + 0.5) / n
+            y = cy + h / 2 - ht * (i + 0.5) / n
             line = m['texte'] + ('|' + m['dist'] if m.get('dist') else '')
             row(b, line, x0, x1, y, cap, mat(txt), maxw=(x1 - x0))
 

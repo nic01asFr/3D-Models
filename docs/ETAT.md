@@ -109,4 +109,5 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - Gabarit `dircomp` : pile de registres avec liseré (clair sur fond foncé, noir sur fond clair), registres en flèche (D2x, Dv, Dc, Dp, aires), flèche glyphe (présignalisation, sortie).
 - Les métadonnées GLB portent `hb_mm`, `hc_mm`, `contexte`, `regles_appliquees`.
 - **Hypothèses (hors IISR, NF P98-532 / Sétra non consultés)** : coefficients de géométrie `HYP` (hauteur de registre, marges, largeur de caractère, liseré), hauteur de caractère = Hb/Hc (non vérifié : capitale ou hauteur de base), exemples de contenu fictifs.
-- 70 objets D/Dv/Dc/Dp régénérés. Restent à reprendre : Da (affectation de voies), D42/D52 (schémas), D41 avec cartouche d'itinéraire, D7x.
+- 93 objets D/Da/Dv/Dc/Dp régénérés ; les Da portent une flèche par voie (paramètre `voies`, sortie en oblique). Les métadonnées indiquent le cartouche E41–E47 requis (`cartouche_requis`, art. 83-1 à 83-8).
+- Limites : variantes a/b/c visuellement identiques ; schémas D42/D52 (traits épais), cartouches E4x en ensemble et D7x non refaits ; contenus D/Da = exemples fictifs.

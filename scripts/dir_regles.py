@@ -60,7 +60,7 @@ def composer(spec):
     for r in spec['registres']:
         H = hc(h0, r['fond'])
         ms = [{'texte': casse(m['texte'], m.get('pole', 'autre')), 'dist': fmt_distance(m.get('distance_km'), m.get('local', False))} for m in r['mentions']]
-        regs.append({'fond': r['fond'], 'fleche': r.get('fleche'), 'hc_mm': H, 'mentions': ms})
+        regs.append({'fond': r['fond'], 'fleche': r.get('fleche'), 'hc_mm': H, 'mentions': ms, 'voies': r.get('voies', 0), 'sortie': r.get('sortie', False)})
     return {'type': t, 'hb_mm': h0, 'registres': regs, 'hyp': HYP}
 
 def geometrie(comp, cap_ratio=1.0):
@@ -75,8 +75,10 @@ def geometrie(comp, cap_ratio=1.0):
         fl = r['fleche']
         fw = 0 if not fl else (0.8 * h if fl in ('h', 'b', 'hd', 'hg') else 0.5 * h + 0.5 * H)
         w += 2 * k['marge_h_sur_hc'] * H + max(fw, k['fleche_largeur_sur_hc'] * H if fl else 0)
-        W = max(W, w); rows.append((r, h, H))
-    return {'largeur': W, 'registres': [{'h': h, 'cap': H, 'registre': r} for r, h, H in rows], 'hauteur': sum(h for _, h, _ in rows)}
+        lanes = r.get('voies', 0); lh = 3.0 * H if lanes else 0
+        if lanes: w = max(w, lanes * 2.6 * H + 2 * k['marge_h_sur_hc'] * H)
+        W = max(W, w); rows.append((r, h, H, lh, lanes))
+    return {'largeur': W, 'registres': [{'h': h + lh, 'h_txt': h, 'lane_h': lh, 'voies': lanes, 'cap': H, 'registre': r} for r, h, H, lh, lanes in rows], 'hauteur': sum(h + lh for _, h, _, lh, _ in rows)}
 
 if __name__ == '__main__':
     s = {'type': 'D21a', 'contexte': {'reseau': 'autre', 'vitesse': 90, 'support': 'sol', 'eloignement_m': 10},
