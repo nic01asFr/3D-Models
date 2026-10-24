@@ -140,3 +140,9 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 
 Port JavaScript des règles directionnelles (`dir_regles.py`, `composition.py`) avec rendu SVG et correction des lectures OCR non conformes : voir `web/README.md`.
 Parité avec le Python vérifiée sur 17 cas, 0,03 ms par panneau. Seuls Hb et Hc viennent de l'IISR ; le reste des dimensions est une hypothèse. Reste à porter : disques à valeur, panonceaux textuels, schémas.
+
+## Référentiel unifié pour l'outil de validation (docs/referentiel.json)
+
+`python3 scripts/referentiel.py` produit un fichier unique de 955 entrées : code, libellé, famille, forme et couleurs (IISR), variantes, paramètres et valeurs, supports, vignette, GLB, nature de l'objet 3D, dimensions du modèle, articles sources, moteur de rendu (`web/signrender.js` pour les 93 panneaux composés par règles).
+Nature de l'objet 3D : 420 officiels (pictogramme issu des dessins), 125 dessinés par hypothèse, 137 gabarits, 95 schématiques, 93 composés par règles, 4 à variantes par valeur, 19 représentations, 62 fiches sans objet.
+Limites : 249 entrées sans libellé (la matrice n'en fournit que 706) ; 4 sans vignette ; 66 sans GLB (fiches de famille et concepts). Seuls les 420 officiels sont fidèles au dessin ; les autres servent de repère de catégorie.
