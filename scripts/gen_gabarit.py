@@ -54,7 +54,7 @@ def rrect(w, h, r, n=5):
 
 def arrow_pts(s, deg=0, tail=0.55):
     """Flèche pleine de longueur s (vers +X), tourne de deg."""
-    hw = s * 0.16; hh = s * 0.34; hl = s * 0.42
+    hw = s * 0.11; hh = s * 0.30; hl = s * 0.40
     base = [(-s / 2, -hw), (s / 2 - hl, -hw), (s / 2 - hl, -hh), (s / 2, 0), (s / 2 - hl, hh), (s / 2 - hl, hw), (-s / 2, hw)]
     a = math.radians(deg); c, sn = math.cos(a), math.sin(a)
     return [(x * c - y * sn, x * sn + y * c) for x, y in base]
@@ -303,7 +303,7 @@ def tpl_dircomp(b, W, H, S):
             x0 = -Wg / 2 + marge; x1 = Wg / 2 - marge
             DEG = {'d': 0, 'g': 180, 'h': 90, 'b': -90, 'hd': 45, 'hg': 135}
             if fl in DEG:
-                al = min(h * 0.7, Wg * 0.2)
+                al = min(h * 0.8, 4 * cap)
                 b.poly([arrow_pts(al, DEG[fl], 0.55)], mat(txt), 'fl', dx=Wg / 2 - marge - al / 2, dy=cy)
                 x1 = Wg / 2 - marge - al * 1.1
         ms = reg['mentions']; n = max(1, len(ms)); ht = R.get('h_txt', h)

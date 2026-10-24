@@ -16,6 +16,18 @@ HYP = {'hauteur_registre_sur_hc': 2.0, 'marge_h_sur_hc': 1.0, 'fleche_largeur_su
        'largeur_caractere_sur_hc': 0.72, 'liseré_sur_hc': 0.12, 'interligne_sur_hc': 0.0,
        'statut': 'hypothèse – non issue de l’IISR'}
 
+_FONT = {}
+def text_width(t, cap):
+    """Largeur (m) d'un texte de hauteur de capitale `cap` (m), mesurée dans Noto Sans CJK (avances réelles)."""
+    try:
+        if not _FONT:
+            from fontTools.ttLib import TTFont
+            f = TTFont('/tmp/gab/noto.woff2'); _FONT.update(upm=f['head'].unitsPerEm, cm=f.getBestCmap(), hm=f['hmtx'], cap=f['OS/2'].sCapHeight)
+        a = sum(_FONT['hm'][_FONT['cm'][ord(c)]][0] for c in t if ord(c) in _FONT['cm']) / _FONT['upm']
+        return a * cap / (_FONT['cap'] / _FONT['upm'])
+    except Exception:
+        return len(t) * 0.72 * cap
+
 def gamme_plus(h, n=1):
     i = min(GAMMES.index(h) + n, len(GAMMES) - 1); return GAMMES[i]
 
@@ -70,10 +82,10 @@ def geometrie(comp, cap_ratio=1.0):
         H = r['hc_mm'] / 1000.0; h = k['hauteur_registre_sur_hc'] * H * max(1, len(r['mentions']))
         w = 0
         for m in r['mentions']:
-            n = len(m['texte']) + (len(m['dist']) + 3 if m['dist'] else 0)
-            w = max(w, n * k['largeur_caractere_sur_hc'] * H)
+            tw = text_width(m['texte'], H) + (1.4 * H + text_width(m['dist'], H) if m['dist'] else 0)
+            w = max(w, tw)
         fl = r['fleche']
-        fw = 0 if not fl else (0.8 * h if fl in ('h', 'b', 'hd', 'hg') else 0.5 * h + 0.5 * H)
+        fw = 0 if not fl else (1.1 * min(0.8 * h, 4 * H) + H if fl in ('h', 'b', 'hd', 'hg') else 0.5 * h + 0.5 * H)
         w += 2 * k['marge_h_sur_hc'] * H + max(fw, k['fleche_largeur_sur_hc'] * H if fl else 0)
         lanes = r.get('voies', 0); lh = 3.0 * H if lanes else 0
         if lanes: w = max(w, lanes * 2.6 * H + 2 * k['marge_h_sur_hc'] * H)
