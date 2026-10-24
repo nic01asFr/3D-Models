@@ -1,5 +1,25 @@
 [
  {
+  "code": "A1",
+  "fichier": "A1.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 51,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A1.png"
+ },
+ {
   "code": "A13a",
   "fichier": "A13a.glb",
   "dims_m": [
@@ -49,6 +69,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "A15",
+  "fichier": "A15.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 281,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A15.png"
  },
  {
   "code": "A15a1",
@@ -255,6 +295,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "A2",
+  "fichier": "A2.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 306,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A2.png"
+ },
+ {
   "code": "A20",
   "fichier": "A20.glb",
   "dims_m": [
@@ -459,6 +519,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "A7bis",
+  "fichier": "A7bis.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 903,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A7bis.png"
+ },
+ {
   "code": "A8",
   "fichier": "A8.glb",
   "dims_m": [
@@ -476,6 +556,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "A8bis",
+  "fichier": "A8bis.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 1469,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A8bis.png"
+ },
+ {
   "code": "A9",
   "fichier": "A9.glb",
   "dims_m": [
@@ -491,6 +591,46 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : triangle côté 1000",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "A9a",
+  "fichier": "A9a.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 964,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A9a.png"
+ },
+ {
+  "code": "A9b",
+  "fichier": "A9b.glb",
+  "dims_m": [
+   1.0,
+   0.866,
+   0.0025
+  ],
+  "parties": 742,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/A9b.png"
  },
  {
   "code": "AB1",
@@ -819,6 +959,69 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "ALERTE_ENLEVEMENT",
+  "code_iisr": "ALERTE_ENLEVEMENT",
+  "fichier": "ALERTE_ENLEVEMENT.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0029
+  ],
+  "parties": 821,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/ALERTE_ENLEVEMENT.png"
+ },
+ {
+  "code": "ALERTE_POLLUTION",
+  "code_iisr": "ALERTE_POLLUTION",
+  "fichier": "ALERTE_POLLUTION.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0029
+  ],
+  "parties": 1605,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/ALERTE_POLLUTION.png"
+ },
+ {
+  "code": "ALERTE_POPULATION",
+  "code_iisr": "ALERTE_POPULATION",
+  "fichier": "ALERTE_POPULATION.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0029
+  ],
+  "parties": 1792,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/ALERTE_POPULATION.png"
  },
  {
   "code": "B0",
@@ -1332,6 +1535,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "B2",
+  "fichier": "B2.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 817,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B2.png"
+ },
+ {
   "code": "B21-1",
   "fichier": "B21-1.glb",
   "dims_m": [
@@ -1364,6 +1587,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "B21a",
+  "fichier": "B21a.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1347,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B21a.png"
  },
  {
   "code": "B21a1",
@@ -1554,6 +1797,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "B25",
+  "fichier": "B25.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0029
+  ],
+  "parties": 1040,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B25.png"
+ },
+ {
   "code": "B26",
   "fichier": "B26.glb",
   "dims_m": [
@@ -1688,6 +1951,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "B30",
+  "fichier": "B30.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0029
+  ],
+  "parties": 1323,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B30.png"
  },
  {
   "code": "B31",
@@ -1931,6 +2214,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "B43",
+  "fichier": "B43.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0029
+  ],
+  "parties": 965,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B43.png"
+ },
+ {
   "code": "B44",
   "fichier": "B44.glb",
   "dims_m": [
@@ -1949,6 +2252,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "B45",
+  "fichier": "B45.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0029
+  ],
+  "parties": 837,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B45.png"
+ },
+ {
   "code": "B49",
   "fichier": "B49.glb",
   "dims_m": [
@@ -1965,6 +2288,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "B50",
+  "fichier": "B50.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1072,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B50.png"
  },
  {
   "code": "B50a",
@@ -2051,6 +2394,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "B51",
+  "fichier": "B51.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0033
+  ],
+  "parties": 1331,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B51.png"
  },
  {
   "code": "B52",
@@ -2244,6 +2607,46 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "B6",
+  "fichier": "B6.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 917,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B6.png"
+ },
+ {
+  "code": "B6a",
+  "fichier": "B6a.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1439,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B6a.png"
+ },
+ {
   "code": "B6a1",
   "fichier": "B6a1.glb",
   "dims_m": [
@@ -2293,6 +2696,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : disque 850",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "B6b",
+  "fichier": "B6b.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1217,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/B6b.png"
  },
  {
   "code": "B6b1",
@@ -2604,6 +3027,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "C1",
+  "fichier": "C1.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 434,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C1.png"
+ },
+ {
   "code": "C107",
   "fichier": "C107.glb",
   "dims_m": [
@@ -2756,6 +3199,106 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "C117-B21c1",
+  "fichier": "C117-B21c1.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1355,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C117-B21c1.png"
+ },
+ {
+  "code": "C117-B21c2",
+  "fichier": "C117-B21c2.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1610,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C117-B21c2.png"
+ },
+ {
+  "code": "C117-B21d1",
+  "fichier": "C117-B21d1.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1299,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C117-B21d1.png"
+ },
+ {
+  "code": "C117-B21d2",
+  "fichier": "C117-B21d2.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1554,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C117-B21d2.png"
+ },
+ {
+  "code": "C117-B21e",
+  "fichier": "C117-B21e.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1354,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C117-B21e.png"
  },
  {
   "code": "C12",
@@ -3033,6 +3576,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "C24",
+  "fichier": "C24.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 734,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C24.png"
+ },
+ {
   "code": "C24a",
   "fichier": "C24a.glb",
   "dims_m": [
@@ -3280,6 +3843,46 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "C4a",
+  "fichier": "C4a.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 654,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C4a.png"
+ },
+ {
+  "code": "C4b",
+  "fichier": "C4b.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0029
+  ],
+  "parties": 662,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C4b.png"
+ },
+ {
   "code": "C5",
   "fichier": "C5.glb",
   "dims_m": [
@@ -3384,6 +3987,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "C64",
+  "fichier": "C64.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 834,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C64.png"
+ },
+ {
   "code": "C64a",
   "fichier": "C64a.glb",
   "dims_m": [
@@ -3456,6 +4079,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "C64d",
+  "fichier": "C64d.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1068,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/C64d.png"
+ },
+ {
   "code": "C8",
   "fichier": "C8.glb",
   "dims_m": [
@@ -3488,6 +4131,69 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "CAR_EGAL",
+  "code_iisr": "CAR_EGAL",
+  "fichier": "CAR_EGAL.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 152,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "pictogramme",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CAR_EGAL.png"
+ },
+ {
+  "code": "CAR_EN_DIRECTION_DE",
+  "code_iisr": "CAR_EN_DIRECTION_DE",
+  "fichier": "CAR_EN_DIRECTION_DE.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 169,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "pictogramme",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CAR_EN_DIRECTION_DE.png"
+ },
+ {
+  "code": "CAR_SORTIE",
+  "code_iisr": "CAR_SORTIE",
+  "fichier": "CAR_SORTIE.glb",
+  "dims_m": [
+   0.8,
+   0.4,
+   0.0025
+  ],
+  "parties": 1128,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "pictogramme",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CAR_SORTIE.png"
  },
  {
   "code": "CE1",
@@ -3578,6 +4284,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "CE15",
+  "fichier": "CE15.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 696,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CE15.png"
+ },
+ {
   "code": "CE15a",
   "fichier": "CE15a.glb",
   "dims_m": [
@@ -3593,6 +4319,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE15b",
+  "fichier": "CE15b.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 996,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CE15b.png"
  },
  {
   "code": "CE15c",
@@ -4014,6 +4760,26 @@
   "statut_dimension": "iisr"
  },
  {
+  "code": "CE30",
+  "fichier": "CE30.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1183,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CE30.png"
+ },
+ {
   "code": "CE30a",
   "fichier": "CE30a.glb",
   "dims_m": [
@@ -4222,6 +4988,26 @@
   "gamme": "normale",
   "dimension_source": "IISR p1 art.14 gamme normale : carré 700",
   "statut_dimension": "iisr"
+ },
+ {
+  "code": "CE64d",
+  "fichier": "CE64d.glb",
+  "dims_m": [
+   0.65,
+   0.65,
+   0.0025
+  ],
+  "parties": 1100,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/CE64d.png"
  },
  {
   "code": "CE6a",
@@ -8165,6 +8951,266 @@
   "vignette": "vignettes/G3.png"
  },
  {
+  "code": "H10",
+  "fichier": "H10.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 464,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H10.png"
+ },
+ {
+  "code": "H11",
+  "fichier": "H11.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 184,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H11.png"
+ },
+ {
+  "code": "H12",
+  "fichier": "H12.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 439,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H12.png"
+ },
+ {
+  "code": "H13",
+  "fichier": "H13.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 613,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H13.png"
+ },
+ {
+  "code": "H20",
+  "fichier": "H20.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 719,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H20.png"
+ },
+ {
+  "code": "H21",
+  "fichier": "H21.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 439,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H21.png"
+ },
+ {
+  "code": "H22",
+  "fichier": "H22.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 694,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H22.png"
+ },
+ {
+  "code": "H23",
+  "fichier": "H23.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 868,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H23.png"
+ },
+ {
+  "code": "H24",
+  "fichier": "H24.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 476,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H24.png"
+ },
+ {
+  "code": "H30",
+  "fichier": "H30.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 893,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H30.png"
+ },
+ {
+  "code": "H31",
+  "fichier": "H31.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 613,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H31.png"
+ },
+ {
+  "code": "H32",
+  "fichier": "H32.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 868,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H32.png"
+ },
+ {
+  "code": "H33",
+  "fichier": "H33.glb",
+  "dims_m": [
+   1.0,
+   0.6,
+   0.0025
+  ],
+  "parties": 1042,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/H33.png"
+ },
+ {
   "code": "ID10",
   "fichier": "ID10.glb",
   "dims_m": [
@@ -9443,6 +10489,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "ID34",
+  "fichier": "ID34.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 788,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/ID34.png"
+ },
+ {
   "code": "ID34a",
   "fichier": "ID34a.glb",
   "dims_m": [
@@ -9695,6 +10761,286 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "J1",
+  "fichier": "J1.glb",
+  "dims_m": [
+   0.153,
+   1.0,
+   0.1612
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J1.png"
+ },
+ {
+  "code": "J10",
+  "fichier": "J10.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.24
+  ],
+  "parties": 56,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J10.png"
+ },
+ {
+  "code": "J11",
+  "fichier": "J11.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.102
+  ],
+  "parties": 58,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J11.png"
+ },
+ {
+  "code": "J12",
+  "fichier": "J12.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.102
+  ],
+  "parties": 58,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J12.png"
+ },
+ {
+  "code": "J13",
+  "fichier": "J13.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.24
+  ],
+  "parties": 56,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J13.png"
+ },
+ {
+  "code": "J14a",
+  "fichier": "J14a.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.094
+  ],
+  "parties": 30,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J14a.png"
+ },
+ {
+  "code": "J14b",
+  "fichier": "J14b.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.102
+  ],
+  "parties": 58,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J14b.png"
+ },
+ {
+  "code": "J15a",
+  "fichier": "J15a.glb",
+  "dims_m": [
+   0.18,
+   0.07,
+   0.1802
+  ],
+  "parties": 146,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J15a.png"
+ },
+ {
+  "code": "J15b",
+  "fichier": "J15b.glb",
+  "dims_m": [
+   0.18,
+   0.07,
+   0.1802
+  ],
+  "parties": 146,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J15b.png"
+ },
+ {
+  "code": "J16",
+  "fichier": "J16.glb",
+  "dims_m": [
+   0.052,
+   0.6,
+   0.055
+  ],
+  "parties": 16,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J16.png"
+ },
+ {
+  "code": "J17",
+  "fichier": "J17.glb",
+  "dims_m": [
+   0.18,
+   0.07,
+   0.1802
+  ],
+  "parties": 146,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J17.png"
+ },
+ {
+  "code": "J1bis",
+  "fichier": "J1bis.glb",
+  "dims_m": [
+   0.153,
+   1.0,
+   0.1612
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J1bis.png"
+ },
+ {
+  "code": "J3",
+  "fichier": "J3.glb",
+  "dims_m": [
+   0.153,
+   1.0,
+   0.1612
+  ],
+  "parties": 24,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J3.png"
+ },
+ {
+  "code": "J4",
+  "fichier": "J4.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.102
+  ],
+  "parties": 58,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J4.png"
+ },
+ {
   "code": "J5",
   "fichier": "J5.glb",
   "dims_m": [
@@ -9710,6 +11056,306 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "J6",
+  "fichier": "J6.glb",
+  "dims_m": [
+   0.153,
+   1.0,
+   0.1672
+  ],
+  "parties": 32,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J6.png"
+ },
+ {
+  "code": "J7",
+  "fichier": "J7.glb",
+  "dims_m": [
+   0.398,
+   2.15,
+   0.2462
+  ],
+  "parties": 98,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/J7.png"
+ },
+ {
+  "code": "K1",
+  "fichier": "K1.glb",
+  "dims_m": [
+   0.46,
+   1.2,
+   0.024
+  ],
+  "parties": 13,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "balise",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K1.png"
+ },
+ {
+  "code": "K10",
+  "fichier": "K10.glb",
+  "dims_m": [
+   0.06,
+   1.0,
+   0.36
+  ],
+  "parties": 48,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K10.png"
+ },
+ {
+  "code": "K14",
+  "fichier": "K14.glb",
+  "dims_m": [
+   1.0,
+   0.08,
+   0.0318
+  ],
+  "parties": 80,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K14.png"
+ },
+ {
+  "code": "K15",
+  "fichier": "K15.glb",
+  "dims_m": [
+   3.0,
+   1.6,
+   0.2504
+  ],
+  "parties": 291,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K15.png"
+ },
+ {
+  "code": "K16",
+  "fichier": "K16.glb",
+  "dims_m": [
+   0.8,
+   0.6,
+   1.6
+  ],
+  "parties": 32,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K16.png"
+ },
+ {
+  "code": "K2",
+  "fichier": "K2.glb",
+  "dims_m": [
+   1.2,
+   0.875,
+   0.28
+  ],
+  "parties": 64,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K2.png"
+ },
+ {
+  "code": "K5",
+  "fichier": "K5.glb",
+  "dims_m": [
+   0.06,
+   1.0,
+   0.36
+  ],
+  "parties": 48,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K5.png"
+ },
+ {
+  "code": "K5a",
+  "fichier": "K5a.glb",
+  "dims_m": [
+   0.38,
+   0.75,
+   0.38
+  ],
+  "parties": 60,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K5a.png"
+ },
+ {
+  "code": "K5b",
+  "fichier": "K5b.glb",
+  "dims_m": [
+   0.06,
+   1.0,
+   0.36
+  ],
+  "parties": 48,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K5b.png"
+ },
+ {
+  "code": "K5c",
+  "fichier": "K5c.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.098
+  ],
+  "parties": 44,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K5c.png"
+ },
+ {
+  "code": "K5d",
+  "fichier": "K5d.glb",
+  "dims_m": [
+   0.4,
+   1.0,
+   0.098
+  ],
+  "parties": 44,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K5d.png"
+ },
+ {
+  "code": "K8",
+  "fichier": "K8.glb",
+  "dims_m": [
+   0.8,
+   0.6,
+   0.0204
+  ],
+  "parties": 85,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/K8.png"
+ },
+ {
+  "code": "KC1",
+  "fichier": "KC1.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 463,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KC1.png"
  },
  {
   "code": "KD10",
@@ -10471,6 +12117,346 @@
   "vignette": "vignettes/KD9.png"
  },
  {
+  "code": "KM1",
+  "fichier": "KM1.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 214,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KM1.png"
+ },
+ {
+  "code": "KM2",
+  "fichier": "KM2.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 469,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KM2.png"
+ },
+ {
+  "code": "KM9",
+  "fichier": "KM9.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 605,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KM9.png"
+ },
+ {
+  "code": "KR1",
+  "fichier": "KR1.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR1.png"
+ },
+ {
+  "code": "KR11",
+  "fichier": "KR11.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR11.png"
+ },
+ {
+  "code": "KR11j",
+  "fichier": "KR11j.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR11j.png"
+ },
+ {
+  "code": "KR11v",
+  "fichier": "KR11v.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR11v.png"
+ },
+ {
+  "code": "KR2",
+  "fichier": "KR2.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR2.png"
+ },
+ {
+  "code": "KR2d",
+  "fichier": "KR2d.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR2d.png"
+ },
+ {
+  "code": "KR41",
+  "fichier": "KR41.glb",
+  "dims_m": [
+   0.972,
+   0.192,
+   0.16
+  ],
+  "parties": 764,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR41.png"
+ },
+ {
+  "code": "KR42",
+  "fichier": "KR42.glb",
+  "dims_m": [
+   1.2,
+   0.6,
+   0.1004
+  ],
+  "parties": 85,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR42.png"
+ },
+ {
+  "code": "KR43",
+  "fichier": "KR43.glb",
+  "dims_m": [
+   1.2,
+   0.6,
+   0.1004
+  ],
+  "parties": 85,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR43.png"
+ },
+ {
+  "code": "KR44",
+  "fichier": "KR44.glb",
+  "dims_m": [
+   1.2,
+   0.6,
+   0.1008
+  ],
+  "parties": 102,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/KR44.png"
+ },
+ {
+  "code": "KS1",
+  "fichier": "KS1.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 535,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KS1.png"
+ },
+ {
+  "code": "KX2",
+  "fichier": "KX2.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 460,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KX2.png"
+ },
+ {
+  "code": "KX50",
+  "fichier": "KX50.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 715,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KX50.png"
+ },
+ {
+  "code": "KXC50",
+  "fichier": "KXC50.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 1005,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/KXC50.png"
+ },
+ {
   "code": "M1",
   "fichier": "M1.glb",
   "dims_m": [
@@ -10487,6 +12473,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M10",
+  "fichier": "M10.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 473,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M10.png"
  },
  {
   "code": "M10a",
@@ -10543,6 +12549,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M10c2",
+  "fichier": "M10c2.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 1026,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M10c2.png"
+ },
+ {
   "code": "M10z",
   "fichier": "M10z.glb",
   "dims_m": [
@@ -10561,6 +12587,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M11",
+  "fichier": "M11.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 193,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M11.png"
+ },
+ {
   "code": "M11a",
   "fichier": "M11a.glb",
   "dims_m": [
@@ -10577,6 +12623,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M11b",
+  "fichier": "M11b.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 493,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M11b.png"
  },
  {
   "code": "M11b1",
@@ -10615,6 +12681,66 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M11c",
+  "fichier": "M11c.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 483,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M11c.png"
+ },
+ {
+  "code": "M11d",
+  "fichier": "M11d.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 427,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M11d.png"
+ },
+ {
+  "code": "M12",
+  "fichier": "M12.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 448,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M12.png"
+ },
+ {
   "code": "M1a",
   "fichier": "M1a.glb",
   "dims_m": [
@@ -10651,6 +12777,46 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M3",
+  "fichier": "M3.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 614,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M3.png"
+ },
+ {
+  "code": "M3a",
+  "fichier": "M3a.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 1136,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M3a.png"
+ },
+ {
   "code": "M3a1",
   "fichier": "M3a1.glb",
   "dims_m": [
@@ -10669,6 +12835,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M3b",
+  "fichier": "M3b.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 914,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M3b.png"
+ },
+ {
   "code": "M3d",
   "fichier": "M3d.glb",
   "dims_m": [
@@ -10685,6 +12871,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M4",
+  "fichier": "M4.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 222,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M4.png"
  },
  {
   "code": "M4d1",
@@ -10849,6 +13055,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M6",
+  "fichier": "M6.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 540,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M6.png"
+ },
+ {
   "code": "M6a",
   "fichier": "M6a.glb",
   "dims_m": [
@@ -10865,6 +13091,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6b",
+  "fichier": "M6b.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 840,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M6b.png"
  },
  {
   "code": "M6c",
@@ -10885,6 +13131,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M6d",
+  "fichier": "M6d.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 774,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M6d.png"
+ },
+ {
   "code": "M6e",
   "fichier": "M6e.glb",
   "dims_m": [
@@ -10901,6 +13167,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M6f",
+  "fichier": "M6f.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 716,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M6f.png"
  },
  {
   "code": "M6g",
@@ -11028,6 +13314,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M8",
+  "fichier": "M8.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 757,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M8.png"
+ },
+ {
   "code": "M8a",
   "fichier": "M8a.glb",
   "dims_m": [
@@ -11134,6 +13440,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "M9",
+  "fichier": "M9.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 576,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M9.png"
  },
  {
   "code": "M9a",
@@ -11334,6 +13660,1297 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "M9z",
+  "fichier": "M9z.glb",
+  "dims_m": [
+   0.5,
+   0.35,
+   0.0025
+  ],
+  "parties": 596,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/M9z.png"
+ },
+ {
+  "code": "MSG_AUTOROUTE_FERMEE_A_xxxx_m",
+  "code_iisr": "MSG:AUTOROUTE FERMEE A xxxx m",
+  "fichier": "MSG_AUTOROUTE_FERMEE_A_xxxx_m.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0033
+  ],
+  "parties": 3226,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_AUTOROUTE_FERMEE_A_xxxx_m.png"
+ },
+ {
+  "code": "MSG_COMPLET",
+  "code_iisr": "MSG:COMPLET",
+  "fichier": "MSG_COMPLET.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 989,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_COMPLET.png"
+ },
+ {
+  "code": "MSG_CONTROLE",
+  "code_iisr": "MSG:CONTROLE",
+  "fichier": "MSG_CONTROLE.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 1376,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_CONTROLE.png"
+ },
+ {
+  "code": "MSG_CONTROLE_A_XXX_M",
+  "code_iisr": "MSG:CONTROLE A XXX M",
+  "fichier": "MSG_CONTROLE_A_XXX_M.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0029
+  ],
+  "parties": 2463,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_CONTROLE_A_XXX_M.png"
+ },
+ {
+  "code": "MSG_DANGER_BOUCHON",
+  "code_iisr": "MSG:DANGER BOUCHON",
+  "fichier": "MSG_DANGER_BOUCHON.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 2449,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_DANGER_BOUCHON.png"
+ },
+ {
+  "code": "MSG_FERME",
+  "code_iisr": "MSG:FERME",
+  "fichier": "MSG_FERME.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 549,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_FERME.png"
+ },
+ {
+  "code": "MSG_LIBRE",
+  "code_iisr": "MSG:LIBRE",
+  "fichier": "MSG_LIBRE.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 794,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_LIBRE.png"
+ },
+ {
+  "code": "MSG_PAYANT",
+  "code_iisr": "MSG:PAYANT",
+  "fichier": "MSG_PAYANT.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 439,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_PAYANT.png"
+ },
+ {
+  "code": "MSG_SORTIE_OBLIGATOIRE_A_yyyy_m",
+  "code_iisr": "MSG:SORTIE OBLIGATOIRE A yyyy m",
+  "fichier": "MSG_SORTIE_OBLIGATOIRE_A_yyyy_m.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0033
+  ],
+  "parties": 3881,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_SORTIE_OBLIGATOIRE_A_yyyy_m.png"
+ },
+ {
+  "code": "MSG_TRAFIC_FLUIDE_TRAFIC_NORMAL_CIRCULATION_NORMALE",
+  "code_iisr": "MSG:TRAFIC FLUIDE/TRAFIC NORMAL/CIRCULATION NORMALE",
+  "fichier": "MSG_TRAFIC_FLUIDE_TRAFIC_NORMAL_CIRCULATION_NORMALE.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0025
+  ],
+  "parties": 1267,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_TRAFIC_FLUIDE_TRAFIC_NORMAL_CIRCULATION_NORMALE.png"
+ },
+ {
+  "code": "MSG_TUNNEL_FERME_A_xxxx_m",
+  "code_iisr": "MSG:TUNNEL FERME A xxxx m",
+  "fichier": "MSG_TUNNEL_FERME_A_xxxx_m.glb",
+  "dims_m": [
+   1.5,
+   0.8,
+   0.0029
+  ],
+  "parties": 2119,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "message",
+  "contenu_exemple": true,
+  "vignette": "vignettes/MSG_TUNNEL_FERME_A_xxxx_m.png"
+ },
+ {
+  "code": "R1",
+  "fichier": "R1.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R1.png"
+ },
+ {
+  "code": "R11",
+  "fichier": "R11.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R11.png"
+ },
+ {
+  "code": "R11j",
+  "fichier": "R11j.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R11j.png"
+ },
+ {
+  "code": "R11v",
+  "fichier": "R11v.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R11v.png"
+ },
+ {
+  "code": "R12",
+  "fichier": "R12.glb",
+  "dims_m": [
+   0.32,
+   0.58,
+   0.1208
+  ],
+  "parties": 484,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R12.png"
+ },
+ {
+  "code": "R12m",
+  "fichier": "R12m.glb",
+  "dims_m": [
+   0.32,
+   0.58,
+   0.1208
+  ],
+  "parties": 908,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R12m.png"
+ },
+ {
+  "code": "R12pps",
+  "fichier": "R12pps.glb",
+  "dims_m": [
+   0.32,
+   0.58,
+   0.1208
+  ],
+  "parties": 484,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R12pps.png"
+ },
+ {
+  "code": "R13",
+  "fichier": "R13.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 608,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13.png"
+ },
+ {
+  "code": "R13b",
+  "fichier": "R13b.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 584,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13b.png"
+ },
+ {
+  "code": "R13bj",
+  "fichier": "R13bj.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 240,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13bj.png"
+ },
+ {
+  "code": "R13c",
+  "fichier": "R13c.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 1328,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13c.png"
+ },
+ {
+  "code": "R13cj",
+  "fichier": "R13cj.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 488,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13cj.png"
+ },
+ {
+  "code": "R13j",
+  "fichier": "R13j.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 248,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13j.png"
+ },
+ {
+  "code": "R13tj",
+  "fichier": "R13tj.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 248,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R13tj.png"
+ },
+ {
+  "code": "R14",
+  "fichier": "R14.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14.png"
+ },
+ {
+  "code": "R14d",
+  "fichier": "R14d.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14d.png"
+ },
+ {
+  "code": "R14dtd",
+  "fichier": "R14dtd.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14dtd.png"
+ },
+ {
+  "code": "R14dtg",
+  "fichier": "R14dtg.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14dtg.png"
+ },
+ {
+  "code": "R14td",
+  "fichier": "R14td.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14td.png"
+ },
+ {
+  "code": "R14tg",
+  "fichier": "R14tg.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R14tg.png"
+ },
+ {
+  "code": "R15",
+  "fichier": "R15.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 608,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R15.png"
+ },
+ {
+  "code": "R15b",
+  "fichier": "R15b.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 584,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R15b.png"
+ },
+ {
+  "code": "R15c",
+  "fichier": "R15c.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 1328,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R15c.png"
+ },
+ {
+  "code": "R16",
+  "fichier": "R16.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16.png"
+ },
+ {
+  "code": "R16d",
+  "fichier": "R16d.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16d.png"
+ },
+ {
+  "code": "R16dtd",
+  "fichier": "R16dtd.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16dtd.png"
+ },
+ {
+  "code": "R16dtg",
+  "fichier": "R16dtg.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16dtg.png"
+ },
+ {
+  "code": "R16td",
+  "fichier": "R16td.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16td.png"
+ },
+ {
+  "code": "R16tg",
+  "fichier": "R16tg.glb",
+  "dims_m": [
+   0.16,
+   0.42,
+   0.1312
+  ],
+  "parties": 467,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R16tg.png"
+ },
+ {
+  "code": "R17",
+  "fichier": "R17.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 192,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R17.png"
+ },
+ {
+  "code": "R18",
+  "fichier": "R18.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 192,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R18.png"
+ },
+ {
+  "code": "R18td",
+  "fichier": "R18td.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 192,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R18td.png"
+ },
+ {
+  "code": "R18tg",
+  "fichier": "R18tg.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 192,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R18tg.png"
+ },
+ {
+  "code": "R19",
+  "fichier": "R19.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 201,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R19.png"
+ },
+ {
+  "code": "R1j",
+  "fichier": "R1j.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R1j.png"
+ },
+ {
+  "code": "R1jn",
+  "fichier": "R1jn.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R1jn.png"
+ },
+ {
+  "code": "R1n",
+  "fichier": "R1n.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R1n.png"
+ },
+ {
+  "code": "R2",
+  "fichier": "R2.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R2.png"
+ },
+ {
+  "code": "R21",
+  "fichier": "R21.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21.png"
+ },
+ {
+  "code": "R21a",
+  "fichier": "R21a.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 200,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21a.png"
+ },
+ {
+  "code": "R21b",
+  "fichier": "R21b.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 201,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21b.png"
+ },
+ {
+  "code": "R21c",
+  "fichier": "R21c.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 201,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21c.png"
+ },
+ {
+  "code": "R21cd",
+  "fichier": "R21cd.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 201,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21cd.png"
+ },
+ {
+  "code": "R21cg",
+  "fichier": "R21cg.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 201,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R21cg.png"
+ },
+ {
+  "code": "R22",
+  "fichier": "R22.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R22.png"
+ },
+ {
+  "code": "R22j",
+  "fichier": "R22j.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.11
+  ],
+  "parties": 184,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R22j.png"
+ },
+ {
+  "code": "R22v",
+  "fichier": "R22v.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.11
+  ],
+  "parties": 184,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R22v.png"
+ },
+ {
+  "code": "R23",
+  "fichier": "R23.glb",
+  "dims_m": [
+   0.32,
+   0.84,
+   0.13
+  ],
+  "parties": 416,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R23.png"
+ },
+ {
+  "code": "R23j",
+  "fichier": "R23j.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.11
+  ],
+  "parties": 184,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R23j.png"
+ },
+ {
+  "code": "R23v",
+  "fichier": "R23v.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.11
+  ],
+  "parties": 184,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R23v.png"
+ },
+ {
+  "code": "R24",
+  "fichier": "R24.glb",
+  "dims_m": [
+   0.58,
+   0.32,
+   0.12
+  ],
+  "parties": 300,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R24.png"
+ },
+ {
+  "code": "R25",
+  "fichier": "R25.glb",
+  "dims_m": [
+   0.32,
+   0.32,
+   0.1104
+  ],
+  "parties": 276,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "feu",
+  "contenu_exemple": false,
+  "vignette": "vignettes/R25.png"
+ },
+ {
   "code": "SC10",
   "fichier": "SC10.glb",
   "dims_m": [
@@ -11388,6 +15005,26 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "SC17",
+  "fichier": "SC17.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 810,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SC17.png"
+ },
+ {
   "code": "SC2",
   "fichier": "SC2.glb",
   "dims_m": [
@@ -11422,6 +15059,26 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SE2",
+  "fichier": "SE2.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 793,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SE2.png"
  },
  {
   "code": "SE2b",
@@ -11530,6 +15187,106 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "SR2",
+  "fichier": "SR2.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1043,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR2.png"
+ },
+ {
+  "code": "SR2a",
+  "fichier": "SR2a.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1565,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR2a.png"
+ },
+ {
+  "code": "SR2b",
+  "fichier": "SR2b.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1343,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR2b.png"
+ },
+ {
+  "code": "SR2c",
+  "fichier": "SR2c.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1333,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR2c.png"
+ },
+ {
+  "code": "SR3",
+  "fichier": "SR3.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1217,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR3.png"
  },
  {
   "code": "SR3a",
@@ -11658,6 +15415,106 @@
   "statut_dimension": "provisoire"
  },
  {
+  "code": "SR4",
+  "fichier": "SR4.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 825,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR4.png"
+ },
+ {
+  "code": "SR50",
+  "fichier": "SR50.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1298,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR50.png"
+ },
+ {
+  "code": "SR52",
+  "fichier": "SR52.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1273,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR52.png"
+ },
+ {
+  "code": "SR52a",
+  "fichier": "SR52a.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1795,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR52a.png"
+ },
+ {
+  "code": "SR52b",
+  "fichier": "SR52b.glb",
+  "dims_m": [
+   1.0,
+   0.75,
+   0.0025
+  ],
+  "parties": 1573,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/SR52b.png"
+ },
+ {
   "code": "SU1",
   "fichier": "SU1.glb",
   "dims_m": [
@@ -11746,6 +15603,266 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "Sal2",
+  "fichier": "Sal2.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 1291,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/Sal2.png"
+ },
+ {
+  "code": "Sal4",
+  "fichier": "Sal4.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 1073,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/Sal4.png"
+ },
+ {
+  "code": "T3",
+  "fichier": "T3.glb",
+  "dims_m": [
+   1.0,
+   0.3,
+   0.0054
+  ],
+  "parties": 32,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "marquage",
+  "contenu_exemple": false,
+  "vignette": "vignettes/T3.png"
+ },
+ {
+  "code": "X1",
+  "fichier": "X1.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 176,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X1.png"
+ },
+ {
+  "code": "X1a",
+  "fichier": "X1a.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 698,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X1a.png"
+ },
+ {
+  "code": "X1b",
+  "fichier": "X1b.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 476,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X1b.png"
+ },
+ {
+  "code": "X2",
+  "fichier": "X2.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 431,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X2.png"
+ },
+ {
+  "code": "X2a",
+  "fichier": "X2a.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 953,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X2a.png"
+ },
+ {
+  "code": "X2b",
+  "fichier": "X2b.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 731,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X2b.png"
+ },
+ {
+  "code": "X3a",
+  "fichier": "X3a.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 1127,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X3a.png"
+ },
+ {
+  "code": "X3b",
+  "fichier": "X3b.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 905,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X3b.png"
+ },
+ {
+  "code": "X50",
+  "fichier": "X50.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 686,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/X50.png"
+ },
+ {
+  "code": "XA1",
+  "fichier": "XA1.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 209,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XA1.png"
  },
  {
   "code": "XA13a",
@@ -12142,6 +16259,106 @@
   "gamme": "normale",
   "dimension_source": "PROVISOIRE : dimension à définir (largeur 700 mm par défaut)",
   "statut_dimension": "provisoire"
+ },
+ {
+  "code": "XAK22",
+  "fichier": "XAK22.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 756,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XAK22.png"
+ },
+ {
+  "code": "XAK30",
+  "fichier": "XAK30.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 955,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XAK30.png"
+ },
+ {
+  "code": "XAK31",
+  "fichier": "XAK31.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 675,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XAK31.png"
+ },
+ {
+  "code": "XAK32",
+  "fichier": "XAK32.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 930,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XAK32.png"
+ },
+ {
+  "code": "XAK5",
+  "fichier": "XAK5.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 460,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XAK5.png"
  },
  {
   "code": "XB11",
@@ -12972,6 +17189,126 @@
   "vignette": "vignettes/XCE64d.png"
  },
  {
+  "code": "XD41",
+  "fichier": "XD41.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 383,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XD41.png"
+ },
+ {
+  "code": "XK3",
+  "fichier": "XK3.glb",
+  "dims_m": [
+   2.5,
+   0.4,
+   0.46
+  ],
+  "parties": 104,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/XK3.png"
+ },
+ {
+  "code": "XK30",
+  "fichier": "XK30.glb",
+  "dims_m": [
+   0.5,
+   0.5,
+   0.0025
+  ],
+  "parties": 922,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XK30.png"
+ },
+ {
+  "code": "XK4",
+  "fichier": "XK4.glb",
+  "dims_m": [
+   2.0,
+   0.4,
+   3.2
+  ],
+  "parties": 64,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/XK4.png"
+ },
+ {
+  "code": "XK4a",
+  "fichier": "XK4a.glb",
+  "dims_m": [
+   3.0,
+   0.4,
+   3.2
+  ],
+  "parties": 64,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/XK4a.png"
+ },
+ {
+  "code": "XK4b",
+  "fichier": "XK4b.glb",
+  "dims_m": [
+   1.5,
+   0.4,
+   3.2
+  ],
+  "parties": 64,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": false,
+  "vignette": "vignettes/XK4b.png"
+ },
+ {
   "code": "XKD10",
   "fichier": "XKD10.glb",
   "dims_m": [
@@ -13455,6 +17792,26 @@
   "vignette": "vignettes/XM4x.png"
  },
  {
+  "code": "XM9",
+  "fichier": "XM9.glb",
+  "dims_m": [
+   1.0,
+   1.0,
+   0.0025
+  ],
+  "parties": 608,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR - dessin schématique",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse de modèle",
+  "statut_dimension": "provisoire",
+  "type_objet": "forme-type",
+  "contenu_exemple": true,
+  "vignette": "vignettes/XM9.png"
+ },
+ {
   "code": "XM9z",
   "fichier": "XM9z.glb",
   "dims_m": [
@@ -13476,5 +17833,47 @@
   "police": "Bfont/Inter OFL (substitut)",
   "alphabet_cible": "L1",
   "vignette": "vignettes/XM9z.png"
+ },
+ {
+  "code": "decompteur",
+  "code_iisr": "décompteur",
+  "fichier": "decompteur.glb",
+  "dims_m": [
+   1.0,
+   0.5,
+   0.0025
+  ],
+  "parties": 1288,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": true,
+  "vignette": "vignettes/decompteur.png"
+ },
+ {
+  "code": "triangle_de_presignalisation",
+  "code_iisr": "triangle de présignalisation",
+  "fichier": "triangle_de_presignalisation.glb",
+  "dims_m": [
+   0.7,
+   0.6062,
+   0.0025
+  ],
+  "parties": 39,
+  "hors_forme_ignores": 0,
+  "licence": "CC0 (géométrie générée) ; code MIT",
+  "auteur": "catalogue 3D panneaux (modèle paramétrique)",
+  "source": "IISR",
+  "gamme": "normale (hypothèse)",
+  "dimension_source": "hypothèse",
+  "statut_dimension": "provisoire",
+  "type_objet": "dispositif",
+  "contenu_exemple": true,
+  "vignette": "vignettes/triangle_de_presignalisation.png"
  }
 ]

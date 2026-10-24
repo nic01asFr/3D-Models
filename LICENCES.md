@@ -15,3 +15,7 @@
 
 L'auteur, la licence et la source de **chaque** panneau figurent dans `catalogue.csv`, dans `manifeste.json` et dans les propriétés personnalisées du GLB.
 Toute réutilisation doit conserver cette attribution.
+
+## Gabarits, silhouettes et modèles paramétriques
+
+Les objets générés par `scripts/gen_gabarit.py` et `scripts/gen_objets.py` (gabarits direction/texte, cartouches, dynamiques, feux, balises, dispositifs, silhouettes, messages) sont des géométries produites par le code du dépôt : **CC0** pour la géométrie, **MIT** pour le code. Les lettres sont tracées avec la police intégrée de Blender (Inter, SIL Open Font License 1.1), qui autorise l'usage des glyphes dans des œuvres dérivées ; elle remplace provisoirement les alphabets L1, L2, L4 et L5 de l'IISR. Les vignettes (`vignettes/`) et planches (`planches/`) sont des rendus de ces objets (CC0) ou de pictogrammes Commons (licence et auteur indiqués dans `catalogue.csv`).
