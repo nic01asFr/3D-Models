@@ -1,6 +1,6 @@
 import json, os, base64, glob, bl, sys
 from PIL import Image
-sp=json.load(open('specs_pic.json')); res=[]
+sp=json.load(open(os.environ.get('SPECS','specs_pic.json'))); res=[]
 codes_only=sys.argv[1:] 
 if codes_only: sp=[s for s in sp if s['code'] in codes_only]
 DEF={'A':'01_A_danger','B':'03_B_prescription','C':'04_C_indication','CE':'05_CE_services','ID':'12_ID_ideogrammes','M':'11_M_panonceaux','KM':'11_M_panonceaux','H':'20_H_tourisme_culture','SR':'14_SR_information_securite','SC':'04_C_indication','SE':'04_C_indication','X':'19_X_dynamiques','XA':'15_XA','XAK':'10_AK_signalisation_temporaire','XD':'19_X_dynamiques','XK':'10_AK_signalisation_temporaire','KX':'19_X_dynamiques','KXC':'19_X_dynamiques','KS':'10_AK_signalisation_temporaire','SAL':'23_autres','KC':'10_AK_signalisation_temporaire'}

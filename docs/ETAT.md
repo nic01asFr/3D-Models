@@ -121,3 +121,10 @@ Les règles de l'IISR 5e partie (art. 81 C et 81-1) sont encodées dans `docs/re
 - Les 104 « silhouettes » sont redessinées de façon paramétrique (`scripts/pictos.py`, production `scripts/prodpic.py`, specs `scripts/specs_pic.json`) : triangles A (virages, feux, bus/tram, animaux), disques et panneaux B/C/CE, panonceaux M/KM, H, SR, ID, SC/SE, C117-B21x, signaux dynamiques X.
 - Statut : **hypothèse de dessin** (proportions et détail du trait non sourcés ; textes = exemples). Reste à valider contre NF P98-532 / catalogue Sétra.
 - Non refait : les 42 modèles schématiques (feux R/KR, balises J, XK, T) et 4 signes à variantes par valeur (B14, B21, B33, C117), déjà produits.
+
+## Variantes différenciées (42)
+- E33a/b, E34a–d, E36a/b, E37a/b : contenu distinct (entrée/sortie d'aire, département/région, œuvre/auteur).
+- E52/E53/E54/E57 a/b/c : a = borne, b = borne + altitude, c = plaquette (IISR 5e partie, art. E52-E57).
+- G1, G1b, G1bis (voie unique) et G1a, G1c, G1abis, G1cbis (plusieurs voies = deux croix) ; « bis » = signalisation automatique lumineuse (deux feux).
+- KD21/22/42/43 a–e : toutes catégories (« DÉVIATION »), une catégorie (silhouette de véhicule, dessin hypothétique), ville, ville sur fond vert (KD42e).
+- Contenus = exemples ; silhouette de véhicule = hypothèse de dessin. Gabarit : `tpl_croix`, `tpl_plaque`, `tpl_deviation` étendus (`scripts/patchvar.py`).
