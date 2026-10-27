@@ -210,6 +210,33 @@
     return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + f(W) + ' ' + f(Ht) + '" width="' + f(W / 2) + '" height="' + f(Ht / 2) + '">' + out + '</svg>', warn };
   }
 
+
+  // ------------------------------------------------------------------ panneaux à texte H10, H20 (marron), Dc29, Dc43 (blanc ou bleu)
+  // Gabarits issus du générateur d'entraînement (ocr_gen2.py) : proportions = HYPOTHÈSES de dessin, à confronter à l'arrêté ; pas de police routière libre (métriques de substitution).
+  const PT_STYLE = {
+    H10: { fond: '#703a26', texte: '#fafafa', filet: '#fafafa', picto: true },
+    H20: { fond: '#703a26', texte: '#fafafa', filet: '#fafafa', picto: true },
+    Dc29: { fond: '#f5f5f5', texte: '#141419', filet: '#5a5a5f', picto: false },
+    Dc43: { fond: '#f5f5f5', texte: '#141419', filet: '#5a5a5f', picto: false }
+  };
+  /** renderPanneauTexte({type, lignes, fleche:'gauche'|'droite'|null, picto:bool, bleu:bool}) -> {svg, warn}. */
+  function renderPanneauTexte(o) {
+    const warn = [], st = Object.assign({}, PT_STYLE[o.type]);
+    if (!PT_STYLE[o.type]) return { svg: null, warn: ['type à texte inconnu : ' + o.type] };
+    if (o.bleu && o.type.startsWith('Dc')) { st.fond = '#144696'; st.texte = '#fafafa'; st.filet = '#fafafa'; }
+    const L = (o.lignes || []).map(String); if (!L.length) warn.push('texte vide'); if (L.length > 3) warn.push(L.length + ' lignes : lisibilité réduite au-delà de 3');
+    const lh = 80, cap = lh * 0.78, pad = lh * 0.28, pic = (o.picto === undefined ? st.picto : o.picto), ps = pic ? lh * 1.05 : 0, ar = o.fleche ? lh * 0.6 : 0;
+    const ws = L.map(s => textWidth(s, cap)), tw = Math.max(...ws, cap);
+    const W = ps + tw + 2 * pad + ar + (pic ? pad : 0), H = L.length * lh + 2 * pad, x0 = 0, x1 = W, y1 = H, ym = H / 2;
+    const pts = o.fleche === 'droite' ? [[0, 0], [W - ar, 0], [W, ym], [W - ar, H], [0, H]] : o.fleche === 'gauche' ? [[ar, 0], [W, 0], [W, H], [ar, H], [0, ym]] : [[0, 0], [W, 0], [W, H], [0, H]];
+    const P = pts.map(p => f(p[0]) + ',' + f(p[1])).join(' ');
+    let out = '<polygon points="' + P + '" fill="' + st.fond + '" stroke="' + st.filet + '" stroke-width="' + f(lh / 12) + '" stroke-linejoin="round"/>';
+    let tx = pad + (o.fleche === 'gauche' ? ar : 0);
+    if (pic) { out += '<rect x="' + f(tx) + '" y="' + f(pad) + '" width="' + f(ps) + '" height="' + f(ps) + '" rx="' + f(ps / 10) + '" fill="none" stroke="' + st.texte + '" stroke-width="' + f(ps / 14) + '"/>'; tx += ps + pad; }
+    L.forEach((s, i) => { out += text(s, tx + tw / 2, pad + lh / 2 + i * lh, cap, 'middle', ws[i], st.texte); });
+    return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 ' + f(W + 12) + ' ' + f(H + 12) + '" width="' + f((W + 12) / 3) + '" height="' + f((H + 12) / 3) + '">' + out + '</svg>', warn };
+  }
+
   // ------------------------------------------------------------------ panneaux-schémas D42a (carrefour), D42b (giratoire), D52 (échangeur)
   // Port de tpl_dirschema.py : traits noirs sur fond blanc, unité u = Hc (IISR art. 83) ; le tracé du schéma est une HYPOTHÈSE de dessin.
   const SCHEMAS = { D42: 'carrefour', D42a: 'carrefour', Dv42a: 'carrefour', D42b: 'giratoire', Dv42b: 'giratoire', D52: 'echangeur', D52b: 'echangeur', D52c: 'echangeur' };
@@ -247,6 +274,6 @@
     return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + f(W) + ' ' + f(H) + '" width="' + f(W / 4) + '" height="' + f(H / 4) + '">' + out + '</svg>', warn, comp: { hb_mm: h0, hc_mm: u } };
   }
 
-  const API = { renderSchema, SCHEMAS, renderDisqueValeur, renderPanonceauTexte, VALEURS_B14, composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
+  const API = { renderSchema, SCHEMAS, renderDisqueValeur, renderPanonceauTexte, renderPanneauTexte, PT_STYLE, VALEURS_B14, composer, geometrie, renderSVG, corriger, valider, setFontMetrics, textWidth, fmtDistance, casse, hb, hc, COL, GAMMES };
   if (typeof module !== 'undefined' && module.exports) module.exports = API; else root.SignRender = API;
 })(typeof self !== 'undefined' ? self : this);
