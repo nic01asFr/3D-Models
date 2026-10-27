@@ -233,8 +233,9 @@
     let out = '<polygon points="' + P + '" fill="' + st.fond + '" stroke="' + st.filet + '" stroke-width="' + f(lh / 12) + '" stroke-linejoin="round"/>';
     let tx = pad + (o.fleche === 'gauche' ? ar : 0);
     if (pic) { out += '<rect x="' + f(tx) + '" y="' + f(pad) + '" width="' + f(ps) + '" height="' + f(ps) + '" rx="' + f(ps / 10) + '" fill="none" stroke="' + st.texte + '" stroke-width="' + f(ps / 14) + '"/>'; tx += ps + pad; }
-    L.forEach((s, i) => { out += text(s, tx + tw / 2, pad + lh / 2 + i * lh, cap, 'middle', ws[i], st.texte); });
-    return { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 ' + f(W + 12) + ' ' + f(H + 12) + '" width="' + f((W + 12) / 3) + '" height="' + f((H + 12) / 3) + '">' + out + '</svg>', warn };
+    const boites = [];
+    L.forEach((s, i) => { out += text(s, tx + tw / 2, pad + lh / 2 + i * lh, cap, 'middle', ws[i], st.texte); boites.push({ texte: s, x: f(tx + tw / 2 - ws[i] / 2), y: f(pad + lh / 2 + i * lh - cap / 2), w: f(ws[i]), h: f(cap) }); });
+    return { boites, viewBox: [-6, -6, f(W + 12), f(H + 12)], svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6 -6 ' + f(W + 12) + ' ' + f(H + 12) + '" width="' + f((W + 12) / 3) + '" height="' + f((H + 12) / 3) + '">' + out + '</svg>', warn };
   }
 
   // ------------------------------------------------------------------ panneaux-schémas D42a (carrefour), D42b (giratoire), D52 (échangeur)
