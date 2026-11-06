@@ -1,0 +1,65 @@
+source,relation,cible,condition,valeur_unite,article,page,partie,extrait,statut,id_regle
+A,panonceau_admis,M1,,,Art. 9-1 B,20,1,"Le panonceau M1 peut être utilisé en complément des panneaux de type A, AB, B, C et CE.",iisr,IISR-061
+AB,panonceau_admis,M1,,,Art. 9-1 B,20,1,"Le panonceau M1 peut être utilisé en complément des panneaux de type A, AB, B, C et CE.",iisr,IISR-061
+B,panonceau_admis,M1,,,Art. 9-1 B,20,1,"Le panonceau M1 peut être utilisé en complément des panneaux de type A, AB, B, C et CE.",iisr,IISR-061
+C,panonceau_admis,M1,,,Art. 9-1 B,20,1,"Le panonceau M1 peut être utilisé en complément des panneaux de type A, AB, B, C et CE.",iisr,IISR-061
+CE,panonceau_admis,M1,,,Art. 9-1 B,20,1,"Le panonceau M1 peut être utilisé en complément des panneaux de type A, AB, B, C et CE.",iisr,IISR-061
+AK,panonceau_admis,KM1,,,Art. 9-1 B,20,1,"Le panonceau KM1 peut être utilisé en complément des panneaux de type AK, du panneau KD8 et du panneau KD10.",iisr,IISR-062
+KD8,panonceau_admis,KM1,,,Art. 9-1 B,20,1,"Le panonceau KM1 peut être utilisé en complément des panneaux de type AK, du panneau KD8 et du panneau KD10.",iisr,IISR-062
+KD10,panonceau_admis,KM1,,,Art. 9-1 B,20,1,"Le panonceau KM1 peut être utilisé en complément des panneaux de type AK, du panneau KD8 et du panneau KD10.",iisr,IISR-062
+A,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+AB,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+B,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+C,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+CE,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+SR,panonceau_admis,M2,,,Art. 9-1 B,20,1,"Le panonceau M2 peut être utilisé en complément des panneaux de type A, AB, B, C, CE et SR.",iisr,IISR-063
+AK4,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+AK5,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+AK14,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+AK22,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+AK30,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+KD9,panonceau_admis,KM2,,,Art. 9-1 B,20,1,"Le panonceau KM2 peut être utilisé en complément des panneaux AK4, AK5, AK14, AK22, AK30 et KD9.",iisr,IISR-064
+AB,panonceau_admis,M4,,,Art. 9-1 B,21,1,"Les panonceaux de catégorie M4 ne sont utilisés qu'avec les panneaux de type AB, B et C.",iisr,IISR-065
+B,panonceau_admis,M4,,,Art. 9-1 B,21,1,"Les panonceaux de catégorie M4 ne sont utilisés qu'avec les panneaux de type AB, B et C.",iisr,IISR-065
+C,panonceau_admis,M4,,,Art. 9-1 B,21,1,"Les panonceaux de catégorie M4 ne sont utilisés qu'avec les panneaux de type AB, B et C.",iisr,IISR-065
+B6,panonceau_admis,M6,,,Art. 9-1 B,21,1,Les panonceaux complémentaires M6 ne peuvent être associés qu'à des panneaux de type B6 ou C1.,iisr,IISR-066
+C1,panonceau_admis,M6,,,Art. 9-1 B,21,1,Les panonceaux complémentaires M6 ne peuvent être associés qu'à des panneaux de type B6 ou C1.,iisr,IISR-066
+B6a,panonceau_admis,M8,,,Art. 9-1 B,21,1,Les panonceaux d'application M8 ne peuvent être associés qu'à des panneaux de type B6a et B6d.,iisr,IISR-067
+B6d,panonceau_admis,M8,,,Art. 9-1 B,21,1,Les panonceaux d'application M8 ne peuvent être associés qu'à des panneaux de type B6a et B6d.,iisr,IISR-067
+C107,panonceau_admis,M10a et M10b,,,Art. 9-1 B,21,1,Les panonceaux M10a et M10b ne peuvent être exclusivement employés qu’avec les panneaux C107 et C207.,iisr,IISR-068
+C207,panonceau_admis,M10a et M10b,,,Art. 9-1 B,21,1,Les panonceaux M10a et M10b ne peuvent être exclusivement employés qu’avec les panneaux C107 et C207.,iisr,IISR-068
+C1a,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+C1b,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+C1c,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE3a,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE4a,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE4b,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE4c,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE5b,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE6a,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE6b,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE19,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE20a,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE20b,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+CE21,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+C111,panonceau_admis,M10z,,,Art. 9-1 B,21,1,"Le panonceau M10z ne peut être exclusivement employé qu’avec les panneaux C1a, C1b, C1c, CE3a, CE4a, CE4b, CE4c, CE5b, CE6a, CE6b, CE19, CE20a, CE20b, CE21 et C111.",iisr,IISR-069
+C107,panonceau_admis,M11a,,,Art. 9-1 B,21,1,Le panonceau M11a ne peut être exclusivement employé qu’avec le panneau C107.,iisr,IISR-070
+B54,panonceau_admis,M11b,,,Art. 9-1 B,21,1,Les panonceaux M11b ne peuvent être exclusivement employés qu'avec le panneau B54.,iisr,IISR-071
+B18c,panonceau_admis,M11c,voies d'accès à un tunnel,,Art. 9-1 B,21,1,Les panonceaux M11c ne sont utilisés qu’avec les panneaux B18c et C117 implantés sur les voies d’accès à un tunnel.,iisr,IISR-072
+C117,panonceau_admis,M11c,voies d'accès à un tunnel,,Art. 9-1 B,21,1,Les panonceaux M11c ne sont utilisés qu’avec les panneaux B18c et C117 implantés sur les voies d’accès à un tunnel.,iisr,IISR-072
+"B14 (voie de décélération, sortie à droite)",panonceau_admis,M3a (flèche vers le bas et à droite),limitation de vitesse au début d'une voie de décélération,,Art. 9-1 B3a,21,1,"sur une sortie à droite, on complète le panneau B14 placé sur l'accotement de droite par un panonceau M3a avec une flèche dirigée vers le bas et à droite",iisr,
+panneaux d'obligation (accès à une voie ou piste réservée),panonceau_admis,M3 (M3b avec distance possible),,,Art. 9-1 B3b,21,1,le panneau d’obligation est complété par un panonceau M3.,iisr,
+certains panneaux de type C,panonceau_admis,"panonceau à flèche (horizontale unique, oblique ou verticale)",codes C non nommés,,Art. 9-1 B3c,21,1,certains panneaux de type C peuvent être également complétés par un panonceau à flèche horizontale unique ou à flèche oblique,iisr,
+panneau placé au-dessus d'une voie,panonceau_admis,M3d,panneau qui ne s'adresse qu'aux usagers de la voie surplombée,,Art. 9-1 B3d,21,1,on utilise le panonceau M3d.,iisr,
+STOP (voir art. 35 C et 42-2 F),panonceau_admis,M5,renvoi : contenu non extrait,,Art. 9-1 B5,21,1,"Les panonceaux M5 relatifs au STOP sont utilisés dans les conditions définies à l'article 35, paragraphe C",iisr_renvoi,
+carrefours (voir art. 42-5),panonceau_admis,M7 (schéma),renvoi : contenu non extrait,,Art. 9-1 B7,21,1,Le panonceau schéma M7 est utilisé dans les conditions définies à l'article 42-5.,iisr_renvoi,
+feu bicolore ou tricolore de circulation,panonceau_admis,M12,"carrefours, traversées gérées par feux, alternat",,Art. 9-2 B,22,1,à un feu bicolore ou tricolore de circulation. Son emploi doit donc être réservé :,iisr,
+A9b,panonceau_admis,M9z (« PRIORITÉ AU TRAMWAY »),traversée de tramway sans signalisation lumineuse,,Art. 35-2,14,2,le panneau A9b peut être complété par un panonceau d'indications diverses M9z portant l'inscription «PRIORITÉ AU TRAMWAY».,iisr,
+A9b,panonceau_admis,M9b ou M9z (symbole de l'électricité),avec un panneau B12,,Art. 35-2,14,2,Le panneau A9b peut être complété par un panonceau M9b ou M9z portant le symbole de l'électricité et par un panneau B12.,iisr,
+AB3a (en position),panonceau_admis,M9c,,,,15,3,"En position, le panneau AB3a et le panonceau M9c sont mis en place",iisr,
+"B6a1, B6b1 (stationnement gênant ou très gênant)",panonceau_admis,M6a,,,Art. 55,12,4,"Dans le cas de stationnement gênant ou très gênant, ils complètent le panneau B6a1 ou B6b1",iisr,
+B6d (arrêt ou stationnement gênant ou très gênant),panonceau_admis,M6a,,,Art. 55,12,4,"Dans le cas d'arrêt ou de stationnement gênant ou très gênant, ils complètent le panneau B6d",iisr,
+"signalisation cyclistes, EDPM, cyclomobiles légers",panonceau_admis,M4d1,si confusion avec les autres véhicules inévitable,,Art. 8 h,18,1,cette signalisation est complétée par un panonceau de catégorie M4d1,iisr,IISR-178
+tout panneau (aucune liste dans le texte),panonceau_admis,M9 (indications diverses),« chaque fois qu'il y a lieu de préciser » ; non restreint,,Art. 9-1 B,21,1,Le panonceau d'indications diverses M9 est utilisé chaque fois qu'il y a lieu de préciser la nature exacte du danger ou de la prescription ou de l’indication.,ABSENT_du_texte,IISR-073
+"panneau B6a, B6d",panonceau_admis,"M8d, M8e, M8f","horizontaux, sous les panneaux placés parallèlement à l'axe de la chaussée",,Art. 55,14,4,"Les panonceaux horizontaux M8d, M8e, M8f sont à utiliser sous les panneaux placés parallèlement à l'axe de la chaussée sur laquelle s'applique la réglementation.",iisr,IISR-170
+"panneau B6a, B6d",panonceau_admis,"M8a, M8b, M8c","verticaux, sous les panneaux perpendiculaires à l'axe de la chaussée",,Art. 55,14,4,"Les panonceaux verticaux M8a, M8b, M8c sont à utiliser sous les panneaux placés perpendiculairement à l'axe de la chaussée sur laquelle s'applique la réglementation.",iisr,IISR-171

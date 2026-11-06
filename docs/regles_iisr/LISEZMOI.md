@@ -21,6 +21,8 @@
 
 ## Fichiers
 - `regles_gammes.csv`, `regles_combinaisons.csv`, `regles_texte_alphabets.csv`, `regles_types_prioritaires.csv`, `regles_marquages.csv` (partie 7 : modulations T1 à T4, largeur unité u, tableau des lignes art. 113-2), `regles_feux.csv` (partie 6 : diamètres, hauteurs d'implantation, partiel), `regles_balises.csv` (J1, J3, J4, J5, J16 : partie 1, partiel), `regles_liseres_couleurs.csv` (formes, couleurs, listels : art. 5-1, 5-2, partie 2 art. 23, partie 4 art. 47), `regles_iisr.json`
+- `matrices/` : M1 à M4 (panneau -> panonceaux, supports, même support, gammes), format long avec statut et article. Voir matrices/LISEZMOI.md.
+- `regles_formes_par_code.csv` : forme par code AB (planche p.23 partie 3) et formes non standard.
 - `couverture_catalogue.csv` : pour chacune des 909 lignes de catalogue.csv (et les types absents du catalogue), les règles trouvées et ce qui manque. Les 18 types prioritaires de pilote-cairn sont en tête (colonne `priorite`). Méthode : une règle « concerne » un code si son `objet` cite ce code ou sa famille. Les plages (ex. SR3a-SR3c3) ne sont pas dépliées : la couverture est sous-estimée là.
 - `A_SOURCER_HORS_IISR.md` : ce qu'il faudrait sourcer hors IISR.
 

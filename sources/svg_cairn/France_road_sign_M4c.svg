@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Création Cairn (06/11/2026) — dessin original, NON OFFICIEL, hors référentiel IISR pour la mise en page ; licence CC0.
+     M4c — panonceau de catégorie : motocyclettes et motocyclettes légères (R. 311-1). Pictogramme dessiné par Cairn, silhouette simplifiée. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="625.258" height="255.258" viewBox="0 0 625.258 255.258" id="M4c">
+  <rect x="4" y="4" width="617.258" height="247.258" rx="26" ry="26" fill="#ffffff" stroke="#111111" stroke-width="5"/>
+  <g fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="190" cy="170" r="40" stroke-width="15"/>
+    <circle cx="435" cy="170" r="40" stroke-width="15"/>
+    <line x1="435" y1="170" x2="398" y2="84" stroke-width="14"/>
+    <line x1="372" y1="74" x2="418" y2="66" stroke-width="12"/>
+    <line x1="190" y1="170" x2="288" y2="136" stroke-width="14"/>
+  </g>
+  <g fill="#111111">
+    <path d="M205 118 L322 118 L346 92 L388 92 L402 120 L352 148 L290 148 L238 134 Z"/>
+    <rect x="282" y="138" width="78" height="40" rx="9"/>
+    <path d="M232 176 L282 176 L282 190 L226 192 Z"/>
+  </g>
+</svg>

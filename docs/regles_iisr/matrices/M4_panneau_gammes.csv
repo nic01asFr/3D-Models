@@ -1,0 +1,59 @@
+source,relation,cible,condition,valeur_unite,article,page,partie,extrait,statut,id_regle
+A,gamme_admise,Très grande,employée sur les autoroutes,"1500 | 1250 | 1200 | 1050 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Très grande 1500 1250 1200 1050,iisr_croise_pdf,IISR-002
+A,gamme_admise,Grande,si la gamme normale ne donne pas une lisibilité optimale,"1250 | 1050 | 1000 | 900 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Grande 1250 1050 1000 900,iisr_croise_pdf,IISR-003
+A,gamme_admise,Normale,gamme par défaut,"1000 | 850 | 800 | 700 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Normale 1000 850 800 700,iisr_croise_pdf,IISR-004
+A,gamme_admise,Petite,difficultés d'implantation,"700 | 650 | 600 | 500 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Petite 700 650 600 500,iisr_croise_pdf,IISR-005
+A,gamme_admise,Miniature,"exceptionnelle, agglomération et tunnel","500(1) | 450(1) | 400 | 350 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Miniature 500(1) 450(1) 400 350,iisr_croise_pdf,IISR-006
+AB,gamme_admise,Très grande,employée sur les autoroutes,"1500 | 1250 | 1200 | 1050 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Très grande 1500 1250 1200 1050,iisr_croise_pdf,IISR-002
+AB,gamme_admise,Grande,si la gamme normale ne donne pas une lisibilité optimale,"1250 | 1050 | 1000 | 900 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Grande 1250 1050 1000 900,iisr_croise_pdf,IISR-003
+AB,gamme_admise,Normale,gamme par défaut,"1000 | 850 | 800 | 700 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Normale 1000 850 800 700,iisr_croise_pdf,IISR-004
+AB,gamme_admise,Petite,difficultés d'implantation,"700 | 650 | 600 | 500 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Petite 700 650 600 500,iisr_croise_pdf,IISR-005
+AB,gamme_admise,Miniature,"exceptionnelle, agglomération et tunnel","500(1) | 450(1) | 400 | 350 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Miniature 500(1) 450(1) 400 350,iisr_croise_pdf,IISR-006
+B,gamme_admise,Très grande,employée sur les autoroutes,"1500 | 1250 | 1200 | 1050 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Très grande 1500 1250 1200 1050,iisr_croise_pdf,IISR-002
+B,gamme_admise,Grande,si la gamme normale ne donne pas une lisibilité optimale,"1250 | 1050 | 1000 | 900 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Grande 1250 1050 1000 900,iisr_croise_pdf,IISR-003
+B,gamme_admise,Normale,gamme par défaut,"1000 | 850 | 800 | 700 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Normale 1000 850 800 700,iisr_croise_pdf,IISR-004
+B,gamme_admise,Petite,difficultés d'implantation,"700 | 650 | 600 | 500 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Petite 700 650 600 500,iisr_croise_pdf,IISR-005
+B,gamme_admise,Miniature,"exceptionnelle, agglomération et tunnel","500(1) | 450(1) | 400 | 350 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Miniature 500(1) 450(1) 400 350,iisr_croise_pdf,IISR-006
+C,gamme_admise,Très grande,employée sur les autoroutes,"1500 | 1250 | 1200 | 1050 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Très grande 1500 1250 1200 1050,iisr_croise_pdf,IISR-002
+C,gamme_admise,Grande,si la gamme normale ne donne pas une lisibilité optimale,"1250 | 1050 | 1000 | 900 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Grande 1250 1050 1000 900,iisr_croise_pdf,IISR-003
+C,gamme_admise,Normale,gamme par défaut,"1000 | 850 | 800 | 700 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Normale 1000 850 800 700,iisr_croise_pdf,IISR-004
+C,gamme_admise,Petite,difficultés d'implantation,"700 | 650 | 600 | 500 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Petite 700 650 600 500,iisr_croise_pdf,IISR-005
+C,gamme_admise,Miniature,"exceptionnelle, agglomération et tunnel","500(1) | 450(1) | 400 | 350 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Miniature 500(1) 450(1) 400 350,iisr_croise_pdf,IISR-006
+CE,gamme_admise,Très grande,employée sur les autoroutes,"1500 | 1250 | 1200 | 1050 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Très grande 1500 1250 1200 1050,iisr_croise_pdf,IISR-002
+CE,gamme_admise,Grande,si la gamme normale ne donne pas une lisibilité optimale,"1250 | 1050 | 1000 | 900 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Grande 1250 1050 1000 900,iisr_croise_pdf,IISR-003
+CE,gamme_admise,Normale,gamme par défaut,"1000 | 850 | 800 | 700 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Normale 1000 850 800 700,iisr_croise_pdf,IISR-004
+CE,gamme_admise,Petite,difficultés d'implantation,"700 | 650 | 600 | 500 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Petite 700 650 600 500,iisr_croise_pdf,IISR-005
+CE,gamme_admise,Miniature,"exceptionnelle, agglomération et tunnel","500(1) | 450(1) | 400 | 350 (triangle | disque | octogone | carré, mm)",Art. 5-3,10,1,Miniature 500(1) 450(1) 400 350,iisr_croise_pdf,IISR-006
+C,gamme_admise,Exceptionnelle,présignalisation des aires annexes sur routes et autoroutes,"1500 (carré, côté nominal)",Art. 5-3,10,1,Exceptionnelle 1500 Supérieure 1200 Très grande,iisr_croise_pdf,IISR-007
+CE,gamme_admise,Exceptionnelle,présignalisation des aires annexes sur routes et autoroutes,"1500 (carré, côté nominal)",Art. 5-3,10,1,Exceptionnelle 1500 Supérieure 1200 Très grande,iisr_croise_pdf,IISR-007
+C,gamme_admise,Supérieure,présignalisation des aires annexes sur routes et autoroutes,"1200 (carré, côté nominal)",Art. 5-3,10,1,Exceptionnelle 1500 Supérieure 1200 Très grande,iisr_croise_pdf,IISR-008
+CE,gamme_admise,Supérieure,présignalisation des aires annexes sur routes et autoroutes,"1200 (carré, côté nominal)",Art. 5-3,10,1,Exceptionnelle 1500 Supérieure 1200 Très grande,iisr_croise_pdf,IISR-008
+B30,gamme_admise,dimensions spécifiques,,petite 500x650 | normale 700x900 | grande 900x1150 (mm),Art. 5-3,10,1,B30 500 x 650 700 x 900 900 x 1150,iisr,IISR-013
+B51,gamme_admise,dimensions spécifiques,,petite 500x650 | normale 700x900 | grande 900x1150 (mm),Art. 5-3,10,1,B51 500 x 650 700 x 900 900 x 1150,iisr,IISR-014
+B56,gamme_admise,dimensions spécifiques,,petite 600x900 | normale 1200x1800 | grande 1600x2400 (mm),Art. 5-3,10,1,B56 600 x 900 1 200 x 1 800 1 600 x 2 400,iisr,IISR-015
+B58,gamme_admise,dimensions spécifiques,,petite 600x900 | normale 1200x1800 | grande 1600x2400 (mm),Art. 5-3,10,1,B58 600 x 900 1 200 x 1 800 1600 x 2400,iisr,IISR-016
+C3,gamme_admise,dimensions spécifiques,,normale 600 x 800 (mm),Art. 5-3,10,1,C3 600 x 800,iisr_croise_pdf,IISR-017
+C14,gamme_admise,dimensions spécifiques,,normale 900 x 1300 (mm),Art. 5-3,10,1,C14 900 x 1300,iisr_croise_pdf,IISR-018
+C25a,gamme_admise,dimensions spécifiques,,normale 1600 x 2400 (mm),Art. 5-3,10,1,C25a 1600 x 2400,iisr_croise_pdf,IISR-019
+C25b,gamme_admise,dimensions spécifiques,,normale 1600 x 2400 | grande 2400 x 3600 (mm),Art. 5-3,10,1,C25b 1600 x 2400 2400 x 3600,iisr_croise_pdf,IISR-020
+C117,gamme_admise,dimensions spécifiques,,normale 900 x 120 (tel qu'imprimé) | grande 1050 x 1500 (mm),Art. 5-3,10,1,C117 900 x 120 1050 x 1500,iisr_croise_pdf,IISR-021
+"SR3a, SR3b, SR3c1, SR3c2, SR3c3",gamme_admise,par emplacement,,"très grande 2400x3600 (autoroute) | grande 1600x2400 (route) | normale 1200x1800 (route et zone urbaine) | petite 600x900 (terre-plein central, répétition)",Art. 5-3,13,1,Très grande 2400 x 3600 Autoroute Grande 1600 x 2400 Route Normale 1200 x 1800 Route et Zone urbaine Petite 600 x 900 Terre-plein central (répétition),iisr_croise_pdf,IISR-038
+SR2,gamme_admise,par emplacement,,3500 x 3000 mm,Art. 5-3,13,1,SR2 3500 x 3000,iisr,IISR-039
+SR4,gamme_admise,par emplacement,,1300 x 600 mm,Art. 5-3,13,1,SR4 1300 x 600,iisr,IISR-040
+"D, Da",gamme_admise,non prédéfinie,,"non prédéfinie ; dépend du nombre d'éléments de base, de la longueur et de la hauteur de composition des mentions",Art. 83,46,5,Les gammes de dimension des panneaux de type D et Da ne sont pas prédéfinies,iisr,IISR-142
+H,gamme_admise,non prédéfinie,,non prédéfinie (comme D),Art. 87-1,65,5,"Les gammes de dimension des panneaux de type H, comme pour les panneaux de type D, ne sont pas prédéfinies.",iisr,IISR-148
+Dv,gamme_admise,non prédéfinie,,non prédéfinie,Art. 91-1,68,5,"Les gammes de dimension des panneaux de type Dv, comme pour les panneaux de type D et Da, ne sont pas prédéfinies",iisr,IISR-155
+"E, EB",gamme_admise,non prédéfinie,,non prédéfinies ; dépendent de la longueur de la mention et de la hauteur des caractères,Art. 99-1,75,5,Les tailles des panneaux de type E et EB ne sont pas prédéfinies.,iisr,IISR-162
+Dv11,dimensions_admises,tableau de l'art. 5-3,,200 x 200 mm,Art. 5-3,12,1,200 mm x 200 mm pour le Dv11,iisr,IISR-032
+"Dv21c, Dv43c, Dv43d",dimensions_admises,tableau de l'art. 5-3,,longueur 300 x hauteur 200 mm,Art. 5-3,12,1,"longueur 300 mm x hauteur 200 mm pour les panneaux Dv21c, Dv43c et Dv43d",iisr,IISR-033
+"Dv42a, Dv42b",dimensions_admises,tableau de l'art. 5-3,,"700, 900, 1050, 1200, 1500 mm",Art. 5-3,12,1,CARRES 700 x 700 900 x 900 1050 x 1050 1200 x 1200 1500 x 1500,iisr,IISR-034
+Dp1,dimensions_admises,tableau de l'art. 5-3,,longueur 600 x hauteur 120 mm,Art. 5-3,12,1,longueur 600 mm x hauteur 120 mm pour le Dp1,iisr,IISR-035
+Dp2,dimensions_admises,tableau de l'art. 5-3,,longueur 700 x hauteur 200 mm,Art. 5-3,12,1,longueur 700 mm x hauteur 200 mm pour le Dp2,iisr,IISR-036
+"Dp29, Dp43",dimensions_admises,tableau de l'art. 5-3,,"longueurs 800, 1000, 1300 ; hauteurs 80 (800 et 1000 seulement), 100, 120, 150, 200, 250, 300 (les trois longueurs)",Art. 5-3,13,1,Les dimensions des panneaux Dp29 et Dp43 sont les suivantes :,iisr_croise_pdf,IISR-181
+D29,dimensions_admises,tableau de l'art. 5-3,,"H120 : 400,600,800,1000,1200 | H250 : 800,1000,1200",Art. 5-3,11,1,Les dimensions des panneaux D29 sont choisies parmi celles données dans le tableau ci-dessous :,iisr_croise_pdf,IISR-182
+M1 à M11,dimensions_admises,couples longueur x hauteur,la correspondance avec la gamme du panneau complété n'est pas écrite,"varient en fonction du panneau complété ; couples permis : H150 : L350,500 | H200 : L500,700 | H250 : L350,900 | H300 : L500,1000 | H350 : L350,500,700 | H400 : L1200 | H500 : L500,900,1500 | H600 : L1000,1200 | H700 : L700",Art. 9-2 D,22,1,Les dimensions des panonceaux M1 à M11 varient en fonction du panneau qu’ils complètent.,iisr_croise_pdf,IISR-189
+M12,dimensions_admises,côté nominal,,"150 à 300 mm ; 500 mm exceptionnellement, en l'absence de panneaux AB et si la lisibilité est insuffisante",Art. 9-2 D,22,1,Les panonceaux de type M12 ont un côté nominal compris entre 150 et 300 mm.,iisr,IISR-190
+panneaux dynamiques à caissons,gamme_admise,par gamme,signalisation dynamique,très grande 1600x1600 | grande 1300x1300 | normale 1050x1050 | petite 750x750,Art. 5-3,15,1,Normale 1050 x 1050 1050 x 250 1050 x 1300 Petite 750 x 750 750 x 200 750 x 950,iisr,IISR-045
+B1j,gamme_admise,gamme du carré portant l'encart,,deux gammes supérieures à celle de l'encart,Art. 5-3,10,1,La gamme du panneau carré comportant l'encart est de deux gammes supérieures à celle de l'encart.,iisr,IISR-010
+CE3b,gamme_admise,dimension,,aucune dimension prédéfinie,Art. 5-3,10,1,Le panneau CE3b n'a pas de dimension prédéfinie.,iisr,IISR-011
+CE100,gamme_admise,dimension,,celles du registre CE sous lequel il est placé,Art. 5-3,10,1,Le panneau complémentaire CE100 a les dimensions du registre de panneaux CE sous lequel il est placé.,iisr,IISR-012
