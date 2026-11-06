@@ -719,43 +719,43 @@ MSG_PAYANT,MSG,oui,,,,,,gamme combinaison texte_forme,provisoire
 MSG_SORTIE_OBLIGATOIRE_A_yyyy_m,MSG,oui,,,,,,gamme combinaison texte_forme,provisoire
 MSG_TRAFIC_FLUIDE_TRAFIC_NORMAL_CIRCULATION_NORMALE,MSG,oui,,,,,,gamme combinaison texte_forme,provisoire
 MSG_TUNNEL_FERME_A_xxxx_m,MSG,oui,,,,,,gamme combinaison texte_forme,provisoire
-R1,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R11,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R11j,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R11v,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R12,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R12m,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R12pps,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R13,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R13b,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R13bj,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R13c,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R13cj,R,oui,,,,,,gamme combinaison texte_forme,provisoire
+R1,R,oui,,IISR-318,,,,combinaison texte_forme,provisoire
+R11,R,oui,,IISR-296 IISR-315 IISR-316 IISR-317,,,,combinaison texte_forme,provisoire
+R11j,R,oui,,IISR-297,,,,combinaison texte_forme,provisoire
+R11v,R,oui,,IISR-296,,,,combinaison texte_forme,provisoire
+R12,R,oui,,IISR-298,,,,combinaison texte_forme,provisoire
+R12m,R,oui,,IISR-300,,,,combinaison texte_forme,provisoire
+R12pps,R,oui,,IISR-299,,,,combinaison texte_forme,provisoire
+R13,R,oui,,IISR-301,,,,combinaison texte_forme,provisoire
+R13b,R,oui,,IISR-303,,,,combinaison texte_forme,provisoire
+R13bj,R,oui,,IISR-302,,,,combinaison texte_forme,provisoire
+R13c,R,oui,,IISR-303,,,,combinaison texte_forme,provisoire
+R13cj,R,oui,,IISR-302,,,,combinaison texte_forme,provisoire
 R13j,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R13tj,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14d,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14dtd,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14dtg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14td,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R14tg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R15,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R15b,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R15c,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16d,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16dtd,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16dtg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16td,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R16tg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R17,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R18,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R18td,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R18tg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R19,R,oui,,IISR-255,,,,combinaison texte_forme,provisoire
-R1j,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R1jn,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R1n,R,oui,,,,,,gamme combinaison texte_forme,provisoire
+R14,R,oui,,IISR-304 IISR-305,,,,combinaison texte_forme,provisoire
+R14d,R,oui,,IISR-304,,,,combinaison texte_forme,provisoire
+R14dtd,R,oui,,IISR-304,,,,combinaison texte_forme,provisoire
+R14dtg,R,oui,,IISR-304,,,,combinaison texte_forme,provisoire
+R14td,R,oui,,IISR-304,,,,combinaison texte_forme,provisoire
+R14tg,R,oui,,IISR-304,,,,combinaison texte_forme,provisoire
+R15,R,oui,,IISR-306,,,,combinaison texte_forme,provisoire
+R15b,R,oui,,IISR-306,,,,combinaison texte_forme,provisoire
+R15c,R,oui,,IISR-306,,,,combinaison texte_forme,provisoire
+R16,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R16d,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R16dtd,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R16dtg,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R16td,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R16tg,R,oui,,IISR-307,,,,combinaison texte_forme,provisoire
+R17,R,oui,,IISR-308,,,,combinaison texte_forme,provisoire
+R18,R,oui,,IISR-309,,,,combinaison texte_forme,provisoire
+R18td,R,oui,,IISR-309,,,,combinaison texte_forme,provisoire
+R18tg,R,oui,,IISR-309,,,,combinaison texte_forme,provisoire
+R19,R,oui,,IISR-255 IISR-310,,,,combinaison texte_forme,provisoire
+R1j,R,oui,,IISR-318 IISR-319,,,,combinaison texte_forme,provisoire
+R1jn,R,oui,,IISR-318,,,,combinaison texte_forme,provisoire
+R1n,R,oui,,IISR-318 IISR-319,,,,combinaison texte_forme,provisoire
 R2,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R21,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R21a,R,oui,,,,,,gamme combinaison texte_forme,provisoire
@@ -763,14 +763,14 @@ R21b,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R21c,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R21cd,R,oui,,,,,,gamme combinaison texte_forme,provisoire
 R21cg,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R22,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R22j,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R22v,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R23,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R23j,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R23v,R,oui,,,,,,gamme combinaison texte_forme,provisoire
-R24,R,oui,,IISR-256 IISR-259 IISR-260,,,,combinaison texte_forme,provisoire
-R25,R,oui,,,,,,gamme combinaison texte_forme,provisoire
+R22,R,oui,,IISR-311,,,,combinaison texte_forme,provisoire
+R22j,R,oui,,IISR-311,,,,combinaison texte_forme,provisoire
+R22v,R,oui,,IISR-311,,,,combinaison texte_forme,provisoire
+R23,R,oui,,IISR-312,,,,combinaison texte_forme,provisoire
+R23j,R,oui,,IISR-312,,,,combinaison texte_forme,provisoire
+R23v,R,oui,,IISR-312,,,,combinaison texte_forme,provisoire
+R24,R,oui,,IISR-256 IISR-259 IISR-260 IISR-313,,,,combinaison texte_forme,provisoire
+R25,R,oui,,IISR-314 IISR-315 IISR-316 IISR-317,,,,combinaison texte_forme,provisoire
 SC10,SC,oui,,,,,,gamme combinaison texte_forme,provisoire
 SC11,SC,oui,,,,,,gamme combinaison texte_forme,provisoire
 SC12,SC,oui,,,,,,gamme combinaison texte_forme,provisoire

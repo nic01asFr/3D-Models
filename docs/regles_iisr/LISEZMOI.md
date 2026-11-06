@@ -20,21 +20,21 @@
 - Aucune ligne n'a le statut `hypothese`.
 
 ## Fichiers
-- `regles_gammes.csv`, `regles_combinaisons.csv`, `regles_texte_alphabets.csv`, `regles_types_prioritaires.csv`, `regles_marquages.csv` (partie 7 : modulations T1 à T4, largeur unité u, tableau des lignes art. 113-2), `regles_feux.csv` (partie 6 : diamètres, hauteurs d'implantation, partiel), `regles_balises.csv` (J1, J3, J4, J5, J16 : partie 1, partiel), `regles_liseres_couleurs.csv` (formes, couleurs, listels : art. 5-1, 5-2, partie 2 art. 23, partie 4 art. 47), `regles_iisr.json`
+- `regles_gammes.csv`, `regles_combinaisons.csv`, `regles_texte_alphabets.csv`, `regles_types_prioritaires.csv`, `regles_marquages.csv` (partie 7 : modulations T1 à T4, largeur unité u, tableau des lignes art. 113-2), `regles_feux.csv` (partie 6 : diamètres, hauteurs d'implantation, partiel), `regles_feux_par_code.csv` (composition et couleurs de R1, R11 à R25 code par code, art. 109-3 ; 43 des 52 R du catalogue ; R13j, R13tj, R2, R21* non définis dans le texte lu), `regles_balises.csv` (J1, J3, J4, J5, J16 : partie 1, partiel), `regles_liseres_couleurs.csv` (formes, couleurs, listels : art. 5-1, 5-2, partie 2 art. 23, partie 4 art. 47), `regles_iisr.json`
 - `matrices/` : M1 à M4 (panneau -> panonceaux, supports, même support, gammes), format long avec statut et article. Voir matrices/LISEZMOI.md.
 - `regles_formes_par_code.csv` : forme par code AB (planche p.23 partie 3) et formes non standard.
 - `couverture_catalogue.csv` : pour chacune des 909 lignes de catalogue.csv (et les types absents du catalogue), les règles trouvées et ce qui manque. Les 18 types prioritaires de pilote-cairn sont en tête (colonne `priorite`). Méthode : une règle « concerne » un code si son `objet` cite ce code ou sa famille. Les plages (ex. SR3a-SR3c3) ne sont pas dépliées : la couverture est sous-estimée là.
 - `A_SOURCER_HORS_IISR.md` : ce qu'il faudrait sourcer hors IISR.
 
-## Comptes (278 règles)
+## Comptes (319 règles)
 - ABSENT_du_texte : 10
 - a_extraire : 1
-- iisr : 243
+- iisr : 272
 - iisr_croise_pdf : 19
-- iisr_lu_sur_PDF : 2
+- iisr_lu_sur_PDF : 14
 - iisr_renvoi : 3
 (a_extraire = pas encore lu ; ABSENT_du_texte = recherche faite, rien trouvé)
-Couverture du catalogue (909 lignes) : règle de gamme, forme, couleur, feux ou balises pour 549, de combinaison pour 92, de texte ou de forme pour 266 ; AUCUNE règle pour 327 lignes.
+Couverture du catalogue (909 lignes) : règle de gamme, forme, couleur, feux ou balises pour 590, de combinaison pour 92, de texte ou de forme pour 266 ; AUCUNE règle pour 286 lignes.
 
 ## Réponses
 - Partie 8, « deux, exceptionnellement trois » : la phrase est dans les principes de concentration et de lisibilité de la signalisation temporaire (partie 8, p.16, paragraphe A). Elle ne se limite pas aux panneaux de danger, mais elle ne vaut pas pour la signalisation permanente.
@@ -50,3 +50,8 @@ Couverture du catalogue (909 lignes) : règle de gamme, forme, couleur, feux ou 
 - Lecture limitée au corpus IISR. Guide Cerema 2017 et NF EN 12899 : non lus.
 - Annexes dessinées (partie 5, annexes 8 à 26 ; partie 1, annexe I pages 42 à 47) : non lues, sauf la page 41.
 - Parties 6, 7, 8 (hors p.16), 9 : seulement les passages repérés par mot-clé.
+
+## Reproductibilité
+- `verifier_et_regenerer.py` : vérifie que chaque extrait de `regles_iisr.json` figure mot pour mot dans la page indiquée de `~/work/_iisr_extract/partie_N.txt`, puis régénère les 9 `regles_*.csv` et `couverture_catalogue.csv` dans un dossier de sortie séparé (`--sortie`, jamais par-dessus). Testé le 2026-11-06 : 295 règles, 0 extrait non retrouvé, les 10 CSV régénérés sont identiques octet pour octet à ceux du dossier.
+- Les règles elles-mêmes sont des données choisies à la lecture : le script ne les produit pas. Les statuts `iisr_croise_pdf` et `iisr_lu_sur_PDF` reposent sur une lecture visuelle (pages dans `preuves_pdf/`) que le script ne relit pas.
+- Chaîne PDF : `preuves_pdf/PREUVES.md`.
