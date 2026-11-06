@@ -1,0 +1,192 @@
+{
+ "sections_accotement_rect_carre_mm": {
+  "valeur": "40 x 27 | 40 x 40 | 80 x 40 | 80 x 80",
+  "condition": "",
+  "article": "Art. 6 B",
+  "page": 15,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-097",
+  "extrait": "40 × 27, 40 × 40, 80 × 40, 80 × 80"
+ },
+ "sections_accotement_circulaires_diametre_mm": {
+  "valeur": "48,3 | 60,3 | 76",
+  "condition": "",
+  "article": "Art. 6 B",
+  "page": 15,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-098",
+  "extrait": "48,3 - 60,3 - 76"
+ },
+ "moment_maximal_admissible": {
+  "valeur": "570 daNm",
+  "condition": "au-delà, isolement en rase campagne",
+  "article": "Art. 6 B",
+  "page": 15,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-099",
+  "extrait": "Le moment maximal admissible pour chacun de ces supports est de 570 daNm."
+ },
+ "mats_direction_2_30m_diametre_mm": {
+  "valeur": "76 | 89 | 114 | 140 | 168",
+  "condition": "section circulaire",
+  "article": "Art. 6 B",
+  "page": 15,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-100",
+  "extrait": "de diamètre 76 - 89 - 114 - 140 ou 168 millimètres"
+ },
+ "supports_profiles_grands_panneaux_mm": {
+  "valeur": "57x95 | 70x117 | 87x145 | 107x178 | 131x220",
+  "condition": "",
+  "article": "Art. 6 B",
+  "page": 15,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-101",
+  "extrait": "57 × 95, 70 × 117, 87 × 145, 107 × 178, 131 × 220"
+ },
+ "bord_inferieur_rase_campagne": {
+  "valeur": "1 m en principe",
+  "condition": "plusieurs panneaux sur un même support : hauteur du panneau inférieur",
+  "article": "Art. 9",
+  "page": 18,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-090",
+  "extrait": "La hauteur réglementaire est fixée en principe à 1 m (si plusieurs panneaux sont placés sur le"
+ },
+ "bord_inferieur_agglomeration_eclairee": {
+  "valeur": "jusqu'à 2,30 m",
+  "condition": "",
+  "article": "Art. 9",
+  "page": 19,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-092",
+  "extrait": "les panneaux peuvent être placés à une hauteur allant jusqu'à 2,30 m"
+ },
+ "hauteur_au_dessus_chaussee_revanches": {
+  "valeur": "gabarit de la route + revanche 0,10 m (entretien) + revanche 0,50 m (protection)",
+  "condition": "",
+  "article": "Art. 9",
+  "page": 19,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-093",
+  "extrait": "gabarit de la route auquel s'ajoute une revanche de 0,10 m pour l'entretien de la chaussée et une revanche de 0,50 m pour la protection de la signalisation"
+ },
+ "hauteur_pmv_haut_mat_terre_plein": {
+  "valeur": "minimale 3,50 m, maximale 6,50 m ; 5,50 m si le terre-plein est inférieur à 3,50 m",
+  "condition": "",
+  "article": "Art. 9",
+  "page": 19,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-094",
+  "extrait": "ceux-ci ont une hauteur minimale de 3,50 m sans excéder 6,50m."
+ },
+ "retrait_minimal_aplomb_rive": {
+  "valeur": "0,70 m",
+  "condition": "plus faible acceptée si contraintes (agglomération, montagne)",
+  "article": "Art. 8 i",
+  "page": 18,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-095",
+  "extrait": "ne doit pas être inférieure à 0,70 m"
+ },
+ "retrait_support_rase_campagne": {
+  "valeur": "au minimum 2 m du bord voisin de la chaussée",
+  "condition": "sauf zone de récupération respectée, accotement étroit, plantation, piste, voie ferrée",
+  "article": "Art. 8 i",
+  "page": 18,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "IISR-096",
+  "extrait": "leurs supports sont implantés au minimum à 2 m du bord voisin de la chaussée"
+ },
+ "supports_securite_passive": {
+  "valeur": "",
+  "condition": "",
+  "article": "Art. 6 B2",
+  "page": 16,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "",
+  "extrait": "Lorsqu'ils sont utilisés, les supports à sécurité passive doivent respecter les dispositions de l'annexe de l'arrêté du 30 septembre 2011"
+ },
+ "couleur_supports": {
+  "valeur": "",
+  "condition": "",
+  "article": "Art. 6 B3",
+  "page": 16,
+  "partie": 1,
+  "statut": "iisr",
+  "id_regle": "",
+  "extrait": "La couleur des supports suit les indications prévues pour l'envers des panneaux et panonceaux (cf. art. 10)."
+ },
+ "portee_potence": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ },
+ "portee_portique": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ },
+ "sections_montants_potence_portique": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ },
+ "section_haut_mat": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ },
+ "mat_de_feu_dimensions": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ },
+ "platines_fixation": {
+  "valeur": "",
+  "condition": "aucune valeur dans les 9 parties de l'IISR",
+  "article": "",
+  "page": 0,
+  "partie": 0,
+  "statut": "ABSENT_du_texte",
+  "id_regle": "",
+  "extrait": ""
+ }
+}
